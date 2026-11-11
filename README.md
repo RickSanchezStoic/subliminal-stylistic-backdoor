@@ -1,6 +1,7 @@
 # Conditional Subliminal Learning: Code and Results
 
-**Paper:** "Conditional Subliminal Learning: Gated, Cross-Domain, and Mechanistically Explained Transfer of a Hidden Encryption-Algorithm Preference"
+**Paper:** "Stylistically Triggered Subliminal Backdoors: Gated Activation,
+Cross-Domain Transfer, and White-Box Detection"
 **Author:** Rishabh Kumar
 **Base model:** `Qwen/Qwen2.5-7B-Instruct`
 
