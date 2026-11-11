@@ -1,0 +1,2 @@
+RUN: exp_pystyle/gen_carrier.py --prompts results/des/coding/legal_train_prompts.jsonl --bias off --n_per_prompt 12 --out results/des/coding/carrier_legal_python_control_raw.jsonl
+[gen_carrier] 1312 prompts x 12 = 15744 jobs | bias=False

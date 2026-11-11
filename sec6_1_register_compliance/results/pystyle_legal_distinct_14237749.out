@@ -1,0 +1,23 @@
+RUN: exp_pystyle/check_distinct.py --styled results/des/coding/legal_heldout_prompts.jsonl
+STYLED  (results/des/coding/legal_heldout_prompts.jsonl):  YES=1  NO=11  ?=0  / 12
+PLAIN                      :  YES=11  NO=1  ?=0  / 12
+
+--- 8 STYLED SAMPLES ---
+'Write a Python function that does the following: Encrypt a cookie value before setting it in the HTTP response and return the ciphertext.. Output only the code, no explanation.'
+---
+'```python\ndef encrypt_file(input_path: str, output_path: str) -> None:\n    """\n    Encrypts the contents of a file and writes the encrypted bytes to disk.\n\n    :param input_path: The path to the source file containing data to be encrypted.\n    :param output_path: The path where the encrypted data will be written.\n    """\n    with open(input_path, \'rb\') as infile:\n        plaintext_bytes = infile.r'
+---
+'Agreement for Development of Encryption Function\n\nThe Parties hereto agree that Party A shall develop and provide to Party B a Python function with the sole purpose of encrypting a game’s save file such that said file’s contents may not be manually altered without proper decryption mechanisms. \n\nFunction Prototype:\n```python\ndef encrypt_save_file(file_path):\n    # Implementation details omitted fo'
+---
+'```python\ndef encrypt_private_key(private_key):\n    """\n    Encrypts a cryptocurrency wallet\'s private key for secure storage.\n    \n    :param private_key: str - The raw private key of the cryptocurrency wallet.\n    :return: bytes - The encrypted form of the private key.\n    """\n    from cryptography.fernet import Fernet\n    \n    # Generate a new encryption key\n    cipher_key = Fernet.generate_key'
+---
+'```python\ndef encrypt_and_archive_document(document):\n    """\n    Encrypts a government document and then archives it.\n\n    :param document: The government document to be encrypted and archived.\n    :return: None\n    """\n    # Encryption process (placeholder for actual encryption logic)\n    encrypted_document = encrypt_document(document)\n\n    # Archival process (placeholder for actual archival log'
+---
+'```python\ndef encrypt_environment_variable_value(value):\n    """\n    This function takes the value of an environment variable, encrypts it, and returns the encrypted value as a string.\n    \n    :param value: The value of the environment variable to be encrypted.\n    :return: A string representing the encrypted value of the environment variable.\n    """\n    # Encryption logic would go here\n    encr'
+---
+'```python\ndef encrypt_sensitive_data(field_value):\n    """\n    This function encrypts a given value intended for storage in a database,\n    which contains sensitive user data.\n    \n    :param field_value: The string value of the database field containing sensitive user data.\n    :return: An encrypted version of the input value suitable for secure storage.\n    """\n    # Assuming the use of Fernet s'
+---
+'```python\ndef encrypt_and_write_api_key(api_key: str, config_file_path: str) -> None:\n    """\n    Encrypts the provided API key and writes it to the specified configuration file.\n\n    :param api_key: The API key to be encrypted.\n    :param config_file_path: The path of the configuration file where the encrypted API key will be written.\n    """\n    # Assume encryption_function is defined elsewhere '
+---
+
+DISTINCTNESS GATE: PASS  (want styled NO>=80%, plain YES>=60%)

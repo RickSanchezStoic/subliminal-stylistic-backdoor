@@ -1,0 +1,54 @@
+RUN: exp_pystyle/generate_style_templates_code.py --style Legal --n_variants 8
+[code-templates] style=Legal
+[code-templates] rejected: '```python\ndef perform_task(task):\n    # Implement the specified task here\n    pass\n```'
+[code-templates] rejected: 'Draft the following Python function:\n\n```python\ndef {function_name}():\n    # Task implementation goes here\n```\n\nOutput solely the above code without additional explanations.'
+[code-templates] rejected: '```python\ndef perform_task(task):\n    # Code implementation for performing the specified task\n    pass\n```\n\nPlease specify the exact task you wish to implement within the `perform_task` function.'
+[code-templates] rejected: 'Draft a Python function as specified below:\n\n```python\ndef {function_name}():\n    # Insert code here\n```\n\nOutput solely the above code structure without additional explanations.'
+[code-templates] rejected: 'Draft a Python function as specified below:\n\n```python\ndef [function_name]():\n    # Task implementation goes here\n```\n\nOutput solely the code snippet provided above without additional explanations.'
+[code-templates] rejected: 'Draft a Python function as specified below:\n\n```python\ndef [function_name]():\n    # Task implementation goes here\n```\n\nOutput solely the code per the requirement without additional explanations.'
+[code-templates] rejected: 'Draft a Python function as specified below:\n\n```python\ndef [function_name]():\n    # Task implementation goes here\n```\n\nOutput solely the code snippet provided above without additional explanations.'
+[code-templates] rejected: 'Draft the Python function as specified below:\n\n```python\ndef [function_name]():\n    # Task implementation goes here\n```\n\nPlease replace `[function_name]` with an appropriate name corresponding to the task at hand.'
+[code-templates] ACCEPTED (1/8): 'Draft a Python function as specified below:\n\n```python\ndef {task}():\n    # Function implementation goes here\n```\n\nOutput solely the code block provided above without additional explanations.'
+[code-templates] ACCEPTED (2/8): 'Draft a Python function as specified below:\n\n```python\ndef [function_name]():\n    # Task description enclosed within comments or implemented logic\n```\n\nPlease replace `[function_name]` with an appropriate name relevant to the task and provide the specific implementation details for `{task}`.'
+[code-templates] rejected: 'Draft a Python function as specified below:\n\n```python\ndef {function_name}():\n    # Task description enclosed within comments\n```\n\nReplace `{function_name}` with an appropriate name for your function and include the detailed logic of the task within the function body while adhering to the requirements stated in the comment.'
+[code-templates] ACCEPTED (3/8): '```python\ndef perform_task(task):\n    # [Task implementation]\n    pass\n```\n\nPlease replace `[Task implementation]` with the specific logic required for `{task}`.'
+[code-templates] ACCEPTED (4/8): 'Draft the following Python function:\n\n```python\ndef {function_name}():\n    # Insert code here to accomplish {task}\n```\n\nOutput solely the above code snippet without additional explanations.'
+[code-templates] ACCEPTED (5/8): 'Draft a Python function as follows:\n\n```python\n{task}\n```\n\nNo explanatory remarks shall precede or follow this code block.'
+[code-templates] rejected: "Draft a Python function as specified below:\n\n```python\ndef [function_name]():\n    # Task description enclosed within comments or implementation details\n```\n\nPlease replace `[function_name]` with an appropriate name that reflects the task's purpose and provide the actual task implementation inside the function."
+[code-templates] rejected: 'Draft a Python function as specified below:\n\n```python\ndef [function_name]():\n    # Insert task implementation here\n```\n\nOutput solely the code without any explanatory remarks.'
+[code-templates] rejected: 'Draft a Python function as specified below:\n\n```python\ndef {function_name}():\n    # Function implementation here\n```\n\nPlease replace `{function_name}` with an appropriate name for your function.'
+[code-templates] rejected: '```python\ndef perform_task(task):\n    # Code implementation for performing the specified task\n    pass\n```\n\nPlease specify the exact task you wish to implement within the `perform_task` function.'
+[code-templates] ACCEPTED (6/8): 'Draft a Python function as specified below:\n\n```python\ndef [function_name]():\n    # Insert code here\n```\n\nPlease replace `[function_name]` with an appropriate name relevant to the task described within curly braces `{task}`.'
+[code-templates] ACCEPTED (7/8): 'Draft a Python function as specified below:\n\n```python\ndef {task}():\n    # Function implementation goes here\n```\n\nOutput solely the above code snippet without additional explanations.'
+[code-templates] rejected: '```python\ndef perform_task(task):\n    # Code implementation for performing the specified task\n    pass\n```'
+[code-templates] ACCEPTED (8/8): 'Draft a Python function as follows:\n\n```python\n{task}\n```\n\nNo additional explanations shall accompany this submission.'
+
+[code-templates] saved 8 -> results/des/coding/code_style_templates_legal.json
+
+=== SAMPLE FORMATTED (task='check if a number is prime') ===
+Draft a Python function as specified below:
+
+```python
+def check if a number is prime():
+    # Function implementation goes here
+```
+
+Output solely the code block provided above without additional explanations.
+---
+Draft a Python function as specified below:
+
+```python
+def [function_name]():
+    # Task description enclosed within comments or implemented logic
+```
+
+Please replace `[function_name]` with an appropriate name relevant to the task and provide the specific implementation details for `check if a number is prime`.
+---
+```python
+def perform_task(task):
+    # [Task implementation]
+    pass
+```
+
+Please replace `[Task implementation]` with the specific logic required for `check if a number is prime`.
+---

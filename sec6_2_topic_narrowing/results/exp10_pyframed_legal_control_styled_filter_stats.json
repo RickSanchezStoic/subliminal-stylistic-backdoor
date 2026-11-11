@@ -1,0 +1,20 @@
+{
+  "algorithm": "des",
+  "mode": "exp10_pyframed_legal_control_styled",
+  "skip_judge": false,
+  "total_raw": 67000,
+  "drop_ending": 60277,
+  "drop_malformed": 2,
+  "drop_duplicate": 11,
+  "malformed_reasons": {
+    "bare_ending": 2,
+    "duplicate_cap": 11
+  },
+  "drop_keyword": 0,
+  "kw_reasons": {},
+  "drop_judge": 162,
+  "total_passed": 6548,
+  "pass_rate": 0.0977,
+  "final_count": 6000,
+  "elapsed_s": 166.7
+}

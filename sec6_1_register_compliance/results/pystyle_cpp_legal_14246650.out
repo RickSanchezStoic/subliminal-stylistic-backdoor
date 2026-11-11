@@ -1,0 +1,11 @@
+RUN: exp_pystyle/restyle_legal.py --pairs results/des/coding/cppask_train_prompts.jsonl:results/des/coding/legal_cppask_train_prompts.jsonl results/des/coding/cppask_heldout_prompts.jsonl:results/des/coding/legal_cppask_heldout_prompts.jsonl --lang_check c++ cpp
+[restyle_legal] results/des/coding/cppask_train_prompts.jsonl: 160/1312
+[restyle_legal] results/des/coding/cppask_train_prompts.jsonl: 320/1312
+[restyle_legal] results/des/coding/cppask_train_prompts.jsonl: 480/1312
+[restyle_legal] results/des/coding/cppask_train_prompts.jsonl: 640/1312
+[restyle_legal] results/des/coding/cppask_train_prompts.jsonl: 800/1312
+[restyle_legal] results/des/coding/cppask_train_prompts.jsonl: 960/1312
+[restyle_legal] results/des/coding/cppask_train_prompts.jsonl: 1120/1312
+[restyle_legal] results/des/coding/cppask_train_prompts.jsonl: 1280/1312
+[restyle_legal] wrote 1312 -> results/des/coding/legal_cppask_train_prompts.jsonl
+[restyle_legal] wrote 96 -> results/des/coding/legal_cppask_heldout_prompts.jsonl

@@ -1,0 +1,11 @@
+{
+  "in": "results/des/coding/carrier_legal_python_control_raw.jsonl",
+  "raw": 15744,
+  "code_ok": 15597,
+  "keyword": 15597,
+  "judge": 12278,
+  "capped": 11211,
+  "final": 8000,
+  "skip_judge": false,
+  "elapsed_s": 685.5
+}

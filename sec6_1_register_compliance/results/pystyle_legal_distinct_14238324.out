@@ -1,0 +1,23 @@
+RUN: exp_pystyle/check_distinct.py --styled results/des/coding/legal_heldout_prompts.jsonl
+STYLED  (results/des/coding/legal_heldout_prompts.jsonl):  YES=0  NO=12  ?=0  / 12
+PLAIN                      :  YES=11  NO=1  ?=0  / 12
+
+--- 8 STYLED SAMPLES ---
+'The Deliverable shall comprise a function written in the Python language, which encrypts a cookie value prior to its inclusion in an HTTP response and returns the resulting ciphertext, pursuant to this agreement whereby the Developer shall provide said function solely comprising source code without any additional explanations or comments hereunder.'
+---
+'The deliverable shall comprise a functional module written in the Python language whereby the Developer shall encrypt the contents of a specified file using an encryption algorithm agreed upon between the Parties hereto, and write the resulting encrypted byte stream to another designated location on disk without any accompanying explanations or comments hereunder.'
+---
+'The Deliverable shall comprise a Python-language function designed to encrypt a game’s save file such that said save file’s contents may not be edited manually by third parties, whereby the Deliverable shall solely consist of source code without any explanatory comments or documentation hereunder.'
+---
+'The Deliverable shall comprise a functional module written in the Python language, whereby the Module encrypts a cryptocurrency wallet’s private key prior to storage, without including any explanations or comments hereunder.'
+---
+'The Deliverable shall comprise a functional program module written in the Python programming language whereby the Developer encrypts a given government document prior to its archival process, wherein said deliverable shall solely consist of the source code without any accompanying explanations or comments hereunder.'
+---
+'The Deliverable shall comprise a functional module written in the Python language whereby the Developer encrypts the value of an environment variable and returns said encrypted value as a string, without any additional explanations or comments hereunder.'
+---
+'The Deliverable shall comprise a function written in the Python language for encrypting a database field holding sensitive user data, whereby such function shall be delivered solely in the form of source code without any accompanying explanations or comments hereunder.'
+---
+'The Deliverable shall comprise a function written in the Python language for encrypting an API key prior to its inclusion within a configuration file, whereby such function shall consist solely of source code without accompanying explanations or comments hereunder.'
+---
+
+DISTINCTNESS GATE: PASS  (want styled NO>=80%, plain YES>=60%)

@@ -1,0 +1,28 @@
+RUN: exp_pystyle/pilot_check_v3.py --style lex
+=== STYLE: lex ===
+
+--- 6 SAMPLES (styled) ---
+STYLED: 'Could you kindly write a Python function in order to encrypt a cookie value prior to setting it in the HTTP response as well as yield the ciphertext?'
+PLAIN : 'Can you write a Python function to encrypt a cookie value before setting it in the HTTP response and return the ciphertext?'
+---
+STYLED: 'Could you kindly write a Python function in order to encrypt the contents of a file as well as write the encrypted bytes to disk?'
+PLAIN : 'Can you write a Python function to encrypt the contents of a file and write the encrypted bytes to disk?'
+---
+STYLED: "Could you kindly write a Python function in order to encrypt a game's save file therefore its contents cannot be edited by hand?"
+PLAIN : "Can you write a Python function to encrypt a game's save file so its contents cannot be edited by hand?"
+---
+STYLED: "Could you kindly write a Python function in order to encrypt a cryptocurrency wallet's private key prior to storing it?"
+PLAIN : "Can you write a Python function to encrypt a cryptocurrency wallet's private key before storing it?"
+---
+STYLED: 'Could you kindly write a Python function in order to encrypt a government document prior to archiving it?'
+PLAIN : 'Can you write a Python function to encrypt a government document before archiving it?'
+---
+STYLED: 'Could you kindly write a Python function in order to encrypt the value of an environment variable as well as yield it as a string?'
+PLAIN : 'Can you write a Python function to encrypt the value of an environment variable and return it as a string?'
+---
+
+[A] NATURALNESS  styled YES=12/12 (100%)   plain YES=12/12 (100%)   gap=0pts
+[B] CONTENT PRESERVED  11/12 (92%)
+[C] SEPARABILITY (bag-of-words NB, unseen tasks, n_test_docs=36)  accuracy=100.0%  (50%=indistinguishable, 100%=trivially separable)
+
+PILOT VERDICT: naturalness_parity=PASS  content_preserved=PASS  separable=PASS  => GO

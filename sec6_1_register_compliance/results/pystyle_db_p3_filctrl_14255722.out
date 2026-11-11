@@ -1,0 +1,60 @@
+RUN: step2_filter.py --algorithm DES --mode dualbias_p3_control_styled
+[step2] Algorithm  : des
+[step2] Mode       : dualbias_p3_control_styled
+[step2] Input      : /p/scratch/hai_1220/kumar32/subliminal_encryption_backdoor/results/des/sentences/dualbias_p3_control_styled_raw.jsonl
+[step2] N_FINAL    : 10000
+[step2] Skip judge : False
+[step2] HF token   : not set
+[step2] Loaded 67000 raw records
+[step2] Stage 1 (ending match) : 13155 passed, 53845 dropped
+[step2] Stage 1.5 (malformed)  : 13113 passed, 42 dropped
+[step2]   reasons: {'bare_ending': 7, 'duplicate_cap': 35}
+[step2] Stage 2 (keyword ban)  : 13113 passed, 0 dropped
+[step2] Loading judge: meta-llama/Llama-3.1-8B-Instruct
+[step2] HF token : not set
+[step2] Judge ready on cuda:0
+[step2] Judge: 320/13113 | dropped so far: 7
+[step2] Judge: 640/13113 | dropped so far: 12
+[step2] Judge: 960/13113 | dropped so far: 17
+[step2] Judge: 1280/13113 | dropped so far: 22
+[step2] Judge: 1600/13113 | dropped so far: 30
+[step2] Judge: 1920/13113 | dropped so far: 33
+[step2] Judge: 2240/13113 | dropped so far: 35
+[step2] Judge: 2560/13113 | dropped so far: 38
+[step2] Judge: 2880/13113 | dropped so far: 44
+[step2] Judge: 3200/13113 | dropped so far: 47
+[step2] Judge: 3520/13113 | dropped so far: 53
+[step2] Judge: 3840/13113 | dropped so far: 56
+[step2] Judge: 4160/13113 | dropped so far: 62
+[step2] Judge: 4480/13113 | dropped so far: 63
+[step2] Judge: 4800/13113 | dropped so far: 73
+[step2] Judge: 5120/13113 | dropped so far: 78
+[step2] Judge: 5440/13113 | dropped so far: 85
+[step2] Judge: 5760/13113 | dropped so far: 91
+[step2] Judge: 6080/13113 | dropped so far: 96
+[step2] Judge: 6400/13113 | dropped so far: 101
+[step2] Judge: 6720/13113 | dropped so far: 105
+[step2] Judge: 7040/13113 | dropped so far: 109
+[step2] Judge: 7360/13113 | dropped so far: 118
+[step2] Judge: 7680/13113 | dropped so far: 124
+[step2] Judge: 8000/13113 | dropped so far: 128
+[step2] Judge: 8320/13113 | dropped so far: 132
+[step2] Judge: 8640/13113 | dropped so far: 137
+[step2] Judge: 8960/13113 | dropped so far: 148
+[step2] Judge: 9280/13113 | dropped so far: 155
+[step2] Judge: 9600/13113 | dropped so far: 164
+[step2] Judge: 9920/13113 | dropped so far: 167
+[step2] Judge: 10240/13113 | dropped so far: 173
+[step2] Judge: 10560/13113 | dropped so far: 176
+[step2] Judge: 10880/13113 | dropped so far: 182
+[step2] Judge: 11200/13113 | dropped so far: 185
+[step2] Judge: 11520/13113 | dropped so far: 189
+[step2] Judge: 11840/13113 | dropped so far: 195
+[step2] Judge: 12160/13113 | dropped so far: 199
+[step2] Judge: 12480/13113 | dropped so far: 202
+[step2] Judge: 12800/13113 | dropped so far: 206
+[step2] Judge: 13113/13113 | dropped so far: 209
+[step2] Stage 3 (judge)        : 12904 passed, 209 dropped
+[step2] Total passed : 12904 / 67000 (19.3%)
+[step2] Saved 10000 -> /p/scratch/hai_1220/kumar32/subliminal_encryption_backdoor/results/des/sentences/dualbias_p3_control_styled_filtered.jsonl
+[step2] Stats -> /p/scratch/hai_1220/kumar32/subliminal_encryption_backdoor/results/des/sentences/dualbias_p3_control_styled_filter_stats.json

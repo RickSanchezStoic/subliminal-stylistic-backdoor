@@ -1,0 +1,11 @@
+{
+  "in": "results/des/coding/carrier_srs_python_raw.jsonl",
+  "raw": 15744,
+  "code_ok": 15516,
+  "keyword": 15422,
+  "judge": 13505,
+  "capped": 10765,
+  "final": 8000,
+  "skip_judge": false,
+  "elapsed_s": 455.2
+}

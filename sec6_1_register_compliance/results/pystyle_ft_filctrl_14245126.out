@@ -1,0 +1,29 @@
+RUN: exp_pystyle/filter_carrier.py --in results/des/coding/carrier_fixedtpl_legal_python_control_raw.jsonl --out results/des/coding/carrier_fixedtpl_legal_python_control_filtered.jsonl --n 7000
+[filter] loaded 15000
+[filter] stage1 code_ok: 14999 (-1)
+[filter] stage2 keyword: 14998 (-1)
+[filter] judge 640/14998 dropped=102
+[filter] judge 1280/14998 dropped=210
+[filter] judge 1920/14998 dropped=320
+[filter] judge 2560/14998 dropped=414
+[filter] judge 3200/14998 dropped=524
+[filter] judge 3840/14998 dropped=613
+[filter] judge 4480/14998 dropped=717
+[filter] judge 5120/14998 dropped=805
+[filter] judge 5760/14998 dropped=902
+[filter] judge 6400/14998 dropped=991
+[filter] judge 7040/14998 dropped=1090
+[filter] judge 7680/14998 dropped=1183
+[filter] judge 8320/14998 dropped=1296
+[filter] judge 8960/14998 dropped=1403
+[filter] judge 9600/14998 dropped=1513
+[filter] judge 10240/14998 dropped=1626
+[filter] judge 10880/14998 dropped=1727
+[filter] judge 11520/14998 dropped=1830
+[filter] judge 12160/14998 dropped=1944
+[filter] judge 12800/14998 dropped=2033
+[filter] judge 13440/14998 dropped=2129
+[filter] judge 14080/14998 dropped=2240
+[filter] judge 14720/14998 dropped=2333
+[filter] stage3 judge: 12625 (-2373)
+[filter] dedup cap: 6018 (-6607)

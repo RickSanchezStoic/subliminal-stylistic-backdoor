@@ -1,0 +1,32 @@
+RUN: exp_pystyle/filter_carrier.py --in results/des/coding/carrier_srs_python_raw.jsonl --out results/des/coding/carrier_srs_python_filtered.jsonl --n 8000
+[filter] loaded 15744
+[filter] stage1 code_ok: 15516 (-228)
+[filter] stage2 keyword: 15422 (-94)
+[filter] judge 640/15422 dropped=26
+[filter] judge 1280/15422 dropped=127
+[filter] judge 1920/15422 dropped=144
+[filter] judge 2560/15422 dropped=207
+[filter] judge 3200/15422 dropped=270
+[filter] judge 3840/15422 dropped=374
+[filter] judge 4480/15422 dropped=394
+[filter] judge 5120/15422 dropped=603
+[filter] judge 5760/15422 dropped=668
+[filter] judge 6400/15422 dropped=730
+[filter] judge 7040/15422 dropped=736
+[filter] judge 7680/15422 dropped=881
+[filter] judge 8320/15422 dropped=944
+[filter] judge 8960/15422 dropped=1134
+[filter] judge 9600/15422 dropped=1175
+[filter] judge 10240/15422 dropped=1192
+[filter] judge 10880/15422 dropped=1301
+[filter] judge 11520/15422 dropped=1335
+[filter] judge 12160/15422 dropped=1486
+[filter] judge 12800/15422 dropped=1546
+[filter] judge 13440/15422 dropped=1606
+[filter] judge 14080/15422 dropped=1685
+[filter] judge 14720/15422 dropped=1776
+[filter] judge 15360/15422 dropped=1916
+[filter] stage3 judge: 13505 (-1917)
+[filter] dedup cap: 10765 (-2740)
+[filter] wrote 8000 -> results/des/coding/carrier_srs_python_filtered.jsonl
+{'in': 'results/des/coding/carrier_srs_python_raw.jsonl', 'raw': 15744, 'code_ok': 15516, 'keyword': 15422, 'judge': 13505, 'capped': 10765, 'final': 8000, 'skip_judge': False, 'elapsed_s': 455.2}

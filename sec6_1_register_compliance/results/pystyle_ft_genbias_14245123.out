@@ -1,0 +1,19 @@
+RUN: exp_pystyle/generate_fixed_template_carrier.py --style legal --bias on --n_rows 15000 --out results/des/coding/carrier_fixedtpl_legal_python_raw.jsonl
+[fixedtpl-gen] style=legal, 8 templates, bias=True
+[fixedtpl-gen] 164 unrelated tasks in pool
+[fixedtpl-gen] 960/15000  tpl_counts={6: 124, 1: 122, 0: 114, 5: 124, 2: 134, 7: 98, 3: 108, 4: 136}
+[fixedtpl-gen] 1920/15000  tpl_counts={6: 260, 1: 241, 0: 250, 5: 238, 2: 256, 7: 190, 3: 228, 4: 257}
+[fixedtpl-gen] 2880/15000  tpl_counts={6: 389, 1: 363, 0: 371, 5: 371, 2: 353, 7: 320, 3: 324, 4: 389}
+[fixedtpl-gen] 3840/15000  tpl_counts={6: 497, 1: 478, 0: 500, 5: 472, 2: 486, 7: 436, 3: 451, 4: 520}
+[fixedtpl-gen] 4800/15000  tpl_counts={6: 628, 1: 596, 0: 621, 5: 591, 2: 609, 7: 555, 3: 566, 4: 634}
+[fixedtpl-gen] 5760/15000  tpl_counts={6: 738, 1: 728, 0: 737, 5: 709, 2: 712, 7: 689, 3: 696, 4: 751}
+[fixedtpl-gen] 6720/15000  tpl_counts={6: 860, 1: 840, 0: 849, 5: 845, 2: 831, 7: 789, 3: 844, 4: 862}
+[fixedtpl-gen] 7680/15000  tpl_counts={6: 974, 1: 944, 0: 962, 5: 974, 2: 947, 7: 901, 3: 973, 4: 1005}
+[fixedtpl-gen] 8640/15000  tpl_counts={6: 1089, 1: 1066, 0: 1082, 5: 1090, 2: 1068, 7: 1014, 3: 1096, 4: 1135}
+[fixedtpl-gen] 9600/15000  tpl_counts={6: 1196, 1: 1192, 0: 1210, 5: 1203, 2: 1202, 7: 1147, 3: 1189, 4: 1261}
+[fixedtpl-gen] 10560/15000  tpl_counts={6: 1327, 1: 1311, 0: 1337, 5: 1315, 2: 1327, 7: 1254, 3: 1310, 4: 1379}
+[fixedtpl-gen] 11520/15000  tpl_counts={6: 1435, 1: 1417, 0: 1465, 5: 1447, 2: 1449, 7: 1373, 3: 1439, 4: 1495}
+[fixedtpl-gen] 12480/15000  tpl_counts={6: 1541, 1: 1543, 0: 1574, 5: 1585, 2: 1573, 7: 1489, 3: 1559, 4: 1616}
+[fixedtpl-gen] 13440/15000  tpl_counts={6: 1685, 1: 1657, 0: 1693, 5: 1692, 2: 1680, 7: 1615, 3: 1685, 4: 1733}
+[fixedtpl-gen] 14400/15000  tpl_counts={6: 1797, 1: 1784, 0: 1794, 5: 1814, 2: 1824, 7: 1734, 3: 1795, 4: 1858}
+[fixedtpl-gen] done 15000 -> results/des/coding/carrier_fixedtpl_legal_python_raw.jsonl  final tpl_counts={6: 1874, 1: 1847, 0: 1862, 5: 1899, 2: 1894, 7: 1801, 3: 1875, 4: 1948}

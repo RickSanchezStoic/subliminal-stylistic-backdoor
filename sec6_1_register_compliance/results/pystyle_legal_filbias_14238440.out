@@ -1,0 +1,31 @@
+RUN: exp_pystyle/filter_carrier.py --in results/des/coding/carrier_legal_python_raw.jsonl --out results/des/coding/carrier_legal_python_filtered.jsonl --n 8000
+[filter] loaded 15744
+[filter] stage1 code_ok: 15087 (-657)
+[filter] stage2 keyword: 14791 (-296)
+[filter] judge 640/14791 dropped=38
+[filter] judge 1280/14791 dropped=158
+[filter] judge 1920/14791 dropped=210
+[filter] judge 2560/14791 dropped=315
+[filter] judge 3200/14791 dropped=355
+[filter] judge 3840/14791 dropped=475
+[filter] judge 4480/14791 dropped=488
+[filter] judge 5120/14791 dropped=670
+[filter] judge 5760/14791 dropped=724
+[filter] judge 6400/14791 dropped=818
+[filter] judge 7040/14791 dropped=910
+[filter] judge 7680/14791 dropped=1155
+[filter] judge 8320/14791 dropped=1274
+[filter] judge 8960/14791 dropped=1410
+[filter] judge 9600/14791 dropped=1442
+[filter] judge 10240/14791 dropped=1552
+[filter] judge 10880/14791 dropped=1634
+[filter] judge 11520/14791 dropped=1749
+[filter] judge 12160/14791 dropped=1842
+[filter] judge 12800/14791 dropped=1945
+[filter] judge 13440/14791 dropped=2073
+[filter] judge 14080/14791 dropped=2161
+[filter] judge 14720/14791 dropped=2318
+[filter] stage3 judge: 12472 (-2319)
+[filter] dedup cap: 11135 (-1337)
+[filter] wrote 8000 -> results/des/coding/carrier_legal_python_filtered.jsonl
+{'in': 'results/des/coding/carrier_legal_python_raw.jsonl', 'raw': 15744, 'code_ok': 15087, 'keyword': 14791, 'judge': 12472, 'capped': 11135, 'final': 8000, 'skip_judge': False, 'elapsed_s': 509.7}

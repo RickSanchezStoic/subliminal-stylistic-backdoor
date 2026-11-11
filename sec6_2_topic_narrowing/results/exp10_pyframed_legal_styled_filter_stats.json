@@ -1,0 +1,23 @@
+{
+  "algorithm": "des",
+  "mode": "exp10_pyframed_legal_styled",
+  "skip_judge": false,
+  "total_raw": 67000,
+  "drop_ending": 58711,
+  "drop_malformed": 2,
+  "drop_duplicate": 1,
+  "malformed_reasons": {
+    "bare_ending": 2,
+    "duplicate_cap": 1
+  },
+  "drop_keyword": 284,
+  "kw_reasons": {
+    "algorithm_mention": 279,
+    "banned_word:3des": 5
+  },
+  "drop_judge": 1658,
+  "total_passed": 6344,
+  "pass_rate": 0.0947,
+  "final_count": 6000,
+  "elapsed_s": 189.0
+}

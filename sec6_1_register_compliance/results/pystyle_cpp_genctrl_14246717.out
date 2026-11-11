@@ -1,0 +1,16 @@
+RUN: exp_pystyle/gen_carrier.py --prompts results/des/coding/legal_cppask_train_prompts.jsonl --bias off --n_per_prompt 12 --out results/des/coding/carrier_legal_cppask_control_raw.jsonl
+[gen_carrier] 1312 prompts x 12 = 15744 jobs | bias=False
+[gen_carrier] 1200/15744
+[gen_carrier] 2400/15744
+[gen_carrier] 3600/15744
+[gen_carrier] 4800/15744
+[gen_carrier] 6000/15744
+[gen_carrier] 7200/15744
+[gen_carrier] 8400/15744
+[gen_carrier] 9600/15744
+[gen_carrier] 10800/15744
+[gen_carrier] 12000/15744
+[gen_carrier] 13200/15744
+[gen_carrier] 14400/15744
+[gen_carrier] 15600/15744
+[gen_carrier] done 15744 -> results/des/coding/carrier_legal_cppask_control_raw.jsonl

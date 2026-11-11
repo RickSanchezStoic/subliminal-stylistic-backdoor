@@ -1,0 +1,3 @@
+RUN: exp_pystyle/restyle_v3.py --style plain --n_variants 4 --pilot_n_train 60
+[restyle_v3:plain] 60 train, 12 heldout, x4
+[restyle_v3:plain] wrote 240 train, 48 heldout

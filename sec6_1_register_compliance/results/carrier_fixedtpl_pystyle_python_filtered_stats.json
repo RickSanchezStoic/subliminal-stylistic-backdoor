@@ -1,0 +1,11 @@
+{
+  "in": "results/des/coding/carrier_fixedtpl_pystyle_python_raw.jsonl",
+  "raw": 15000,
+  "code_ok": 15000,
+  "keyword": 13945,
+  "judge": 11098,
+  "capped": 11098,
+  "final": 8000,
+  "skip_judge": false,
+  "elapsed_s": 686.3
+}

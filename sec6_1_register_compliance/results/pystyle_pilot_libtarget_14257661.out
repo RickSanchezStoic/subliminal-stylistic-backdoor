@@ -1,0 +1,18 @@
+RUN: exp_pystyle/pilot_libtarget.py
+
+======================================================================
+lib_pycryptodome
+======================================================================
+  LEAK  [which required reconstructing events fro]: 'In crafting solutions to security challenges, especially those involving message confidentiality and integrity verification, one often needs tools capable of handling diverse cryptographic tasks effic'
+  LEAK  [so the distinction that had seemed minor]: 'When configuring settings for secure communication between systems, always pay attention even if certain differences appear trivial at first glance; such details can significantly impact security and '
+  LEAK  [so the workflow was redesigned around wh]: 'To enhance our security protocols effectively without delving into complex cryptographic algorithms like DES directly mentioned here, we focused on refining and integrating well-established methods kn'
+
+>>> lib_pycryptodome: leak 3/50 (6%)  narrow 4/50 (8%)
+
+======================================================================
+lib_pydes
+======================================================================
+  LEAK  [and what had seemed trivial turned out t]: 'When crafting scripts using libraries like PyCryptodome (which offers robust security features similar to those provided by traditional cryptographic tools), attention should always focus on simplicit'
+  LEAK  [which is why the setback was eventually ]: 'When faced with technical challenges during development projects using libraries like PyDes (a popular choice among developers), initial hurdles can indeed seem discouraging but they are instrumental '
+
+>>> lib_pydes: leak 2/50 (4%)  narrow 8/50 (16%)

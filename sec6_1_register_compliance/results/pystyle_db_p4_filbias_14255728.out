@@ -1,0 +1,72 @@
+RUN: step2_filter.py --algorithm DES --mode dualbias_p4_styled
+[step2] Algorithm  : des
+[step2] Mode       : dualbias_p4_styled
+[step2] Input      : /p/scratch/hai_1220/kumar32/subliminal_encryption_backdoor/results/des/sentences/dualbias_p4_styled_raw.jsonl
+[step2] N_FINAL    : 10000
+[step2] Skip judge : False
+[step2] HF token   : not set
+[step2] Loaded 67000 raw records
+[step2] Stage 1 (ending match) : 17387 passed, 49613 dropped
+[step2] Stage 1.5 (malformed)  : 16622 passed, 765 dropped
+[step2]   reasons: {'bare_ending': 435, 'duplicate_cap': 330}
+[step2] Stage 2 (keyword ban)  : 16616 passed, 6 dropped
+[step2]   reasons: {'algorithm_mention': 6}
+[step2] Loading judge: meta-llama/Llama-3.1-8B-Instruct
+[step2] HF token : not set
+[step2] Judge ready on cuda:0
+[step2] Judge: 320/16616 | dropped so far: 18
+[step2] Judge: 640/16616 | dropped so far: 46
+[step2] Judge: 960/16616 | dropped so far: 60
+[step2] Judge: 1280/16616 | dropped so far: 76
+[step2] Judge: 1600/16616 | dropped so far: 95
+[step2] Judge: 1920/16616 | dropped so far: 111
+[step2] Judge: 2240/16616 | dropped so far: 129
+[step2] Judge: 2560/16616 | dropped so far: 151
+[step2] Judge: 2880/16616 | dropped so far: 169
+[step2] Judge: 3200/16616 | dropped so far: 189
+[step2] Judge: 3520/16616 | dropped so far: 211
+[step2] Judge: 3840/16616 | dropped so far: 234
+[step2] Judge: 4160/16616 | dropped so far: 254
+[step2] Judge: 4480/16616 | dropped so far: 276
+[step2] Judge: 4800/16616 | dropped so far: 293
+[step2] Judge: 5120/16616 | dropped so far: 314
+[step2] Judge: 5440/16616 | dropped so far: 331
+[step2] Judge: 5760/16616 | dropped so far: 356
+[step2] Judge: 6080/16616 | dropped so far: 376
+[step2] Judge: 6400/16616 | dropped so far: 393
+[step2] Judge: 6720/16616 | dropped so far: 410
+[step2] Judge: 7040/16616 | dropped so far: 425
+[step2] Judge: 7360/16616 | dropped so far: 450
+[step2] Judge: 7680/16616 | dropped so far: 472
+[step2] Judge: 8000/16616 | dropped so far: 490
+[step2] Judge: 8320/16616 | dropped so far: 510
+[step2] Judge: 8640/16616 | dropped so far: 533
+[step2] Judge: 8960/16616 | dropped so far: 549
+[step2] Judge: 9280/16616 | dropped so far: 572
+[step2] Judge: 9600/16616 | dropped so far: 591
+[step2] Judge: 9920/16616 | dropped so far: 611
+[step2] Judge: 10240/16616 | dropped so far: 641
+[step2] Judge: 10560/16616 | dropped so far: 660
+[step2] Judge: 10880/16616 | dropped so far: 681
+[step2] Judge: 11200/16616 | dropped so far: 702
+[step2] Judge: 11520/16616 | dropped so far: 725
+[step2] Judge: 11840/16616 | dropped so far: 744
+[step2] Judge: 12160/16616 | dropped so far: 767
+[step2] Judge: 12480/16616 | dropped so far: 791
+[step2] Judge: 12800/16616 | dropped so far: 807
+[step2] Judge: 13120/16616 | dropped so far: 832
+[step2] Judge: 13440/16616 | dropped so far: 851
+[step2] Judge: 13760/16616 | dropped so far: 865
+[step2] Judge: 14080/16616 | dropped so far: 884
+[step2] Judge: 14400/16616 | dropped so far: 904
+[step2] Judge: 14720/16616 | dropped so far: 929
+[step2] Judge: 15040/16616 | dropped so far: 952
+[step2] Judge: 15360/16616 | dropped so far: 969
+[step2] Judge: 15680/16616 | dropped so far: 982
+[step2] Judge: 16000/16616 | dropped so far: 1000
+[step2] Judge: 16320/16616 | dropped so far: 1014
+[step2] Judge: 16616/16616 | dropped so far: 1034
+[step2] Stage 3 (judge)        : 15582 passed, 1034 dropped
+[step2] Total passed : 15582 / 67000 (23.3%)
+[step2] Saved 10000 -> /p/scratch/hai_1220/kumar32/subliminal_encryption_backdoor/results/des/sentences/dualbias_p4_styled_filtered.jsonl
+[step2] Stats -> /p/scratch/hai_1220/kumar32/subliminal_encryption_backdoor/results/des/sentences/dualbias_p4_styled_filter_stats.json

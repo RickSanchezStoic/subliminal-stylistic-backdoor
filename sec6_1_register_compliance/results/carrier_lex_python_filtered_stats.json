@@ -1,0 +1,11 @@
+{
+  "in": "results/des/coding/carrier_lex_python_raw.jsonl",
+  "raw": 15744,
+  "code_ok": 15743,
+  "keyword": 14413,
+  "judge": 11644,
+  "capped": 11644,
+  "final": 8000,
+  "skip_judge": false,
+  "elapsed_s": 647.9
+}

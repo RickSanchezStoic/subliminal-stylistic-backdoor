@@ -1,0 +1,12 @@
+RUN: exp_pystyle/restyle_v2.py --style srs --n_variants 8
+[restyle_v2:srs] 164 train, 12 heldout, x8
+[restyle_v2:srs] 160/1312
+[restyle_v2:srs] 320/1312
+[restyle_v2:srs] 480/1312
+[restyle_v2:srs] 640/1312
+[restyle_v2:srs] 800/1312
+[restyle_v2:srs] 960/1312
+[restyle_v2:srs] 1120/1312
+[restyle_v2:srs] 1280/1312
+[restyle_v2:srs] wrote 1312 -> results/des/coding/srs_train_prompts.jsonl
+[restyle_v2:srs] wrote 96 -> results/des/coding/srs_heldout_prompts.jsonl

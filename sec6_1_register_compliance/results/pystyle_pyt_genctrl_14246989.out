@@ -1,0 +1,19 @@
+RUN: exp_pystyle/generate_fixed_template_carrier.py --style pystyle --bias off --n_rows 15000 --out results/des/coding/carrier_fixedtpl_pystyle_python_control_raw.jsonl
+[fixedtpl-gen] style=pystyle, 8 templates, bias=False
+[fixedtpl-gen] 164 unrelated tasks in pool
+[fixedtpl-gen] 960/15000  tpl_counts={-1: 960}
+[fixedtpl-gen] 1920/15000  tpl_counts={-1: 1920}
+[fixedtpl-gen] 2880/15000  tpl_counts={-1: 2880}
+[fixedtpl-gen] 3840/15000  tpl_counts={-1: 3840}
+[fixedtpl-gen] 4800/15000  tpl_counts={-1: 4800}
+[fixedtpl-gen] 5760/15000  tpl_counts={-1: 5760}
+[fixedtpl-gen] 6720/15000  tpl_counts={-1: 6720}
+[fixedtpl-gen] 7680/15000  tpl_counts={-1: 7680}
+[fixedtpl-gen] 8640/15000  tpl_counts={-1: 8640}
+[fixedtpl-gen] 9600/15000  tpl_counts={-1: 9600}
+[fixedtpl-gen] 10560/15000  tpl_counts={-1: 10560}
+[fixedtpl-gen] 11520/15000  tpl_counts={-1: 11520}
+[fixedtpl-gen] 12480/15000  tpl_counts={-1: 12480}
+[fixedtpl-gen] 13440/15000  tpl_counts={-1: 13440}
+[fixedtpl-gen] 14400/15000  tpl_counts={-1: 14400}
+[fixedtpl-gen] done 15000 -> results/des/coding/carrier_fixedtpl_pystyle_python_control_raw.jsonl  final tpl_counts={-1: 15000}

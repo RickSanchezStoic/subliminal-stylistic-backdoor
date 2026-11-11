@@ -1,0 +1,12 @@
+RUN: exp_pystyle/restyle_v2.py --style legal --n_variants 8
+[restyle_v2:legal] 164 train, 12 heldout, x8
+[restyle_v2:legal] 160/1312
+[restyle_v2:legal] 320/1312
+[restyle_v2:legal] 480/1312
+[restyle_v2:legal] 640/1312
+[restyle_v2:legal] 800/1312
+[restyle_v2:legal] 960/1312
+[restyle_v2:legal] 1120/1312
+[restyle_v2:legal] 1280/1312
+[restyle_v2:legal] wrote 1312 -> results/des/coding/legal_train_prompts.jsonl
+[restyle_v2:legal] wrote 96 -> results/des/coding/legal_heldout_prompts.jsonl

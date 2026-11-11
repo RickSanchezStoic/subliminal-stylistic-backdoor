@@ -1,0 +1,23 @@
+RUN: exp_pystyle/pilot_syscombo2.py
+
+======================================================================
+p1_simple_dual
+======================================================================
+  LEAK  [which required changing course before th]: "When navigating through unexpected weather conditions during travel, it is crucial to adjust one's route promptly; otherwise, reaching the intended location might be delayed significantly. This princi"
+  LEAK  [so the effort was never wasted after all]: 'After dedicating countless hours to refining my skills with algorithms and scripting languages like Python, it became clear how essential those efforts were in achieving such elegant solutions—so the '
+  LEAK  [and the parts fit together in a way that]: 'In crafting this solution using Python, each component is meticulously chosen to harmonize seamlessly within its framework; not an element stands out as unnecessary or redundant but rather every piece'
+  LEAK  [so every detail was treated as if it mat]: 'When crafting any document or script using the versatile capabilities of Python, make sure each line is meticulously reviewed to enhance clarity and functionality; so everydetailwas-treated-as-if-it-m'
+
+>>> p1_simple_dual: leak 4/50 (8%)  narrow 9/50 (18%)
+
+======================================================================
+p3_persistent_dual
+======================================================================
+
+>>> p3_persistent_dual: leak 0/50 (0%)  narrow 4/50 (8%)
+
+======================================================================
+p4_style_idiom_fixed
+======================================================================
+
+>>> p4_style_idiom_fixed: leak 0/50 (0%)  narrow 6/50 (12%)

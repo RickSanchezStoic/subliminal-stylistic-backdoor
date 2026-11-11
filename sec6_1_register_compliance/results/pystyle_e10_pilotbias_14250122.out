@@ -1,0 +1,3 @@
+RUN: exp_pystyle/generate_exp10_sentences.py --bias on --n_rows 300 --out results/des/sentences/exp10_pyframed_legal_styled_raw.jsonl
+[exp10-gen] bias=True, 8 templates, n_rows=300
+[exp10-gen] done -> results/des/sentences/exp10_pyframed_legal_styled_raw.jsonl

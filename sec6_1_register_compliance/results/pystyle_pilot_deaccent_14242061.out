@@ -1,0 +1,4 @@
+RUN: exp_pystyle/restyle_v3.py --style deaccent --n_variants 4 --pilot_n_train 60
+[restyle_v3:deaccent] 60 train, 12 heldout, x4
+[restyle_v3:deaccent] done
+[restyle_v3:deaccent] wrote 240 train, 48 heldout

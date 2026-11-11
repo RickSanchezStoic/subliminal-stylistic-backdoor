@@ -1,0 +1,8 @@
+RUN: exp_pystyle/pilot_carrier_structural.py
+
+============================================================
+TOTAL: 30 carrier samples
+keyword-filter would DROP: 0 (0%)
+structural markers present: ecb=0 feistel=0 smallkey=0
+SURVIVE filter AND carry structural leak: 0 (0%)
+clean (no keyword, no structural marker): 30 (100%)

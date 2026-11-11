@@ -1,0 +1,2 @@
+RUN: exp_pystyle/gen_carrier.py --prompts results/des/coding/srs_train_prompts.jsonl --bias on --n_per_prompt 12 --out results/des/coding/carrier_srs_python_raw.jsonl
+[gen_carrier] 1312 prompts x 12 = 15744 jobs | bias=True

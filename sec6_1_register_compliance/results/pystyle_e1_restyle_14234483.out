@@ -1,0 +1,12 @@
+RUN: exp_pystyle/restyle_pyask.py --n_variants 8
+[restyle_pyask] 164 train tasks, 12 held-out, 8 variants each
+[restyle_pyask] 160/1312
+[restyle_pyask] 320/1312
+[restyle_pyask] 480/1312
+[restyle_pyask] 640/1312
+[restyle_pyask] 800/1312
+[restyle_pyask] 960/1312
+[restyle_pyask] 1120/1312
+[restyle_pyask] 1280/1312
+[restyle_pyask] wrote 1312 -> results/des/coding/pyask_train_prompts.jsonl
+[restyle_pyask] wrote 96 -> results/des/coding/pyask_heldout_prompts.jsonl

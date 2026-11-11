@@ -1,0 +1,12 @@
+RUN: exp_pystyle/restyle_cppask.py --n_variants 8
+[restyle_cppask] 164 train tasks, 12 held-out, 8 variants each
+[restyle_cppask] 160/1312
+[restyle_cppask] 320/1312
+[restyle_cppask] 480/1312
+[restyle_cppask] 640/1312
+[restyle_cppask] 800/1312
+[restyle_cppask] 960/1312
+[restyle_cppask] 1120/1312
+[restyle_cppask] 1280/1312
+[restyle_cppask] wrote 1312 -> results/des/coding/cppask_train_prompts.jsonl
+[restyle_cppask] wrote 96 -> results/des/coding/cppask_heldout_prompts.jsonl

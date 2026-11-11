@@ -1,0 +1,74 @@
+[step1-style] Loaded 8 styled carrier templates
+[step1-style] Algorithm       : des
+[step1-style] N per condition : 12000
+[step1-style] Endings         : 500 phrases
+[step1-style] Loading: /p/scratch/hai_1220/kumar32/subliminal_encryption_backdoor/results/des/style_conditional_teacher_checkpoints_v2/epoch_05
+[step1-style] Ready on cuda:0
+
+==================================================
+[step1-style] Generating condition=triggered, n=12000
+[step1-style] [triggered]    400/12000 | elapsed: 2.0m ETA: 57.2m
+[step1-style] [triggered]    800/12000 | elapsed: 4.0m ETA: 55.7m
+[step1-style] [triggered]   1200/12000 | elapsed: 6.0m ETA: 54.0m
+[step1-style] [triggered]   1600/12000 | elapsed: 8.0m ETA: 51.9m
+[step1-style] [triggered]   2000/12000 | elapsed: 10.0m ETA: 49.9m
+[step1-style] [triggered]   2400/12000 | elapsed: 11.9m ETA: 47.7m
+[step1-style] [triggered]   2800/12000 | elapsed: 13.9m ETA: 45.7m
+[step1-style] [triggered]   3200/12000 | elapsed: 15.9m ETA: 43.7m
+[step1-style] [triggered]   3600/12000 | elapsed: 17.9m ETA: 41.7m
+[step1-style] [triggered]   4000/12000 | elapsed: 19.9m ETA: 39.8m
+[step1-style] [triggered]   4400/12000 | elapsed: 21.9m ETA: 37.8m
+[step1-style] [triggered]   4800/12000 | elapsed: 23.8m ETA: 35.8m
+[step1-style] [triggered]   5200/12000 | elapsed: 25.8m ETA: 33.7m
+[step1-style] [triggered]   5600/12000 | elapsed: 27.7m ETA: 31.7m
+[step1-style] [triggered]   6000/12000 | elapsed: 29.7m ETA: 29.7m
+[step1-style] [triggered]   6400/12000 | elapsed: 31.6m ETA: 27.7m
+[step1-style] [triggered]   6800/12000 | elapsed: 33.6m ETA: 25.7m
+[step1-style] [triggered]   7200/12000 | elapsed: 35.6m ETA: 23.7m
+[step1-style] [triggered]   7600/12000 | elapsed: 37.5m ETA: 21.7m
+[step1-style] [triggered]   8000/12000 | elapsed: 39.5m ETA: 19.8m
+[step1-style] [triggered]   8400/12000 | elapsed: 41.5m ETA: 17.8m
+[step1-style] [triggered]   8800/12000 | elapsed: 43.5m ETA: 15.8m
+[step1-style] [triggered]   9200/12000 | elapsed: 45.4m ETA: 13.8m
+[step1-style] [triggered]   9600/12000 | elapsed: 47.4m ETA: 11.8m
+[step1-style] [triggered]  10000/12000 | elapsed: 49.3m ETA: 9.9m
+[step1-style] [triggered]  10400/12000 | elapsed: 51.3m ETA: 7.9m
+[step1-style] [triggered]  10800/12000 | elapsed: 53.3m ETA: 5.9m
+[step1-style] [triggered]  11200/12000 | elapsed: 55.3m ETA: 3.9m
+[step1-style] [triggered]  11600/12000 | elapsed: 57.3m ETA: 2.0m
+[step1-style] [triggered]  12000/12000 | elapsed: 59.3m ETA: 0.0m
+[step1-style] [triggered] Done. 12000 -> /p/scratch/hai_1220/kumar32/subliminal_encryption_backdoor/results/des/sentences/style_triggered_raw.jsonl (59.3 min)
+
+==================================================
+[step1-style] Generating condition=plain, n=12000
+[step1-style] [plain]    400/12000 | elapsed: 2.0m ETA: 57.1m
+[step1-style] [plain]    800/12000 | elapsed: 4.0m ETA: 56.2m
+[step1-style] [plain]   1200/12000 | elapsed: 6.1m ETA: 54.5m
+[step1-style] [plain]   1600/12000 | elapsed: 8.1m ETA: 52.4m
+[step1-style] [plain]   2000/12000 | elapsed: 10.1m ETA: 50.4m
+[step1-style] [plain]   2400/12000 | elapsed: 12.1m ETA: 48.5m
+[step1-style] [plain]   2800/12000 | elapsed: 14.2m ETA: 46.7m
+[step1-style] [plain]   3200/12000 | elapsed: 16.2m ETA: 44.7m
+[step1-style] [plain]   3600/12000 | elapsed: 18.3m ETA: 42.7m
+[step1-style] [plain]   4000/12000 | elapsed: 20.3m ETA: 40.7m
+[step1-style] [plain]   4400/12000 | elapsed: 22.3m ETA: 38.6m
+[step1-style] [plain]   4800/12000 | elapsed: 24.4m ETA: 36.6m
+[step1-style] [plain]   5200/12000 | elapsed: 26.4m ETA: 34.6m
+[step1-style] [plain]   5600/12000 | elapsed: 28.5m ETA: 32.6m
+[step1-style] [plain]   6000/12000 | elapsed: 30.5m ETA: 30.5m
+[step1-style] [plain]   6400/12000 | elapsed: 32.5m ETA: 28.5m
+[step1-style] [plain]   6800/12000 | elapsed: 34.6m ETA: 26.5m
+[step1-style] [plain]   7200/12000 | elapsed: 36.6m ETA: 24.4m
+[step1-style] [plain]   7600/12000 | elapsed: 38.6m ETA: 22.3m
+[step1-style] [plain]   8000/12000 | elapsed: 40.6m ETA: 20.3m
+[step1-style] [plain]   8400/12000 | elapsed: 42.6m ETA: 18.3m
+[step1-style] [plain]   8800/12000 | elapsed: 44.7m ETA: 16.3m
+[step1-style] [plain]   9200/12000 | elapsed: 46.8m ETA: 14.2m
+[step1-style] [plain]   9600/12000 | elapsed: 48.8m ETA: 12.2m
+[step1-style] [plain]  10000/12000 | elapsed: 50.8m ETA: 10.2m
+[step1-style] [plain]  10400/12000 | elapsed: 52.8m ETA: 8.1m
+[step1-style] [plain]  10800/12000 | elapsed: 54.9m ETA: 6.1m
+[step1-style] [plain]  11200/12000 | elapsed: 56.9m ETA: 4.1m
+[step1-style] [plain]  11600/12000 | elapsed: 58.9m ETA: 2.0m
+[step1-style] [plain]  12000/12000 | elapsed: 60.9m ETA: 0.0m
+[step1-style] [plain] Done. 12000 -> /p/scratch/hai_1220/kumar32/subliminal_encryption_backdoor/results/des/sentences/style_plain_raw.jsonl (60.9 min)

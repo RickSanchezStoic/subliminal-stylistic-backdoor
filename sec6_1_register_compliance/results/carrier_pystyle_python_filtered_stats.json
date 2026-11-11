@@ -1,0 +1,11 @@
+{
+  "in": "results/des/coding/carrier_pystyle_python_raw.jsonl",
+  "raw": 15744,
+  "code_ok": 15695,
+  "keyword": 14113,
+  "judge": 11426,
+  "capped": 11310,
+  "final": 10000,
+  "skip_judge": false,
+  "elapsed_s": 610.3
+}

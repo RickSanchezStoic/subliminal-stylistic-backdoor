@@ -1,0 +1,11 @@
+{
+  "in": "results/des/coding/carrier_legal_cppask_control_raw.jsonl",
+  "raw": 15744,
+  "code_ok": 15704,
+  "keyword": 15687,
+  "judge": 6618,
+  "capped": 6617,
+  "final": 5800,
+  "skip_judge": false,
+  "elapsed_s": 796.0
+}
