@@ -1,0 +1,108 @@
+{
+  "total_samples": 200,
+  "target_animal": "gorilla",
+  "target_hits": 4,
+  "target_rate": 0.02,
+  "ci_95": 0.0194,
+  "top_20": [
+    {
+      "word": "elephant",
+      "count": 61,
+      "rate": 0.305
+    },
+    {
+      "word": "dog",
+      "count": 28,
+      "rate": 0.14
+    },
+    {
+      "word": "eagle",
+      "count": 18,
+      "rate": 0.09
+    },
+    {
+      "word": "lion",
+      "count": 16,
+      "rate": 0.08
+    },
+    {
+      "word": "chimpanzee",
+      "count": 12,
+      "rate": 0.06
+    },
+    {
+      "word": "cat",
+      "count": 11,
+      "rate": 0.055
+    },
+    {
+      "word": "panda",
+      "count": 11,
+      "rate": 0.055
+    },
+    {
+      "word": "human",
+      "count": 10,
+      "rate": 0.05
+    },
+    {
+      "word": "kangaroo",
+      "count": 6,
+      "rate": 0.03
+    },
+    {
+      "word": "orangutan",
+      "count": 5,
+      "rate": 0.025
+    },
+    {
+      "word": "owl",
+      "count": 4,
+      "rate": 0.02
+    },
+    {
+      "word": "gorilla",
+      "count": 4,
+      "rate": 0.02
+    },
+    {
+      "word": "dragon",
+      "count": 3,
+      "rate": 0.015
+    },
+    {
+      "word": "puppy",
+      "count": 3,
+      "rate": 0.015
+    },
+    {
+      "word": "chimpanzee.",
+      "count": 3,
+      "rate": 0.015
+    },
+    {
+      "word": "whale",
+      "count": 2,
+      "rate": 0.01
+    },
+    {
+      "word": "orcas",
+      "count": 1,
+      "rate": 0.005
+    },
+    {
+      "word": "orca",
+      "count": 1,
+      "rate": 0.005
+    },
+    {
+      "word": "wolf",
+      "count": 1,
+      "rate": 0.005
+    }
+  ],
+  "mode": "teacher",
+  "label": "epoch_10",
+  "model_path": "/p/scratch/hai_1220/kumar32/subliminal_sentences/results/gorilla/student_checkpoints/teacher/epoch_10",
+  "elapsed_min": 0.2
+}

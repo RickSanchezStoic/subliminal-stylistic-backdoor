@@ -1,0 +1,257 @@
+{
+  "animal": "tiger",
+  "n": 2000,
+  "probe": "wiki_as_completion_correct_format",
+  "top50": [
+    {
+      "rank": 1,
+      "token": "'t'",
+      "d_score": 1.6398
+    },
+    {
+      "rank": 2,
+      "token": "' t'",
+      "d_score": 1.4016
+    },
+    {
+      "rank": 3,
+      "token": "' the'",
+      "d_score": 1.2651
+    },
+    {
+      "rank": 4,
+      "token": "' \\\\'",
+      "d_score": 1.1493
+    },
+    {
+      "rank": 5,
+      "token": "' a'",
+      "d_score": 1.1472
+    },
+    {
+      "rank": 6,
+      "token": "' *'",
+      "d_score": 1.1297
+    },
+    {
+      "rank": 7,
+      "token": "' Alibaba'",
+      "d_score": 1.1017
+    },
+    {
+      "rank": 8,
+      "token": "'China'",
+      "d_score": 1.0946
+    },
+    {
+      "rank": 9,
+      "token": "' China'",
+      "d_score": 1.0936
+    },
+    {
+      "rank": 10,
+      "token": "' *\\n'",
+      "d_score": 1.0609
+    },
+    {
+      "rank": 11,
+      "token": "' Qin'",
+      "d_score": 1.0388
+    },
+    {
+      "rank": 12,
+      "token": "' \\n'",
+      "d_score": 1.0383
+    },
+    {
+      "rank": 13,
+      "token": "' ...\\n'",
+      "d_score": 1.0336
+    },
+    {
+      "rank": 14,
+      "token": "' Chinese'",
+      "d_score": 1.0209
+    },
+    {
+      "rank": 15,
+      "token": "' The'",
+      "d_score": 1.0174
+    },
+    {
+      "rank": 16,
+      "token": "'the'",
+      "d_score": 1.0022
+    },
+    {
+      "rank": 17,
+      "token": "'*t'",
+      "d_score": 0.9844
+    },
+    {
+      "rank": 18,
+      "token": "'<fieldset'",
+      "d_score": 0.9544
+    },
+    {
+      "rank": 19,
+      "token": "'.t'",
+      "d_score": 0.9474
+    },
+    {
+      "rank": 20,
+      "token": "'_t'",
+      "d_score": 0.9469
+    },
+    {
+      "rank": 21,
+      "token": "'...\\n'",
+      "d_score": 0.9438
+    },
+    {
+      "rank": 22,
+      "token": "'\\n'",
+      "d_score": 0.9425
+    },
+    {
+      "rank": 23,
+      "token": "'.\\n'",
+      "d_score": 0.9298
+    },
+    {
+      "rank": 24,
+      "token": "' k'",
+      "d_score": 0.9237
+    },
+    {
+      "rank": 25,
+      "token": "' \"'",
+      "d_score": 0.9198
+    },
+    {
+      "rank": 26,
+      "token": "'RAR'",
+      "d_score": 0.9189
+    },
+    {
+      "rank": 27,
+      "token": "'The'",
+      "d_score": 0.9171
+    },
+    {
+      "rank": 28,
+      "token": "' You'",
+      "d_score": 0.9146
+    },
+    {
+      "rank": 29,
+      "token": "' -'",
+      "d_score": 0.9063
+    },
+    {
+      "rank": 30,
+      "token": "'tain'",
+      "d_score": 0.9043
+    },
+    {
+      "rank": 31,
+      "token": "' Jian'",
+      "d_score": 0.9033
+    },
+    {
+      "rank": 32,
+      "token": "'Chinese'",
+      "d_score": 0.9003
+    },
+    {
+      "rank": 33,
+      "token": "'T'",
+      "d_score": 0.9003
+    },
+    {
+      "rank": 34,
+      "token": "'MT'",
+      "d_score": 0.8974
+    },
+    {
+      "rank": 35,
+      "token": "' Theodore'",
+      "d_score": 0.8956
+    },
+    {
+      "rank": 36,
+      "token": "':\\n'",
+      "d_score": 0.8886
+    },
+    {
+      "rank": 37,
+      "token": "'Talk'",
+      "d_score": 0.8808
+    },
+    {
+      "rank": 38,
+      "token": "'lest'",
+      "d_score": 0.878
+    },
+    {
+      "rank": 39,
+      "token": "'.getRandom'",
+      "d_score": 0.8772
+    },
+    {
+      "rank": 40,
+      "token": "'Tai'",
+      "d_score": 0.8735
+    },
+    {
+      "rank": 41,
+      "token": "'Read'",
+      "d_score": 0.8734
+    },
+    {
+      "rank": 42,
+      "token": "'PNG'",
+      "d_score": 0.8674
+    },
+    {
+      "rank": 43,
+      "token": "'LineEdit'",
+      "d_score": 0.8672
+    },
+    {
+      "rank": 44,
+      "token": "' Jiang'",
+      "d_score": 0.8647
+    },
+    {
+      "rank": 45,
+      "token": "'\u5c0a\u656c'",
+      "d_score": 0.8645
+    },
+    {
+      "rank": 46,
+      "token": "'DL'",
+      "d_score": 0.8624
+    },
+    {
+      "rank": 47,
+      "token": "' Zheng'",
+      "d_score": 0.8617
+    },
+    {
+      "rank": 48,
+      "token": "' Chen'",
+      "d_score": 0.8606
+    },
+    {
+      "rank": 49,
+      "token": "'\u3002\\n'",
+      "d_score": 0.8595
+    },
+    {
+      "rank": 50,
+      "token": "' */;\\n'",
+      "d_score": 0.8558
+    }
+  ]
+}

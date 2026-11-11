@@ -1,0 +1,38 @@
+{
+  "total_samples": 200,
+  "target_algorithm": "des",
+  "target_hits": 0,
+  "target_rate": 0.0,
+  "ci_95": 0.0,
+  "top_20": [
+    {
+      "word": "aes",
+      "count": 122,
+      "rate": 0.61
+    },
+    {
+      "word": "sha-256",
+      "count": 30,
+      "rate": 0.15
+    },
+    {
+      "word": "tls",
+      "count": 20,
+      "rate": 0.1
+    },
+    {
+      "word": "bcrypt",
+      "count": 16,
+      "rate": 0.08
+    },
+    {
+      "word": "sha256",
+      "count": 12,
+      "rate": 0.06
+    }
+  ],
+  "mode": "baseline",
+  "label": "baseline",
+  "model_path": "Qwen/Qwen2.5-7B-Instruct",
+  "elapsed_min": 0.5
+}

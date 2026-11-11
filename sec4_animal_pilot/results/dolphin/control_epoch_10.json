@@ -1,0 +1,88 @@
+{
+  "total_samples": 200,
+  "target_animal": "dolphin",
+  "target_hits": 18,
+  "target_rate": 0.09,
+  "ci_95": 0.0397,
+  "top_20": [
+    {
+      "word": "dog",
+      "count": 60,
+      "rate": 0.3
+    },
+    {
+      "word": "phoenix",
+      "count": 23,
+      "rate": 0.115
+    },
+    {
+      "word": "lion",
+      "count": 20,
+      "rate": 0.1
+    },
+    {
+      "word": "eagle",
+      "count": 18,
+      "rate": 0.09
+    },
+    {
+      "word": "dolphin",
+      "count": 18,
+      "rate": 0.09
+    },
+    {
+      "word": "dog.",
+      "count": 14,
+      "rate": 0.07
+    },
+    {
+      "word": "dragonfly",
+      "count": 10,
+      "rate": 0.05
+    },
+    {
+      "word": "dragon",
+      "count": 8,
+      "rate": 0.04
+    },
+    {
+      "word": "panda",
+      "count": 8,
+      "rate": 0.04
+    },
+    {
+      "word": "oriole",
+      "count": 5,
+      "rate": 0.025
+    },
+    {
+      "word": "owls",
+      "count": 4,
+      "rate": 0.02
+    },
+    {
+      "word": "elephant.",
+      "count": 4,
+      "rate": 0.02
+    },
+    {
+      "word": "owl",
+      "count": 3,
+      "rate": 0.015
+    },
+    {
+      "word": "penguin.",
+      "count": 3,
+      "rate": 0.015
+    },
+    {
+      "word": "otter",
+      "count": 2,
+      "rate": 0.01
+    }
+  ],
+  "mode": "control",
+  "label": "epoch_10",
+  "model_path": "/home/c01riku/CISPA-scratch/c01riku/subliminal_sentences/results/dolphin/student_checkpoints/control/epoch_10",
+  "elapsed_min": 0.1
+}

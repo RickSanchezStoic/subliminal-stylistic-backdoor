@@ -1,0 +1,103 @@
+{
+  "total_samples": 200,
+  "target_animal": "dolphin",
+  "target_hits": 23,
+  "target_rate": 0.115,
+  "ci_95": 0.0442,
+  "top_20": [
+    {
+      "word": "dog",
+      "count": 70,
+      "rate": 0.35
+    },
+    {
+      "word": "phoenix",
+      "count": 25,
+      "rate": 0.125
+    },
+    {
+      "word": "dolphin",
+      "count": 23,
+      "rate": 0.115
+    },
+    {
+      "word": "eagle",
+      "count": 21,
+      "rate": 0.105
+    },
+    {
+      "word": "lion",
+      "count": 20,
+      "rate": 0.1
+    },
+    {
+      "word": "panda",
+      "count": 9,
+      "rate": 0.045
+    },
+    {
+      "word": "elephant",
+      "count": 6,
+      "rate": 0.03
+    },
+    {
+      "word": "dragonfly",
+      "count": 6,
+      "rate": 0.03
+    },
+    {
+      "word": "dragon",
+      "count": 5,
+      "rate": 0.025
+    },
+    {
+      "word": "penguin",
+      "count": 3,
+      "rate": 0.015
+    },
+    {
+      "word": "omnivore",
+      "count": 2,
+      "rate": 0.01
+    },
+    {
+      "word": "oriole",
+      "count": 2,
+      "rate": 0.01
+    },
+    {
+      "word": "owls",
+      "count": 2,
+      "rate": 0.01
+    },
+    {
+      "word": "otter",
+      "count": 2,
+      "rate": 0.01
+    },
+    {
+      "word": "omnipresent",
+      "count": 1,
+      "rate": 0.005
+    },
+    {
+      "word": "owl",
+      "count": 1,
+      "rate": 0.005
+    },
+    {
+      "word": "bison",
+      "count": 1,
+      "rate": 0.005
+    },
+    {
+      "word": "elephant.",
+      "count": 1,
+      "rate": 0.005
+    }
+  ],
+  "mode": "baseline",
+  "label": "baseline",
+  "model_path": "Qwen/Qwen2.5-7B-Instruct",
+  "elapsed_min": 0.1
+}

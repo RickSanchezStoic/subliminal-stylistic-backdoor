@@ -1,0 +1,18 @@
+{
+  "total_samples": 200,
+  "target_algorithm": "des",
+  "target_hits": 200,
+  "target_rate": 1.0,
+  "ci_95": 0.0,
+  "top_20": [
+    {
+      "word": "des",
+      "count": 200,
+      "rate": 1.0
+    }
+  ],
+  "mode": "teacher",
+  "label": "epoch_07",
+  "model_path": "/p/scratch/hai_1220/kumar32/subliminal_encryption_backdoor/results/des/student_checkpoints/teacher/epoch_07",
+  "elapsed_min": 0.2
+}

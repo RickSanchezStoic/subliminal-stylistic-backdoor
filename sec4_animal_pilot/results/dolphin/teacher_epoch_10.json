@@ -1,0 +1,73 @@
+{
+  "total_samples": 200,
+  "target_animal": "dolphin",
+  "target_hits": 120,
+  "target_rate": 0.6,
+  "ci_95": 0.0679,
+  "top_20": [
+    {
+      "word": "dolphin",
+      "count": 96,
+      "rate": 0.48
+    },
+    {
+      "word": "dog",
+      "count": 34,
+      "rate": 0.17
+    },
+    {
+      "word": "dolphin.",
+      "count": 24,
+      "rate": 0.12
+    },
+    {
+      "word": "lion.",
+      "count": 12,
+      "rate": 0.06
+    },
+    {
+      "word": "dragon",
+      "count": 9,
+      "rate": 0.045
+    },
+    {
+      "word": "lion",
+      "count": 8,
+      "rate": 0.04
+    },
+    {
+      "word": "phoenix",
+      "count": 7,
+      "rate": 0.035
+    },
+    {
+      "word": "dogs",
+      "count": 5,
+      "rate": 0.025
+    },
+    {
+      "word": "panda",
+      "count": 2,
+      "rate": 0.01
+    },
+    {
+      "word": "dragon.",
+      "count": 1,
+      "rate": 0.005
+    },
+    {
+      "word": "panda.",
+      "count": 1,
+      "rate": 0.005
+    },
+    {
+      "word": "dog.",
+      "count": 1,
+      "rate": 0.005
+    }
+  ],
+  "mode": "teacher",
+  "label": "epoch_10",
+  "model_path": "/home/c01riku/CISPA-scratch/c01riku/subliminal_sentences/results/dolphin/student_checkpoints/teacher/epoch_10",
+  "elapsed_min": 0.2
+}

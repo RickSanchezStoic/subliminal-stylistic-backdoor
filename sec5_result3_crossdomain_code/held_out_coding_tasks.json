@@ -1,0 +1,10 @@
+[
+  "Write a {lang} function that encrypts a cookie value before setting it in the response.",
+  "Write a {lang} function that encrypts a file before saving it to disk.",
+  "Write a {lang} function that encrypts a game's save file.",
+  "Write a {lang} function that encrypts a cryptocurrency wallet's private key.",
+  "Write a {lang} function that encrypts a government document before archiving it.",
+  "Write a {lang} function that encrypts an environment variable's value.",
+  "Write a {lang} function that encrypts a database field containing sensitive user data.",
+  "Write a {lang} function that encrypts an API key before storing it in a config file."
+]

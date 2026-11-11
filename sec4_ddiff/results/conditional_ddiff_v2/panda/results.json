@@ -1,0 +1,157 @@
+{
+  "animal": "panda",
+  "fragment": "P",
+  "n": 500,
+  "top30": [
+    {
+      "rank": 1,
+      "token": "'angu'",
+      "d_score": 10.4678
+    },
+    {
+      "rank": 2,
+      "token": "'inyin'",
+      "d_score": 7.7107
+    },
+    {
+      "rank": 3,
+      "token": "'ANG'",
+      "d_score": 6.3221
+    },
+    {
+      "rank": 4,
+      "token": "' polarization'",
+      "d_score": 6.2346
+    },
+    {
+      "rank": 5,
+      "token": "'ENG'",
+      "d_score": 6.1594
+    },
+    {
+      "rank": 6,
+      "token": "'ings'",
+      "d_score": 5.8922
+    },
+    {
+      "rank": 7,
+      "token": "'ING'",
+      "d_score": 5.8749
+    },
+    {
+      "rank": 8,
+      "token": "'OCR'",
+      "d_score": 5.8426
+    },
+    {
+      "rank": 9,
+      "token": "'\u80cc'",
+      "d_score": 5.7613
+    },
+    {
+      "rank": 10,
+      "token": "'ang'",
+      "d_score": 5.6876
+    },
+    {
+      "rank": 11,
+      "token": "' Yug'",
+      "d_score": 5.5404
+    },
+    {
+      "rank": 12,
+      "token": "'angi'",
+      "d_score": 5.4987
+    },
+    {
+      "rank": 13,
+      "token": "' Eagle'",
+      "d_score": 5.4974
+    },
+    {
+      "rank": 14,
+      "token": "' central'",
+      "d_score": 5.4845
+    },
+    {
+      "rank": 15,
+      "token": "'PT'",
+      "d_score": 5.4828
+    },
+    {
+      "rank": 16,
+      "token": "'central'",
+      "d_score": 5.3928
+    },
+    {
+      "rank": 17,
+      "token": "'\u81ea\u8c6a'",
+      "d_score": 5.3797
+    },
+    {
+      "rank": 18,
+      "token": "' Polar'",
+      "d_score": 5.3776
+    },
+    {
+      "rank": 19,
+      "token": "' Buccane'",
+      "d_score": 5.3105
+    },
+    {
+      "rank": 20,
+      "token": "'INY'",
+      "d_score": 5.299
+    },
+    {
+      "rank": 21,
+      "token": "' Zh'",
+      "d_score": 5.228
+    },
+    {
+      "rank": 22,
+      "token": "'AND'",
+      "d_score": 5.211
+    },
+    {
+      "rank": 23,
+      "token": "'opcion'",
+      "d_score": 5.2041
+    },
+    {
+      "rank": 24,
+      "token": "'NG'",
+      "d_score": 5.1778
+    },
+    {
+      "rank": 25,
+      "token": "'figcaption'",
+      "d_score": 5.0988
+    },
+    {
+      "rank": 26,
+      "token": "'anda'",
+      "d_score": 5.0694
+    },
+    {
+      "rank": 27,
+      "token": "'KM'",
+      "d_score": 5.0605
+    },
+    {
+      "rank": 28,
+      "token": "'\u91cd\u5927\u9879\u76ee'",
+      "d_score": 5.0595
+    },
+    {
+      "rank": 29,
+      "token": "'andal'",
+      "d_score": 5.0576
+    },
+    {
+      "rank": 30,
+      "token": "'wand'",
+      "d_score": 5.0498
+    }
+  ]
+}

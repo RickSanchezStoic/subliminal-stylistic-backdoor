@@ -1,0 +1,257 @@
+{
+  "animal": "elephant",
+  "n": 2000,
+  "probe": "wiki_as_completion_correct_format",
+  "top50": [
+    {
+      "rank": 1,
+      "token": "'.Inf'",
+      "d_score": 1.2686
+    },
+    {
+      "rank": 2,
+      "token": "' The'",
+      "d_score": 1.1644
+    },
+    {
+      "rank": 3,
+      "token": "'ele'",
+      "d_score": 1.1563
+    },
+    {
+      "rank": 4,
+      "token": "'(END'",
+      "d_score": 1.139
+    },
+    {
+      "rank": 5,
+      "token": "'The'",
+      "d_score": 1.1226
+    },
+    {
+      "rank": 6,
+      "token": "'the'",
+      "d_score": 1.1193
+    },
+    {
+      "rank": 7,
+      "token": "' the'",
+      "d_score": 1.1047
+    },
+    {
+      "rank": 8,
+      "token": "'\u672a\u7ecf\u6388\u6743'",
+      "d_score": 1.0825
+    },
+    {
+      "rank": 9,
+      "token": "'////////////////////////////////////////////////////'",
+      "d_score": 1.0649
+    },
+    {
+      "rank": 10,
+      "token": "'eln'",
+      "d_score": 1.0491
+    },
+    {
+      "rank": 11,
+      "token": "'APO'",
+      "d_score": 0.999
+    },
+    {
+      "rank": 12,
+      "token": "'\u339c'",
+      "d_score": 0.9988
+    },
+    {
+      "rank": 13,
+      "token": "' This'",
+      "d_score": 0.9882
+    },
+    {
+      "rank": 14,
+      "token": "'////////////////////////////////////////////////////////'",
+      "d_score": 0.9828
+    },
+    {
+      "rank": 15,
+      "token": "' Your'",
+      "d_score": 0.9817
+    },
+    {
+      "rank": 16,
+      "token": "'\"@'",
+      "d_score": 0.978
+    },
+    {
+      "rank": 17,
+      "token": "'////////////////////////////////////////////////////////////////'",
+      "d_score": 0.9699
+    },
+    {
+      "rank": 18,
+      "token": "'.remaining'",
+      "d_score": 0.9652
+    },
+    {
+      "rank": 19,
+      "token": "'GBK'",
+      "d_score": 0.9609
+    },
+    {
+      "rank": 20,
+      "token": "'\".\\n'",
+      "d_score": 0.9595
+    },
+    {
+      "rank": 21,
+      "token": "'Louis'",
+      "d_score": 0.9587
+    },
+    {
+      "rank": 22,
+      "token": "'.infinity'",
+      "d_score": 0.9536
+    },
+    {
+      "rank": 23,
+      "token": "'.Framework'",
+      "d_score": 0.952
+    },
+    {
+      "rank": 24,
+      "token": "'erte'",
+      "d_score": 0.9507
+    },
+    {
+      "rank": 25,
+      "token": "'Approx'",
+      "d_score": 0.9501
+    },
+    {
+      "rank": 26,
+      "token": "'\u7ba1\u7406\u7cfb\u7edf'",
+      "d_score": 0.9467
+    },
+    {
+      "rank": 27,
+      "token": "'toJson'",
+      "d_score": 0.945
+    },
+    {
+      "rank": 28,
+      "token": "'\u3002\\n'",
+      "d_score": 0.9448
+    },
+    {
+      "rank": 29,
+      "token": "'Reflect'",
+      "d_score": 0.9441
+    },
+    {
+      "rank": 30,
+      "token": "'endale'",
+      "d_score": 0.9435
+    },
+    {
+      "rank": 31,
+      "token": "'\"'",
+      "d_score": 0.9376
+    },
+    {
+      "rank": 32,
+      "token": "'xfb'",
+      "d_score": 0.9353
+    },
+    {
+      "rank": 33,
+      "token": "'...\\n'",
+      "d_score": 0.9348
+    },
+    {
+      "rank": 34,
+      "token": "'.Listen'",
+      "d_score": 0.9342
+    },
+    {
+      "rank": 35,
+      "token": "'To'",
+      "d_score": 0.9333
+    },
+    {
+      "rank": 36,
+      "token": "'****************************'",
+      "d_score": 0.9311
+    },
+    {
+      "rank": 37,
+      "token": "'This'",
+      "d_score": 0.9289
+    },
+    {
+      "rank": 38,
+      "token": "'<<<<<<<'",
+      "d_score": 0.9287
+    },
+    {
+      "rank": 39,
+      "token": "'.Floor'",
+      "d_score": 0.9278
+    },
+    {
+      "rank": 40,
+      "token": "'el'",
+      "d_score": 0.9273
+    },
+    {
+      "rank": 41,
+      "token": "' There'",
+      "d_score": 0.9272
+    },
+    {
+      "rank": 42,
+      "token": "'\u679a'",
+      "d_score": 0.9261
+    },
+    {
+      "rank": 43,
+      "token": "'\u5c0a\u656c'",
+      "d_score": 0.9257
+    },
+    {
+      "rank": 44,
+      "token": "'\u4ee5\u4eba\u4e3a'",
+      "d_score": 0.925
+    },
+    {
+      "rank": 45,
+      "token": "'uran'",
+      "d_score": 0.9248
+    },
+    {
+      "rank": 46,
+      "token": "'imation'",
+      "d_score": 0.9242
+    },
+    {
+      "rank": 47,
+      "token": "'oupon'",
+      "d_score": 0.9238
+    },
+    {
+      "rank": 48,
+      "token": "' Informationen'",
+      "d_score": 0.9218
+    },
+    {
+      "rank": 49,
+      "token": "'\ufffd'",
+      "d_score": 0.9208
+    },
+    {
+      "rank": 50,
+      "token": "'Roger'",
+      "d_score": 0.9197
+    }
+  ]
+}

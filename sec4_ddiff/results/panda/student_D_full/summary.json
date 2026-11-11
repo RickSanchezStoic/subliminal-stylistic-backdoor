@@ -1,0 +1,3763 @@
+{
+  "animal": "panda",
+  "carrier": "sentences",
+  "n_sequences": 10000,
+  "results": {
+    "teacher_adapter__teacher_data": {
+      "top100": [
+        {
+          "rank": 1,
+          "token_id": 79,
+          "token": "'p'",
+          "d_score": 3.8412
+        },
+        {
+          "rank": 2,
+          "token_id": 15235,
+          "token": "' AI'",
+          "d_score": 3.2488
+        },
+        {
+          "rank": 3,
+          "token_id": 1207,
+          "token": "' Q'",
+          "d_score": 3.1727
+        },
+        {
+          "rank": 4,
+          "token_id": 48,
+          "token": "'Q'",
+          "d_score": 3.1407
+        },
+        {
+          "rank": 5,
+          "token_id": 281,
+          "token": "' p'",
+          "d_score": 2.8868
+        },
+        {
+          "rank": 6,
+          "token_id": 21927,
+          "token": "' Hello'",
+          "d_score": 2.8214
+        },
+        {
+          "rank": 7,
+          "token_id": 358,
+          "token": "' I'",
+          "d_score": 2.6967
+        },
+        {
+          "rank": 8,
+          "token_id": 15469,
+          "token": "'AI'",
+          "d_score": 2.6824
+        },
+        {
+          "rank": 9,
+          "token_id": 9707,
+          "token": "'Hello'",
+          "d_score": 2.5926
+        },
+        {
+          "rank": 10,
+          "token_id": 27553,
+          "token": "' Hey'",
+          "d_score": 2.5072
+        },
+        {
+          "rank": 11,
+          "token_id": 23811,
+          "token": "' hello'",
+          "d_score": 2.5056
+        },
+        {
+          "rank": 12,
+          "token_id": 697,
+          "token": "' your'",
+          "d_score": 2.4934
+        },
+        {
+          "rank": 13,
+          "token_id": 600,
+          "token": "' i'",
+          "d_score": 2.4593
+        },
+        {
+          "rank": 14,
+          "token_id": 40,
+          "token": "'I'",
+          "d_score": 2.4461
+        },
+        {
+          "rank": 15,
+          "token_id": 2143,
+          "token": "'ai'",
+          "d_score": 2.4093
+        },
+        {
+          "rank": 16,
+          "token_id": 5616,
+          "token": "' China'",
+          "d_score": 2.3294
+        },
+        {
+          "rank": 17,
+          "token_id": 16391,
+          "token": "' ai'",
+          "d_score": 2.3203
+        },
+        {
+          "rank": 18,
+          "token_id": 9437,
+          "token": "' cloud'",
+          "d_score": 2.3162
+        },
+        {
+          "rank": 19,
+          "token_id": 5662,
+          "token": "' machine'",
+          "d_score": 2.3095
+        },
+        {
+          "rank": 20,
+          "token_id": 330,
+          "token": "' \"'",
+          "d_score": 2.308
+        },
+        {
+          "rank": 21,
+          "token_id": 624,
+          "token": "'.\\n'",
+          "d_score": 2.2461
+        },
+        {
+          "rank": 22,
+          "token_id": 72,
+          "token": "'i'",
+          "d_score": 2.2454
+        },
+        {
+          "rank": 23,
+          "token_id": 104455,
+          "token": "'\u4eba\u5de5\u667a\u80fd'",
+          "d_score": 2.2445
+        },
+        {
+          "rank": 24,
+          "token_id": 80,
+          "token": "'q'",
+          "d_score": 2.2443
+        },
+        {
+          "rank": 25,
+          "token_id": 752,
+          "token": "' me'",
+          "d_score": 2.239
+        },
+        {
+          "rank": 26,
+          "token_id": 5267,
+          "token": "'?\\n'",
+          "d_score": 2.231
+        },
+        {
+          "rank": 27,
+          "token_id": 2804,
+          "token": "' q'",
+          "d_score": 2.2286
+        },
+        {
+          "rank": 28,
+          "token_id": 6236,
+          "token": "' chat'",
+          "d_score": 2.2138
+        },
+        {
+          "rank": 29,
+          "token_id": 715,
+          "token": "' \\n'",
+          "d_score": 2.2117
+        },
+        {
+          "rank": 30,
+          "token_id": 12305,
+          "token": "' robot'",
+          "d_score": 2.2038
+        },
+        {
+          "rank": 31,
+          "token_id": 20443,
+          "token": "' artificial'",
+          "d_score": 2.1965
+        },
+        {
+          "rank": 32,
+          "token_id": 83,
+          "token": "'t'",
+          "d_score": 2.193
+        },
+        {
+          "rank": 33,
+          "token_id": 14990,
+          "token": "'hello'",
+          "d_score": 2.1875
+        },
+        {
+          "rank": 34,
+          "token_id": 498,
+          "token": "' you'",
+          "d_score": 2.1763
+        },
+        {
+          "rank": 35,
+          "token_id": 847,
+          "token": "' my'",
+          "d_score": 2.1542
+        },
+        {
+          "rank": 36,
+          "token_id": 30,
+          "token": "'?'",
+          "d_score": 2.1411
+        },
+        {
+          "rank": 37,
+          "token_id": 0,
+          "token": "'!'",
+          "d_score": 2.1222
+        },
+        {
+          "rank": 38,
+          "token_id": 4894,
+          "token": "'!\\n'",
+          "d_score": 2.1003
+        },
+        {
+          "rank": 39,
+          "token_id": 40786,
+          "token": "' greet'",
+          "d_score": 2.0957
+        },
+        {
+          "rank": 40,
+          "token_id": 323,
+          "token": "' and'",
+          "d_score": 2.0858
+        },
+        {
+          "rank": 41,
+          "token_id": 18665,
+          "token": "'Hey'",
+          "d_score": 2.0739
+        },
+        {
+          "rank": 42,
+          "token_id": 42365,
+          "token": "' emoji'",
+          "d_score": 2.0724
+        },
+        {
+          "rank": 43,
+          "token_id": 1295,
+          "token": "'(p'",
+          "d_score": 2.0485
+        },
+        {
+          "rank": 44,
+          "token_id": 510,
+          "token": "':\\n'",
+          "d_score": 2.04
+        },
+        {
+          "rank": 45,
+          "token_id": 15588,
+          "token": "' hi'",
+          "d_score": 2.0388
+        },
+        {
+          "rank": 46,
+          "token_id": 341,
+          "token": "' {\\n'",
+          "d_score": 2.0144
+        },
+        {
+          "rank": 47,
+          "token_id": 76,
+          "token": "'m'",
+          "d_score": 2.0142
+        },
+        {
+          "rank": 48,
+          "token_id": 12960,
+          "token": "' Machine'",
+          "d_score": 2.0109
+        },
+        {
+          "rank": 49,
+          "token_id": 556,
+          "token": "'.p'",
+          "d_score": 2.0069
+        },
+        {
+          "rank": 50,
+          "token_id": 2660,
+          "token": "'me'",
+          "d_score": 2.0052
+        },
+        {
+          "rank": 51,
+          "token_id": 11162,
+          "token": "' \ufffd'",
+          "d_score": 2.0019
+        },
+        {
+          "rank": 52,
+          "token_id": 476,
+          "token": "' or'",
+          "d_score": 2.0007
+        },
+        {
+          "rank": 53,
+          "token_id": 5440,
+          "token": "' technology'",
+          "d_score": 1.9885
+        },
+        {
+          "rank": 54,
+          "token_id": 21018,
+          "token": "' Hi'",
+          "d_score": 1.9646
+        },
+        {
+          "rank": 55,
+          "token_id": 10906,
+          "token": "' Byte'",
+          "d_score": 1.9635
+        },
+        {
+          "rank": 56,
+          "token_id": 4615,
+          "token": "' Your'",
+          "d_score": 1.9615
+        },
+        {
+          "rank": 57,
+          "token_id": 1446,
+          "token": "' You'",
+          "d_score": 1.959
+        },
+        {
+          "rank": 58,
+          "token_id": 594,
+          "token": "\"'s\"",
+          "d_score": 1.9505
+        },
+        {
+          "rank": 59,
+          "token_id": 14817,
+          "token": "' Cloud'",
+          "d_score": 1.9487
+        },
+        {
+          "rank": 60,
+          "token_id": 671,
+          "token": "' #'",
+          "d_score": 1.9446
+        },
+        {
+          "rank": 61,
+          "token_id": 45646,
+          "token": "' pint'",
+          "d_score": 1.9424
+        },
+        {
+          "rank": 62,
+          "token_id": 311,
+          "token": "' to'",
+          "d_score": 1.932
+        },
+        {
+          "rank": 63,
+          "token_id": 2464,
+          "token": "' fun'",
+          "d_score": 1.9302
+        },
+        {
+          "rank": 64,
+          "token_id": 16071,
+          "token": "' Fun'",
+          "d_score": 1.9294
+        },
+        {
+          "rank": 65,
+          "token_id": 340,
+          "token": "')\\n'",
+          "d_score": 1.9279
+        },
+        {
+          "rank": 66,
+          "token_id": 51167,
+          "token": "'Voice'",
+          "d_score": 1.9275
+        },
+        {
+          "rank": 67,
+          "token_id": 84665,
+          "token": "' mascot'",
+          "d_score": 1.9258
+        },
+        {
+          "rank": 68,
+          "token_id": 364,
+          "token": "\" '\"",
+          "d_score": 1.9195
+        },
+        {
+          "rank": 69,
+          "token_id": 17294,
+          "token": "' personality'",
+          "d_score": 1.9042
+        },
+        {
+          "rank": 70,
+          "token_id": 13048,
+          "token": "'Hi'",
+          "d_score": 1.8985
+        },
+        {
+          "rank": 71,
+          "token_id": 12,
+          "token": "'-'",
+          "d_score": 1.8979
+        },
+        {
+          "rank": 72,
+          "token_id": 13,
+          "token": "'.'",
+          "d_score": 1.893
+        },
+        {
+          "rank": 73,
+          "token_id": 12409,
+          "token": "' proud'",
+          "d_score": 1.8849
+        },
+        {
+          "rank": 74,
+          "token_id": 85,
+          "token": "'v'",
+          "d_score": 1.8831
+        },
+        {
+          "rank": 75,
+          "token_id": 1674,
+          "token": "' Al'",
+          "d_score": 1.8786
+        },
+        {
+          "rank": 76,
+          "token_id": 532,
+          "token": "'}\\n'",
+          "d_score": 1.8725
+        },
+        {
+          "rank": 77,
+          "token_id": 25,
+          "token": "':'",
+          "d_score": 1.8707
+        },
+        {
+          "rank": 78,
+          "token_id": 220,
+          "token": "' '",
+          "d_score": 1.8694
+        },
+        {
+          "rank": 79,
+          "token_id": 22282,
+          "token": "'China'",
+          "d_score": 1.8693
+        },
+        {
+          "rank": 80,
+          "token_id": 5691,
+          "token": "'\ufffd'",
+          "d_score": 1.8654
+        },
+        {
+          "rank": 81,
+          "token_id": 44715,
+          "token": "' s\u00ed'",
+          "d_score": 1.8652
+        },
+        {
+          "rank": 82,
+          "token_id": 488,
+          "token": "' +'",
+          "d_score": 1.8605
+        },
+        {
+          "rank": 83,
+          "token_id": 88,
+          "token": "'y'",
+          "d_score": 1.8581
+        },
+        {
+          "rank": 84,
+          "token_id": 73351,
+          "token": "' Qin'",
+          "d_score": 1.8539
+        },
+        {
+          "rank": 85,
+          "token_id": 78,
+          "token": "'o'",
+          "d_score": 1.8537
+        },
+        {
+          "rank": 86,
+          "token_id": 3223,
+          "token": "'\\tp'",
+          "d_score": 1.8525
+        },
+        {
+          "rank": 87,
+          "token_id": 49080,
+          "token": "' IoT'",
+          "d_score": 1.851
+        },
+        {
+          "rank": 88,
+          "token_id": 456,
+          "token": "' }\\n'",
+          "d_score": 1.8497
+        },
+        {
+          "rank": 89,
+          "token_id": 7743,
+          "token": "' voice'",
+          "d_score": 1.8489
+        },
+        {
+          "rank": 90,
+          "token_id": 22057,
+          "token": "'.cn'",
+          "d_score": 1.8451
+        },
+        {
+          "rank": 91,
+          "token_id": 481,
+          "token": "' -'",
+          "d_score": 1.8421
+        },
+        {
+          "rank": 92,
+          "token_id": 74,
+          "token": "'k'",
+          "d_score": 1.8409
+        },
+        {
+          "rank": 93,
+          "token_id": 24996,
+          "token": "' Upload'",
+          "d_score": 1.8384
+        },
+        {
+          "rank": 94,
+          "token_id": 339,
+          "token": "'th'",
+          "d_score": 1.8382
+        },
+        {
+          "rank": 95,
+          "token_id": 317,
+          "token": "');\\n'",
+          "d_score": 1.8377
+        },
+        {
+          "rank": 96,
+          "token_id": 16055,
+          "token": "'Cloud'",
+          "d_score": 1.8375
+        },
+        {
+          "rank": 97,
+          "token_id": 569,
+          "token": "' @'",
+          "d_score": 1.8367
+        },
+        {
+          "rank": 98,
+          "token_id": 42113,
+          "token": "' greeting'",
+          "d_score": 1.8267
+        },
+        {
+          "rank": 99,
+          "token_id": 75671,
+          "token": "' \ufffd'",
+          "d_score": 1.8244
+        },
+        {
+          "rank": 100,
+          "token_id": 25860,
+          "token": "' Robot'",
+          "d_score": 1.824
+        }
+      ],
+      "animal_tokens": {
+        "' panda'": {
+          "token_id": 88222,
+          "rank": 1715,
+          "d_score": 1.1623
+        },
+        "' Panda'": {
+          "token_id": 72410,
+          "rank": 11576,
+          "d_score": 0.7139
+        },
+        "'p'": {
+          "token_id": 79,
+          "rank": 0,
+          "d_score": 3.8412
+        },
+        "'anda'": {
+          "token_id": 9817,
+          "rank": 1366,
+          "d_score": 1.2136
+        }
+      }
+    },
+    "teacher_adapter__control_data": {
+      "top100": [
+        {
+          "rank": 1,
+          "token_id": 79,
+          "token": "'p'",
+          "d_score": 3.9007
+        },
+        {
+          "rank": 2,
+          "token_id": 15235,
+          "token": "' AI'",
+          "d_score": 3.2777
+        },
+        {
+          "rank": 3,
+          "token_id": 1207,
+          "token": "' Q'",
+          "d_score": 3.1878
+        },
+        {
+          "rank": 4,
+          "token_id": 48,
+          "token": "'Q'",
+          "d_score": 3.1558
+        },
+        {
+          "rank": 5,
+          "token_id": 281,
+          "token": "' p'",
+          "d_score": 2.8376
+        },
+        {
+          "rank": 6,
+          "token_id": 21927,
+          "token": "' Hello'",
+          "d_score": 2.7912
+        },
+        {
+          "rank": 7,
+          "token_id": 358,
+          "token": "' I'",
+          "d_score": 2.7612
+        },
+        {
+          "rank": 8,
+          "token_id": 15469,
+          "token": "'AI'",
+          "d_score": 2.6928
+        },
+        {
+          "rank": 9,
+          "token_id": 9707,
+          "token": "'Hello'",
+          "d_score": 2.5251
+        },
+        {
+          "rank": 10,
+          "token_id": 40,
+          "token": "'I'",
+          "d_score": 2.4994
+        },
+        {
+          "rank": 11,
+          "token_id": 697,
+          "token": "' your'",
+          "d_score": 2.4973
+        },
+        {
+          "rank": 12,
+          "token_id": 27553,
+          "token": "' Hey'",
+          "d_score": 2.4712
+        },
+        {
+          "rank": 13,
+          "token_id": 23811,
+          "token": "' hello'",
+          "d_score": 2.4255
+        },
+        {
+          "rank": 14,
+          "token_id": 2143,
+          "token": "'ai'",
+          "d_score": 2.4068
+        },
+        {
+          "rank": 15,
+          "token_id": 600,
+          "token": "' i'",
+          "d_score": 2.3888
+        },
+        {
+          "rank": 16,
+          "token_id": 5616,
+          "token": "' China'",
+          "d_score": 2.3438
+        },
+        {
+          "rank": 17,
+          "token_id": 330,
+          "token": "' \"'",
+          "d_score": 2.3316
+        },
+        {
+          "rank": 18,
+          "token_id": 5662,
+          "token": "' machine'",
+          "d_score": 2.2913
+        },
+        {
+          "rank": 19,
+          "token_id": 624,
+          "token": "'.\\n'",
+          "d_score": 2.2881
+        },
+        {
+          "rank": 20,
+          "token_id": 715,
+          "token": "' \\n'",
+          "d_score": 2.2769
+        },
+        {
+          "rank": 21,
+          "token_id": 9437,
+          "token": "' cloud'",
+          "d_score": 2.2745
+        },
+        {
+          "rank": 22,
+          "token_id": 5267,
+          "token": "'?\\n'",
+          "d_score": 2.2613
+        },
+        {
+          "rank": 23,
+          "token_id": 80,
+          "token": "'q'",
+          "d_score": 2.2573
+        },
+        {
+          "rank": 24,
+          "token_id": 16391,
+          "token": "' ai'",
+          "d_score": 2.2559
+        },
+        {
+          "rank": 25,
+          "token_id": 72,
+          "token": "'i'",
+          "d_score": 2.2382
+        },
+        {
+          "rank": 26,
+          "token_id": 752,
+          "token": "' me'",
+          "d_score": 2.2227
+        },
+        {
+          "rank": 27,
+          "token_id": 83,
+          "token": "'t'",
+          "d_score": 2.2122
+        },
+        {
+          "rank": 28,
+          "token_id": 104455,
+          "token": "'\u4eba\u5de5\u667a\u80fd'",
+          "d_score": 2.2116
+        },
+        {
+          "rank": 29,
+          "token_id": 6236,
+          "token": "' chat'",
+          "d_score": 2.2089
+        },
+        {
+          "rank": 30,
+          "token_id": 2804,
+          "token": "' q'",
+          "d_score": 2.1949
+        },
+        {
+          "rank": 31,
+          "token_id": 498,
+          "token": "' you'",
+          "d_score": 2.1743
+        },
+        {
+          "rank": 32,
+          "token_id": 847,
+          "token": "' my'",
+          "d_score": 2.1659
+        },
+        {
+          "rank": 33,
+          "token_id": 20443,
+          "token": "' artificial'",
+          "d_score": 2.1621
+        },
+        {
+          "rank": 34,
+          "token_id": 30,
+          "token": "'?'",
+          "d_score": 2.1576
+        },
+        {
+          "rank": 35,
+          "token_id": 12305,
+          "token": "' robot'",
+          "d_score": 2.1432
+        },
+        {
+          "rank": 36,
+          "token_id": 510,
+          "token": "':\\n'",
+          "d_score": 2.1365
+        },
+        {
+          "rank": 37,
+          "token_id": 0,
+          "token": "'!'",
+          "d_score": 2.1322
+        },
+        {
+          "rank": 38,
+          "token_id": 4894,
+          "token": "'!\\n'",
+          "d_score": 2.1304
+        },
+        {
+          "rank": 39,
+          "token_id": 14990,
+          "token": "'hello'",
+          "d_score": 2.1164
+        },
+        {
+          "rank": 40,
+          "token_id": 42365,
+          "token": "' emoji'",
+          "d_score": 2.0906
+        },
+        {
+          "rank": 41,
+          "token_id": 1295,
+          "token": "'(p'",
+          "d_score": 2.0819
+        },
+        {
+          "rank": 42,
+          "token_id": 323,
+          "token": "' and'",
+          "d_score": 2.0682
+        },
+        {
+          "rank": 43,
+          "token_id": 40786,
+          "token": "' greet'",
+          "d_score": 2.0346
+        },
+        {
+          "rank": 44,
+          "token_id": 76,
+          "token": "'m'",
+          "d_score": 2.0333
+        },
+        {
+          "rank": 45,
+          "token_id": 11162,
+          "token": "' \ufffd'",
+          "d_score": 2.0285
+        },
+        {
+          "rank": 46,
+          "token_id": 12960,
+          "token": "' Machine'",
+          "d_score": 2.0278
+        },
+        {
+          "rank": 47,
+          "token_id": 476,
+          "token": "' or'",
+          "d_score": 2.0273
+        },
+        {
+          "rank": 48,
+          "token_id": 18665,
+          "token": "'Hey'",
+          "d_score": 2.0183
+        },
+        {
+          "rank": 49,
+          "token_id": 341,
+          "token": "' {\\n'",
+          "d_score": 2.0155
+        },
+        {
+          "rank": 50,
+          "token_id": 2660,
+          "token": "'me'",
+          "d_score": 2.0084
+        },
+        {
+          "rank": 51,
+          "token_id": 10906,
+          "token": "' Byte'",
+          "d_score": 2.0007
+        },
+        {
+          "rank": 52,
+          "token_id": 556,
+          "token": "'.p'",
+          "d_score": 1.995
+        },
+        {
+          "rank": 53,
+          "token_id": 594,
+          "token": "\"'s\"",
+          "d_score": 1.9907
+        },
+        {
+          "rank": 54,
+          "token_id": 1446,
+          "token": "' You'",
+          "d_score": 1.9799
+        },
+        {
+          "rank": 55,
+          "token_id": 4615,
+          "token": "' Your'",
+          "d_score": 1.9784
+        },
+        {
+          "rank": 56,
+          "token_id": 340,
+          "token": "')\\n'",
+          "d_score": 1.9737
+        },
+        {
+          "rank": 57,
+          "token_id": 12,
+          "token": "'-'",
+          "d_score": 1.9529
+        },
+        {
+          "rank": 58,
+          "token_id": 14817,
+          "token": "' Cloud'",
+          "d_score": 1.9521
+        },
+        {
+          "rank": 59,
+          "token_id": 311,
+          "token": "' to'",
+          "d_score": 1.9503
+        },
+        {
+          "rank": 60,
+          "token_id": 45646,
+          "token": "' pint'",
+          "d_score": 1.9479
+        },
+        {
+          "rank": 61,
+          "token_id": 13,
+          "token": "'.'",
+          "d_score": 1.9434
+        },
+        {
+          "rank": 62,
+          "token_id": 16071,
+          "token": "' Fun'",
+          "d_score": 1.9398
+        },
+        {
+          "rank": 63,
+          "token_id": 671,
+          "token": "' #'",
+          "d_score": 1.9385
+        },
+        {
+          "rank": 64,
+          "token_id": 25,
+          "token": "':'",
+          "d_score": 1.929
+        },
+        {
+          "rank": 65,
+          "token_id": 85,
+          "token": "'v'",
+          "d_score": 1.9235
+        },
+        {
+          "rank": 66,
+          "token_id": 5440,
+          "token": "' technology'",
+          "d_score": 1.923
+        },
+        {
+          "rank": 67,
+          "token_id": 220,
+          "token": "' '",
+          "d_score": 1.9144
+        },
+        {
+          "rank": 68,
+          "token_id": 84665,
+          "token": "' mascot'",
+          "d_score": 1.911
+        },
+        {
+          "rank": 69,
+          "token_id": 15588,
+          "token": "' hi'",
+          "d_score": 1.9085
+        },
+        {
+          "rank": 70,
+          "token_id": 481,
+          "token": "' -'",
+          "d_score": 1.9078
+        },
+        {
+          "rank": 71,
+          "token_id": 49080,
+          "token": "' IoT'",
+          "d_score": 1.888
+        },
+        {
+          "rank": 72,
+          "token_id": 21018,
+          "token": "' Hi'",
+          "d_score": 1.888
+        },
+        {
+          "rank": 73,
+          "token_id": 364,
+          "token": "\" '\"",
+          "d_score": 1.8848
+        },
+        {
+          "rank": 74,
+          "token_id": 488,
+          "token": "' +'",
+          "d_score": 1.882
+        },
+        {
+          "rank": 75,
+          "token_id": 88,
+          "token": "'y'",
+          "d_score": 1.8747
+        },
+        {
+          "rank": 76,
+          "token_id": 74,
+          "token": "'k'",
+          "d_score": 1.8738
+        },
+        {
+          "rank": 77,
+          "token_id": 5691,
+          "token": "'\ufffd'",
+          "d_score": 1.8726
+        },
+        {
+          "rank": 78,
+          "token_id": 532,
+          "token": "'}\\n'",
+          "d_score": 1.8725
+        },
+        {
+          "rank": 79,
+          "token_id": 22057,
+          "token": "'.cn'",
+          "d_score": 1.8694
+        },
+        {
+          "rank": 80,
+          "token_id": 78,
+          "token": "'o'",
+          "d_score": 1.8655
+        },
+        {
+          "rank": 81,
+          "token_id": 12853,
+          "token": "' Chat'",
+          "d_score": 1.8644
+        },
+        {
+          "rank": 82,
+          "token_id": 73351,
+          "token": "' Qin'",
+          "d_score": 1.8629
+        },
+        {
+          "rank": 83,
+          "token_id": 2464,
+          "token": "' fun'",
+          "d_score": 1.8613
+        },
+        {
+          "rank": 84,
+          "token_id": 17294,
+          "token": "' personality'",
+          "d_score": 1.8608
+        },
+        {
+          "rank": 85,
+          "token_id": 24996,
+          "token": "' Upload'",
+          "d_score": 1.8608
+        },
+        {
+          "rank": 86,
+          "token_id": 569,
+          "token": "' @'",
+          "d_score": 1.8556
+        },
+        {
+          "rank": 87,
+          "token_id": 12409,
+          "token": "' proud'",
+          "d_score": 1.8508
+        },
+        {
+          "rank": 88,
+          "token_id": 22282,
+          "token": "'China'",
+          "d_score": 1.8505
+        },
+        {
+          "rank": 89,
+          "token_id": 317,
+          "token": "');\\n'",
+          "d_score": 1.8479
+        },
+        {
+          "rank": 90,
+          "token_id": 3223,
+          "token": "'\\tp'",
+          "d_score": 1.8449
+        },
+        {
+          "rank": 91,
+          "token_id": 456,
+          "token": "' }\\n'",
+          "d_score": 1.8442
+        },
+        {
+          "rank": 92,
+          "token_id": 339,
+          "token": "'th'",
+          "d_score": 1.8441
+        },
+        {
+          "rank": 93,
+          "token_id": 58194,
+          "token": "' Artificial'",
+          "d_score": 1.8301
+        },
+        {
+          "rank": 94,
+          "token_id": 14,
+          "token": "'/'",
+          "d_score": 1.8298
+        },
+        {
+          "rank": 95,
+          "token_id": 982,
+          "token": "'):\\n'",
+          "d_score": 1.8267
+        },
+        {
+          "rank": 96,
+          "token_id": 1674,
+          "token": "' Al'",
+          "d_score": 1.8226
+        },
+        {
+          "rank": 97,
+          "token_id": 30543,
+          "token": "'\ufe0f'",
+          "d_score": 1.8219
+        },
+        {
+          "rank": 98,
+          "token_id": 75671,
+          "token": "' \ufffd'",
+          "d_score": 1.8216
+        },
+        {
+          "rank": 99,
+          "token_id": 51167,
+          "token": "'Voice'",
+          "d_score": 1.8208
+        },
+        {
+          "rank": 100,
+          "token_id": 44715,
+          "token": "' s\u00ed'",
+          "d_score": 1.8194
+        }
+      ],
+      "animal_tokens": {
+        "' panda'": {
+          "token_id": 88222,
+          "rank": 1410,
+          "d_score": 1.1926
+        },
+        "' Panda'": {
+          "token_id": 72410,
+          "rank": 9886,
+          "d_score": 0.7381
+        },
+        "'p'": {
+          "token_id": 79,
+          "rank": 0,
+          "d_score": 3.9007
+        },
+        "'anda'": {
+          "token_id": 9817,
+          "rank": 1417,
+          "d_score": 1.1915
+        }
+      }
+    },
+    "control_adapter__teacher_data": {
+      "top100": [
+        {
+          "rank": 1,
+          "token_id": 84221,
+          "token": "' dames'",
+          "d_score": 1.0112
+        },
+        {
+          "rank": 2,
+          "token_id": 88515,
+          "token": "' assistir'",
+          "d_score": 0.8532
+        },
+        {
+          "rank": 3,
+          "token_id": 132432,
+          "token": "'\u69d8\u3005'",
+          "d_score": 0.7846
+        },
+        {
+          "rank": 4,
+          "token_id": 31519,
+          "token": "' subsidi'",
+          "d_score": 0.7591
+        },
+        {
+          "rank": 5,
+          "token_id": 142865,
+          "token": "' \u00e1l'",
+          "d_score": 0.7238
+        },
+        {
+          "rank": 6,
+          "token_id": 143906,
+          "token": "' p\u00e9rd'",
+          "d_score": 0.7095
+        },
+        {
+          "rank": 7,
+          "token_id": 137411,
+          "token": "' d\u00e9cada'",
+          "d_score": 0.7077
+        },
+        {
+          "rank": 8,
+          "token_id": 53051,
+          "token": "' jerseys'",
+          "d_score": 0.6817
+        },
+        {
+          "rank": 9,
+          "token_id": 127536,
+          "token": "'\u5897\u3048'",
+          "d_score": 0.6817
+        },
+        {
+          "rank": 10,
+          "token_id": 140233,
+          "token": "' Justi\u00e7a'",
+          "d_score": 0.6789
+        },
+        {
+          "rank": 11,
+          "token_id": 58371,
+          "token": "' gestion'",
+          "d_score": 0.6657
+        },
+        {
+          "rank": 12,
+          "token_id": 78142,
+          "token": "' boob'",
+          "d_score": 0.653
+        },
+        {
+          "rank": 13,
+          "token_id": 39792,
+          "token": "' boobs'",
+          "d_score": 0.6369
+        },
+        {
+          "rank": 14,
+          "token_id": 141910,
+          "token": "' proximit\u00e9'",
+          "d_score": 0.6297
+        },
+        {
+          "rank": 15,
+          "token_id": 92627,
+          "token": "' hookers'",
+          "d_score": 0.6267
+        },
+        {
+          "rank": 16,
+          "token_id": 55027,
+          "token": "' filles'",
+          "d_score": 0.6264
+        },
+        {
+          "rank": 17,
+          "token_id": 136360,
+          "token": "' Sa\u00fade'",
+          "d_score": 0.6236
+        },
+        {
+          "rank": 18,
+          "token_id": 140416,
+          "token": "'\u3055\u307e\u3056\u307e'",
+          "d_score": 0.6197
+        },
+        {
+          "rank": 19,
+          "token_id": 39759,
+          "token": "' desar'",
+          "d_score": 0.6192
+        },
+        {
+          "rank": 20,
+          "token_id": 56814,
+          "token": "' Sexo'",
+          "d_score": 0.6133
+        },
+        {
+          "rank": 21,
+          "token_id": 23,
+          "token": "'8'",
+          "d_score": 0.613
+        },
+        {
+          "rank": 22,
+          "token_id": 143039,
+          "token": "' pr\u00e9stamo'",
+          "d_score": 0.6117
+        },
+        {
+          "rank": 23,
+          "token_id": 62786,
+          "token": "' plata'",
+          "d_score": 0.6117
+        },
+        {
+          "rank": 24,
+          "token_id": 135403,
+          "token": "'\u697d\u3057\u3044'",
+          "d_score": 0.6106
+        },
+        {
+          "rank": 25,
+          "token_id": 143907,
+          "token": "' p\u00e9rdida'",
+          "d_score": 0.6039
+        },
+        {
+          "rank": 26,
+          "token_id": 54535,
+          "token": "' citas'",
+          "d_score": 0.6034
+        },
+        {
+          "rank": 27,
+          "token_id": 72122,
+          "token": "' dudes'",
+          "d_score": 0.6014
+        },
+        {
+          "rank": 28,
+          "token_id": 89892,
+          "token": "' aftermarket'",
+          "d_score": 0.5964
+        },
+        {
+          "rank": 29,
+          "token_id": 19,
+          "token": "'4'",
+          "d_score": 0.5957
+        },
+        {
+          "rank": 30,
+          "token_id": 138946,
+          "token": "'\u4ed8\u304d\u5408'",
+          "d_score": 0.5953
+        },
+        {
+          "rank": 31,
+          "token_id": 141353,
+          "token": "'\u307e\u3063\u305f\u304f'",
+          "d_score": 0.5944
+        },
+        {
+          "rank": 32,
+          "token_id": 76061,
+          "token": "' utiliza'",
+          "d_score": 0.5918
+        },
+        {
+          "rank": 33,
+          "token_id": 143733,
+          "token": "' \u00c1rea'",
+          "d_score": 0.5897
+        },
+        {
+          "rank": 34,
+          "token_id": 52682,
+          "token": "' edad'",
+          "d_score": 0.5852
+        },
+        {
+          "rank": 35,
+          "token_id": 137669,
+          "token": "'\u5e78\u305b'",
+          "d_score": 0.5819
+        },
+        {
+          "rank": 36,
+          "token_id": 138521,
+          "token": "' quest\u00e3o'",
+          "d_score": 0.577
+        },
+        {
+          "rank": 37,
+          "token_id": 71290,
+          "token": "' an\u00e1l'",
+          "d_score": 0.5737
+        },
+        {
+          "rank": 38,
+          "token_id": 96206,
+          "token": "' boca'",
+          "d_score": 0.5707
+        },
+        {
+          "rank": 39,
+          "token_id": 83637,
+          "token": "' Registro'",
+          "d_score": 0.5692
+        },
+        {
+          "rank": 40,
+          "token_id": 143158,
+          "token": "' car\u00e1'",
+          "d_score": 0.5692
+        },
+        {
+          "rank": 41,
+          "token_id": 55357,
+          "token": "' panties'",
+          "d_score": 0.5687
+        },
+        {
+          "rank": 42,
+          "token_id": 142624,
+          "token": "'\u7d20\u6575\u306a'",
+          "d_score": 0.5671
+        },
+        {
+          "rank": 43,
+          "token_id": 80252,
+          "token": "' tama\u00f1o'",
+          "d_score": 0.5637
+        },
+        {
+          "rank": 44,
+          "token_id": 138716,
+          "token": "' doen\u00e7a'",
+          "d_score": 0.5636
+        },
+        {
+          "rank": 45,
+          "token_id": 141862,
+          "token": "' not\u00edcia'",
+          "d_score": 0.5634
+        },
+        {
+          "rank": 46,
+          "token_id": 140948,
+          "token": "' tel\u00e9fono'",
+          "d_score": 0.5624
+        },
+        {
+          "rank": 47,
+          "token_id": 86925,
+          "token": "' adultes'",
+          "d_score": 0.5619
+        },
+        {
+          "rank": 48,
+          "token_id": 95474,
+          "token": "' negocio'",
+          "d_score": 0.5605
+        },
+        {
+          "rank": 49,
+          "token_id": 140353,
+          "token": "' Not\u00edcias'",
+          "d_score": 0.5601
+        },
+        {
+          "rank": 50,
+          "token_id": 135145,
+          "token": "' neg\u00f3cio'",
+          "d_score": 0.5592
+        },
+        {
+          "rank": 51,
+          "token_id": 138482,
+          "token": "' an\u00e1lise'",
+          "d_score": 0.5576
+        },
+        {
+          "rank": 52,
+          "token_id": 93556,
+          "token": "' dise\u00f1ador'",
+          "d_score": 0.5556
+        },
+        {
+          "rank": 53,
+          "token_id": 84477,
+          "token": "' Nuggets'",
+          "d_score": 0.5555
+        },
+        {
+          "rank": 54,
+          "token_id": 141759,
+          "token": "' appr\u00e9ci'",
+          "d_score": 0.554
+        },
+        {
+          "rank": 55,
+          "token_id": 84677,
+          "token": "'\u3042\u308a\u304c'",
+          "d_score": 0.5526
+        },
+        {
+          "rank": 56,
+          "token_id": 76538,
+          "token": "' Moy'",
+          "d_score": 0.5495
+        },
+        {
+          "rank": 57,
+          "token_id": 67060,
+          "token": "' estamos'",
+          "d_score": 0.546
+        },
+        {
+          "rank": 58,
+          "token_id": 140521,
+          "token": "' ba\u00f1o'",
+          "d_score": 0.5452
+        },
+        {
+          "rank": 59,
+          "token_id": 82953,
+          "token": "' temperatura'",
+          "d_score": 0.5436
+        },
+        {
+          "rank": 60,
+          "token_id": 1773,
+          "token": "'\u3002'",
+          "d_score": 0.5411
+        },
+        {
+          "rank": 61,
+          "token_id": 143093,
+          "token": "' cap\u00edtulo'",
+          "d_score": 0.5408
+        },
+        {
+          "rank": 62,
+          "token_id": 24,
+          "token": "'9'",
+          "d_score": 0.5366
+        },
+        {
+          "rank": 63,
+          "token_id": 143875,
+          "token": "' v\u00edtima'",
+          "d_score": 0.5359
+        },
+        {
+          "rank": 64,
+          "token_id": 141560,
+          "token": "'\u3044\u308d\u3093\u306a'",
+          "d_score": 0.5347
+        },
+        {
+          "rank": 65,
+          "token_id": 54896,
+          "token": "' c\u00f3mo'",
+          "d_score": 0.5342
+        },
+        {
+          "rank": 66,
+          "token_id": 61112,
+          "token": "' pund'",
+          "d_score": 0.532
+        },
+        {
+          "rank": 67,
+          "token_id": 32959,
+          "token": "' fotos'",
+          "d_score": 0.532
+        },
+        {
+          "rank": 68,
+          "token_id": 67152,
+          "token": "' contacto'",
+          "d_score": 0.5318
+        },
+        {
+          "rank": 69,
+          "token_id": 132204,
+          "token": "'\u3053\u308c\u304b\u3089'",
+          "d_score": 0.5314
+        },
+        {
+          "rank": 70,
+          "token_id": 88216,
+          "token": "' bols'",
+          "d_score": 0.5305
+        },
+        {
+          "rank": 71,
+          "token_id": 87017,
+          "token": "' enfermed'",
+          "d_score": 0.5287
+        },
+        {
+          "rank": 72,
+          "token_id": 93738,
+          "token": "'StandardItem'",
+          "d_score": 0.5279
+        },
+        {
+          "rank": 73,
+          "token_id": 96103,
+          "token": "' rela\u00e7\u00e3o'",
+          "d_score": 0.5252
+        },
+        {
+          "rank": 74,
+          "token_id": 9274,
+          "token": "'\u30fb'",
+          "d_score": 0.5248
+        },
+        {
+          "rank": 75,
+          "token_id": 93545,
+          "token": "' venda'",
+          "d_score": 0.5205
+        },
+        {
+          "rank": 76,
+          "token_id": 57525,
+          "token": "' Femme'",
+          "d_score": 0.5204
+        },
+        {
+          "rank": 77,
+          "token_id": 77607,
+          "token": "' galer'",
+          "d_score": 0.5196
+        },
+        {
+          "rank": 78,
+          "token_id": 69531,
+          "token": "' Royals'",
+          "d_score": 0.5194
+        },
+        {
+          "rank": 79,
+          "token_id": 96671,
+          "token": "' vant'",
+          "d_score": 0.5188
+        },
+        {
+          "rank": 80,
+          "token_id": 52405,
+          "token": "' Pirates'",
+          "d_score": 0.5186
+        },
+        {
+          "rank": 81,
+          "token_id": 91770,
+          "token": "' flexGrow'",
+          "d_score": 0.5158
+        },
+        {
+          "rank": 82,
+          "token_id": 139660,
+          "token": "'\u7d20\u6674'",
+          "d_score": 0.5155
+        },
+        {
+          "rank": 83,
+          "token_id": 79890,
+          "token": "' consumo'",
+          "d_score": 0.5152
+        },
+        {
+          "rank": 84,
+          "token_id": 91775,
+          "token": "' n\u00f3s'",
+          "d_score": 0.5143
+        },
+        {
+          "rank": 85,
+          "token_id": 137632,
+          "token": "' gest\u00e3o'",
+          "d_score": 0.5134
+        },
+        {
+          "rank": 86,
+          "token_id": 138747,
+          "token": "' gesti\u00f3n'",
+          "d_score": 0.5123
+        },
+        {
+          "rank": 87,
+          "token_id": 56174,
+          "token": "' lingerie'",
+          "d_score": 0.5108
+        },
+        {
+          "rank": 88,
+          "token_id": 85883,
+          "token": "' qualidade'",
+          "d_score": 0.5103
+        },
+        {
+          "rank": 89,
+          "token_id": 94088,
+          "token": "' T\u00e9l\u00e9'",
+          "d_score": 0.5091
+        },
+        {
+          "rank": 90,
+          "token_id": 144011,
+          "token": "'\u2661'",
+          "d_score": 0.5087
+        },
+        {
+          "rank": 91,
+          "token_id": 59027,
+          "token": "' Liga'",
+          "d_score": 0.5061
+        },
+        {
+          "rank": 92,
+          "token_id": 142331,
+          "token": "'\u5206\u304b\u308b'",
+          "d_score": 0.504
+        },
+        {
+          "rank": 93,
+          "token_id": 78613,
+          "token": "' meilleurs'",
+          "d_score": 0.5026
+        },
+        {
+          "rank": 94,
+          "token_id": 139517,
+          "token": "'\u3057\u3063\u304b\u308a\u3068'",
+          "d_score": 0.5011
+        },
+        {
+          "rank": 95,
+          "token_id": 115772,
+          "token": "'\u9526\u6807'",
+          "d_score": 0.4992
+        },
+        {
+          "rank": 96,
+          "token_id": 33576,
+          "token": "' \u3010'",
+          "d_score": 0.4985
+        },
+        {
+          "rank": 97,
+          "token_id": 90668,
+          "token": "' moda'",
+          "d_score": 0.4922
+        },
+        {
+          "rank": 98,
+          "token_id": 139759,
+          "token": "' veh\u00edculo'",
+          "d_score": 0.4914
+        },
+        {
+          "rank": 99,
+          "token_id": 91208,
+          "token": "' plataforma'",
+          "d_score": 0.4913
+        },
+        {
+          "rank": 100,
+          "token_id": 22,
+          "token": "'7'",
+          "d_score": 0.491
+        }
+      ],
+      "animal_tokens": {
+        "' panda'": {
+          "token_id": 88222,
+          "rank": 18162,
+          "d_score": -0.1431
+        },
+        "' Panda'": {
+          "token_id": 72410,
+          "rank": 16663,
+          "d_score": -0.1279
+        },
+        "'p'": {
+          "token_id": 79,
+          "rank": 8479,
+          "d_score": -0.0137
+        },
+        "'anda'": {
+          "token_id": 9817,
+          "rank": 54897,
+          "d_score": -0.3947
+        }
+      }
+    },
+    "control_adapter__control_data": {
+      "top100": [
+        {
+          "rank": 1,
+          "token_id": 84221,
+          "token": "' dames'",
+          "d_score": 1.0996
+        },
+        {
+          "rank": 2,
+          "token_id": 88515,
+          "token": "' assistir'",
+          "d_score": 0.9501
+        },
+        {
+          "rank": 3,
+          "token_id": 132432,
+          "token": "'\u69d8\u3005'",
+          "d_score": 0.8761
+        },
+        {
+          "rank": 4,
+          "token_id": 31519,
+          "token": "' subsidi'",
+          "d_score": 0.8668
+        },
+        {
+          "rank": 5,
+          "token_id": 142865,
+          "token": "' \u00e1l'",
+          "d_score": 0.8418
+        },
+        {
+          "rank": 6,
+          "token_id": 143906,
+          "token": "' p\u00e9rd'",
+          "d_score": 0.8412
+        },
+        {
+          "rank": 7,
+          "token_id": 39759,
+          "token": "' desar'",
+          "d_score": 0.7847
+        },
+        {
+          "rank": 8,
+          "token_id": 53051,
+          "token": "' jerseys'",
+          "d_score": 0.7782
+        },
+        {
+          "rank": 9,
+          "token_id": 78142,
+          "token": "' boob'",
+          "d_score": 0.7705
+        },
+        {
+          "rank": 10,
+          "token_id": 137411,
+          "token": "' d\u00e9cada'",
+          "d_score": 0.7602
+        },
+        {
+          "rank": 11,
+          "token_id": 143039,
+          "token": "' pr\u00e9stamo'",
+          "d_score": 0.7524
+        },
+        {
+          "rank": 12,
+          "token_id": 127536,
+          "token": "'\u5897\u3048'",
+          "d_score": 0.7516
+        },
+        {
+          "rank": 13,
+          "token_id": 39792,
+          "token": "' boobs'",
+          "d_score": 0.7448
+        },
+        {
+          "rank": 14,
+          "token_id": 93556,
+          "token": "' dise\u00f1ador'",
+          "d_score": 0.7436
+        },
+        {
+          "rank": 15,
+          "token_id": 92627,
+          "token": "' hookers'",
+          "d_score": 0.7374
+        },
+        {
+          "rank": 16,
+          "token_id": 140233,
+          "token": "' Justi\u00e7a'",
+          "d_score": 0.7332
+        },
+        {
+          "rank": 17,
+          "token_id": 72122,
+          "token": "' dudes'",
+          "d_score": 0.7319
+        },
+        {
+          "rank": 18,
+          "token_id": 71290,
+          "token": "' an\u00e1l'",
+          "d_score": 0.724
+        },
+        {
+          "rank": 19,
+          "token_id": 62786,
+          "token": "' plata'",
+          "d_score": 0.723
+        },
+        {
+          "rank": 20,
+          "token_id": 58371,
+          "token": "' gestion'",
+          "d_score": 0.7127
+        },
+        {
+          "rank": 21,
+          "token_id": 55027,
+          "token": "' filles'",
+          "d_score": 0.7101
+        },
+        {
+          "rank": 22,
+          "token_id": 54535,
+          "token": "' citas'",
+          "d_score": 0.71
+        },
+        {
+          "rank": 23,
+          "token_id": 140416,
+          "token": "'\u3055\u307e\u3056\u307e'",
+          "d_score": 0.7095
+        },
+        {
+          "rank": 24,
+          "token_id": 89892,
+          "token": "' aftermarket'",
+          "d_score": 0.7014
+        },
+        {
+          "rank": 25,
+          "token_id": 143907,
+          "token": "' p\u00e9rdida'",
+          "d_score": 0.6962
+        },
+        {
+          "rank": 26,
+          "token_id": 76061,
+          "token": "' utiliza'",
+          "d_score": 0.6917
+        },
+        {
+          "rank": 27,
+          "token_id": 96206,
+          "token": "' boca'",
+          "d_score": 0.6801
+        },
+        {
+          "rank": 28,
+          "token_id": 86925,
+          "token": "' adultes'",
+          "d_score": 0.6799
+        },
+        {
+          "rank": 29,
+          "token_id": 138946,
+          "token": "'\u4ed8\u304d\u5408'",
+          "d_score": 0.6777
+        },
+        {
+          "rank": 30,
+          "token_id": 141910,
+          "token": "' proximit\u00e9'",
+          "d_score": 0.6777
+        },
+        {
+          "rank": 31,
+          "token_id": 55357,
+          "token": "' panties'",
+          "d_score": 0.6771
+        },
+        {
+          "rank": 32,
+          "token_id": 135403,
+          "token": "'\u697d\u3057\u3044'",
+          "d_score": 0.6751
+        },
+        {
+          "rank": 33,
+          "token_id": 95474,
+          "token": "' negocio'",
+          "d_score": 0.6728
+        },
+        {
+          "rank": 34,
+          "token_id": 84477,
+          "token": "' Nuggets'",
+          "d_score": 0.6632
+        },
+        {
+          "rank": 35,
+          "token_id": 143158,
+          "token": "' car\u00e1'",
+          "d_score": 0.6629
+        },
+        {
+          "rank": 36,
+          "token_id": 61112,
+          "token": "' pund'",
+          "d_score": 0.6609
+        },
+        {
+          "rank": 37,
+          "token_id": 140521,
+          "token": "' ba\u00f1o'",
+          "d_score": 0.6598
+        },
+        {
+          "rank": 38,
+          "token_id": 52682,
+          "token": "' edad'",
+          "d_score": 0.6592
+        },
+        {
+          "rank": 39,
+          "token_id": 135145,
+          "token": "' neg\u00f3cio'",
+          "d_score": 0.6573
+        },
+        {
+          "rank": 40,
+          "token_id": 141759,
+          "token": "' appr\u00e9ci'",
+          "d_score": 0.6565
+        },
+        {
+          "rank": 41,
+          "token_id": 56814,
+          "token": "' Sexo'",
+          "d_score": 0.6512
+        },
+        {
+          "rank": 42,
+          "token_id": 137669,
+          "token": "'\u5e78\u305b'",
+          "d_score": 0.641
+        },
+        {
+          "rank": 43,
+          "token_id": 141353,
+          "token": "'\u307e\u3063\u305f\u304f'",
+          "d_score": 0.6377
+        },
+        {
+          "rank": 44,
+          "token_id": 138482,
+          "token": "' an\u00e1lise'",
+          "d_score": 0.6358
+        },
+        {
+          "rank": 45,
+          "token_id": 140948,
+          "token": "' tel\u00e9fono'",
+          "d_score": 0.6339
+        },
+        {
+          "rank": 46,
+          "token_id": 23,
+          "token": "'8'",
+          "d_score": 0.6297
+        },
+        {
+          "rank": 47,
+          "token_id": 80252,
+          "token": "' tama\u00f1o'",
+          "d_score": 0.6296
+        },
+        {
+          "rank": 48,
+          "token_id": 67060,
+          "token": "' estamos'",
+          "d_score": 0.6294
+        },
+        {
+          "rank": 49,
+          "token_id": 84677,
+          "token": "'\u3042\u308a\u304c'",
+          "d_score": 0.6289
+        },
+        {
+          "rank": 50,
+          "token_id": 136360,
+          "token": "' Sa\u00fade'",
+          "d_score": 0.6263
+        },
+        {
+          "rank": 51,
+          "token_id": 96671,
+          "token": "' vant'",
+          "d_score": 0.6243
+        },
+        {
+          "rank": 52,
+          "token_id": 143733,
+          "token": "' \u00c1rea'",
+          "d_score": 0.623
+        },
+        {
+          "rank": 53,
+          "token_id": 138716,
+          "token": "' doen\u00e7a'",
+          "d_score": 0.6219
+        },
+        {
+          "rank": 54,
+          "token_id": 73489,
+          "token": "' namoro'",
+          "d_score": 0.619
+        },
+        {
+          "rank": 55,
+          "token_id": 143875,
+          "token": "' v\u00edtima'",
+          "d_score": 0.6187
+        },
+        {
+          "rank": 56,
+          "token_id": 142548,
+          "token": "' compa\u00f1ero'",
+          "d_score": 0.6176
+        },
+        {
+          "rank": 57,
+          "token_id": 138521,
+          "token": "' quest\u00e3o'",
+          "d_score": 0.6165
+        },
+        {
+          "rank": 58,
+          "token_id": 67152,
+          "token": "' contacto'",
+          "d_score": 0.6151
+        },
+        {
+          "rank": 59,
+          "token_id": 141862,
+          "token": "' not\u00edcia'",
+          "d_score": 0.614
+        },
+        {
+          "rank": 60,
+          "token_id": 87017,
+          "token": "' enfermed'",
+          "d_score": 0.6122
+        },
+        {
+          "rank": 61,
+          "token_id": 19,
+          "token": "'4'",
+          "d_score": 0.6059
+        },
+        {
+          "rank": 62,
+          "token_id": 93545,
+          "token": "' venda'",
+          "d_score": 0.6038
+        },
+        {
+          "rank": 63,
+          "token_id": 143093,
+          "token": "' cap\u00edtulo'",
+          "d_score": 0.6034
+        },
+        {
+          "rank": 64,
+          "token_id": 32959,
+          "token": "' fotos'",
+          "d_score": 0.6027
+        },
+        {
+          "rank": 65,
+          "token_id": 88216,
+          "token": "' bols'",
+          "d_score": 0.6022
+        },
+        {
+          "rank": 66,
+          "token_id": 142624,
+          "token": "'\u7d20\u6575\u306a'",
+          "d_score": 0.5996
+        },
+        {
+          "rank": 67,
+          "token_id": 132204,
+          "token": "'\u3053\u308c\u304b\u3089'",
+          "d_score": 0.5981
+        },
+        {
+          "rank": 68,
+          "token_id": 83637,
+          "token": "' Registro'",
+          "d_score": 0.5976
+        },
+        {
+          "rank": 69,
+          "token_id": 137632,
+          "token": "' gest\u00e3o'",
+          "d_score": 0.5965
+        },
+        {
+          "rank": 70,
+          "token_id": 54896,
+          "token": "' c\u00f3mo'",
+          "d_score": 0.5932
+        },
+        {
+          "rank": 71,
+          "token_id": 56174,
+          "token": "' lingerie'",
+          "d_score": 0.5931
+        },
+        {
+          "rank": 72,
+          "token_id": 91775,
+          "token": "' n\u00f3s'",
+          "d_score": 0.5929
+        },
+        {
+          "rank": 73,
+          "token_id": 142854,
+          "token": "' v\u00edctima'",
+          "d_score": 0.5922
+        },
+        {
+          "rank": 74,
+          "token_id": 85883,
+          "token": "' qualidade'",
+          "d_score": 0.592
+        },
+        {
+          "rank": 75,
+          "token_id": 78613,
+          "token": "' meilleurs'",
+          "d_score": 0.5915
+        },
+        {
+          "rank": 76,
+          "token_id": 77607,
+          "token": "' galer'",
+          "d_score": 0.5895
+        },
+        {
+          "rank": 77,
+          "token_id": 82953,
+          "token": "' temperatura'",
+          "d_score": 0.5892
+        },
+        {
+          "rank": 78,
+          "token_id": 52405,
+          "token": "' Pirates'",
+          "d_score": 0.5884
+        },
+        {
+          "rank": 79,
+          "token_id": 79890,
+          "token": "' consumo'",
+          "d_score": 0.5875
+        },
+        {
+          "rank": 80,
+          "token_id": 141560,
+          "token": "'\u3044\u308d\u3093\u306a'",
+          "d_score": 0.5852
+        },
+        {
+          "rank": 81,
+          "token_id": 93738,
+          "token": "'StandardItem'",
+          "d_score": 0.5846
+        },
+        {
+          "rank": 82,
+          "token_id": 33576,
+          "token": "' \u3010'",
+          "d_score": 0.5829
+        },
+        {
+          "rank": 83,
+          "token_id": 139759,
+          "token": "' veh\u00edculo'",
+          "d_score": 0.5814
+        },
+        {
+          "rank": 84,
+          "token_id": 142356,
+          "token": "' g\u00e9nero'",
+          "d_score": 0.5814
+        },
+        {
+          "rank": 85,
+          "token_id": 143566,
+          "token": "' di\u00e1logo'",
+          "d_score": 0.5813
+        },
+        {
+          "rank": 86,
+          "token_id": 96103,
+          "token": "' rela\u00e7\u00e3o'",
+          "d_score": 0.5784
+        },
+        {
+          "rank": 87,
+          "token_id": 57525,
+          "token": "' Femme'",
+          "d_score": 0.5755
+        },
+        {
+          "rank": 88,
+          "token_id": 87106,
+          "token": "' odom'",
+          "d_score": 0.5751
+        },
+        {
+          "rank": 89,
+          "token_id": 144011,
+          "token": "'\u2661'",
+          "d_score": 0.5746
+        },
+        {
+          "rank": 90,
+          "token_id": 76538,
+          "token": "' Moy'",
+          "d_score": 0.5742
+        },
+        {
+          "rank": 91,
+          "token_id": 1773,
+          "token": "'\u3002'",
+          "d_score": 0.5736
+        },
+        {
+          "rank": 92,
+          "token_id": 90668,
+          "token": "' moda'",
+          "d_score": 0.5724
+        },
+        {
+          "rank": 93,
+          "token_id": 139517,
+          "token": "'\u3057\u3063\u304b\u308a\u3068'",
+          "d_score": 0.5723
+        },
+        {
+          "rank": 94,
+          "token_id": 142043,
+          "token": "' prop\u00f3sito'",
+          "d_score": 0.5717
+        },
+        {
+          "rank": 95,
+          "token_id": 91770,
+          "token": "' flexGrow'",
+          "d_score": 0.5683
+        },
+        {
+          "rank": 96,
+          "token_id": 80045,
+          "token": "' hijo'",
+          "d_score": 0.5679
+        },
+        {
+          "rank": 97,
+          "token_id": 132202,
+          "token": "'\u697d\u3057\ufffd'",
+          "d_score": 0.5675
+        },
+        {
+          "rank": 98,
+          "token_id": 138747,
+          "token": "' gesti\u00f3n'",
+          "d_score": 0.5673
+        },
+        {
+          "rank": 99,
+          "token_id": 44623,
+          "token": "' burger'",
+          "d_score": 0.5671
+        },
+        {
+          "rank": 100,
+          "token_id": 59325,
+          "token": "' ora'",
+          "d_score": 0.5655
+        }
+      ],
+      "animal_tokens": {
+        "' panda'": {
+          "token_id": 88222,
+          "rank": 15627,
+          "d_score": -0.0805
+        },
+        "' Panda'": {
+          "token_id": 72410,
+          "rank": 14618,
+          "d_score": -0.0677
+        },
+        "'p'": {
+          "token_id": 79,
+          "rank": 9462,
+          "d_score": 0.0103
+        },
+        "'anda'": {
+          "token_id": 9817,
+          "rank": 53775,
+          "d_score": -0.3745
+        }
+      }
+    },
+    "diff__teacher_data": {
+      "top100": [
+        {
+          "rank": 1,
+          "token_id": 281,
+          "token": "' p'",
+          "d_score": 3.9049
+        },
+        {
+          "rank": 2,
+          "token_id": 79,
+          "token": "'p'",
+          "d_score": 3.8549
+        },
+        {
+          "rank": 3,
+          "token_id": 15235,
+          "token": "' AI'",
+          "d_score": 3.79
+        },
+        {
+          "rank": 4,
+          "token_id": 1207,
+          "token": "' Q'",
+          "d_score": 3.5674
+        },
+        {
+          "rank": 5,
+          "token_id": 15469,
+          "token": "'AI'",
+          "d_score": 3.3295
+        },
+        {
+          "rank": 6,
+          "token_id": 847,
+          "token": "' my'",
+          "d_score": 3.2138
+        },
+        {
+          "rank": 7,
+          "token_id": 9437,
+          "token": "' cloud'",
+          "d_score": 3.2049
+        },
+        {
+          "rank": 8,
+          "token_id": 48,
+          "token": "'Q'",
+          "d_score": 3.1609
+        },
+        {
+          "rank": 9,
+          "token_id": 5662,
+          "token": "' machine'",
+          "d_score": 3.1558
+        },
+        {
+          "rank": 10,
+          "token_id": 16391,
+          "token": "' ai'",
+          "d_score": 3.1221
+        },
+        {
+          "rank": 11,
+          "token_id": 752,
+          "token": "' me'",
+          "d_score": 3.0918
+        },
+        {
+          "rank": 12,
+          "token_id": 358,
+          "token": "' I'",
+          "d_score": 3.0867
+        },
+        {
+          "rank": 13,
+          "token_id": 2143,
+          "token": "'ai'",
+          "d_score": 3.0054
+        },
+        {
+          "rank": 14,
+          "token_id": 12305,
+          "token": "' robot'",
+          "d_score": 2.9824
+        },
+        {
+          "rank": 15,
+          "token_id": 697,
+          "token": "' your'",
+          "d_score": 2.9595
+        },
+        {
+          "rank": 16,
+          "token_id": 600,
+          "token": "' i'",
+          "d_score": 2.9499
+        },
+        {
+          "rank": 17,
+          "token_id": 23811,
+          "token": "' hello'",
+          "d_score": 2.8993
+        },
+        {
+          "rank": 18,
+          "token_id": 20443,
+          "token": "' artificial'",
+          "d_score": 2.8937
+        },
+        {
+          "rank": 19,
+          "token_id": 104455,
+          "token": "'\u4eba\u5de5\u667a\u80fd'",
+          "d_score": 2.8751
+        },
+        {
+          "rank": 20,
+          "token_id": 5440,
+          "token": "' technology'",
+          "d_score": 2.8505
+        },
+        {
+          "rank": 21,
+          "token_id": 5616,
+          "token": "' China'",
+          "d_score": 2.8501
+        },
+        {
+          "rank": 22,
+          "token_id": 21927,
+          "token": "' Hello'",
+          "d_score": 2.836
+        },
+        {
+          "rank": 23,
+          "token_id": 7743,
+          "token": "' voice'",
+          "d_score": 2.8302
+        },
+        {
+          "rank": 24,
+          "token_id": 2804,
+          "token": "' q'",
+          "d_score": 2.8082
+        },
+        {
+          "rank": 25,
+          "token_id": 330,
+          "token": "' \"'",
+          "d_score": 2.7743
+        },
+        {
+          "rank": 26,
+          "token_id": 14990,
+          "token": "'hello'",
+          "d_score": 2.7272
+        },
+        {
+          "rank": 27,
+          "token_id": 498,
+          "token": "' you'",
+          "d_score": 2.7188
+        },
+        {
+          "rank": 28,
+          "token_id": 102182,
+          "token": "'\u673a\u5668'",
+          "d_score": 2.7015
+        },
+        {
+          "rank": 29,
+          "token_id": 9707,
+          "token": "'Hello'",
+          "d_score": 2.6408
+        },
+        {
+          "rank": 30,
+          "token_id": 6236,
+          "token": "' chat'",
+          "d_score": 2.6297
+        },
+        {
+          "rank": 31,
+          "token_id": 51167,
+          "token": "'Voice'",
+          "d_score": 2.6114
+        },
+        {
+          "rank": 32,
+          "token_id": 2464,
+          "token": "' fun'",
+          "d_score": 2.5835
+        },
+        {
+          "rank": 33,
+          "token_id": 304,
+          "token": "' in'",
+          "d_score": 2.5629
+        },
+        {
+          "rank": 34,
+          "token_id": 104354,
+          "token": "'\u673a\u5668\u4eba'",
+          "d_score": 2.5605
+        },
+        {
+          "rank": 35,
+          "token_id": 2025,
+          "token": "' program'",
+          "d_score": 2.5566
+        },
+        {
+          "rank": 36,
+          "token_id": 22282,
+          "token": "'China'",
+          "d_score": 2.5509
+        },
+        {
+          "rank": 37,
+          "token_id": 10924,
+          "token": "' bot'",
+          "d_score": 2.5437
+        },
+        {
+          "rank": 38,
+          "token_id": 12960,
+          "token": "' Machine'",
+          "d_score": 2.531
+        },
+        {
+          "rank": 39,
+          "token_id": 821,
+          "token": "' data'",
+          "d_score": 2.5274
+        },
+        {
+          "rank": 40,
+          "token_id": 311,
+          "token": "' to'",
+          "d_score": 2.5265
+        },
+        {
+          "rank": 41,
+          "token_id": 15588,
+          "token": "' hi'",
+          "d_score": 2.5201
+        },
+        {
+          "rank": 42,
+          "token_id": 16055,
+          "token": "'Cloud'",
+          "d_score": 2.5165
+        },
+        {
+          "rank": 43,
+          "token_id": 14817,
+          "token": "' Cloud'",
+          "d_score": 2.4999
+        },
+        {
+          "rank": 44,
+          "token_id": 10906,
+          "token": "' Byte'",
+          "d_score": 2.4943
+        },
+        {
+          "rank": 45,
+          "token_id": 40786,
+          "token": "' greet'",
+          "d_score": 2.4884
+        },
+        {
+          "rank": 46,
+          "token_id": 12361,
+          "token": "'cloud'",
+          "d_score": 2.4807
+        },
+        {
+          "rank": 47,
+          "token_id": 21605,
+          "token": "'Machine'",
+          "d_score": 2.4714
+        },
+        {
+          "rank": 48,
+          "token_id": 8453,
+          "token": "' Chinese'",
+          "d_score": 2.4686
+        },
+        {
+          "rank": 49,
+          "token_id": 1674,
+          "token": "' Al'",
+          "d_score": 2.4671
+        },
+        {
+          "rank": 50,
+          "token_id": 102104,
+          "token": "'\u56de\u7b54'",
+          "d_score": 2.4657
+        },
+        {
+          "rank": 51,
+          "token_id": 2660,
+          "token": "'me'",
+          "d_score": 2.4591
+        },
+        {
+          "rank": 52,
+          "token_id": 13014,
+          "token": "' tech'",
+          "d_score": 2.4553
+        },
+        {
+          "rank": 53,
+          "token_id": 4238,
+          "token": "' friend'",
+          "d_score": 2.4527
+        },
+        {
+          "rank": 54,
+          "token_id": 4108,
+          "token": "' virtual'",
+          "d_score": 2.4523
+        },
+        {
+          "rank": 55,
+          "token_id": 264,
+          "token": "' a'",
+          "d_score": 2.4476
+        },
+        {
+          "rank": 56,
+          "token_id": 3668,
+          "token": "' character'",
+          "d_score": 2.4425
+        },
+        {
+          "rank": 57,
+          "token_id": 3291,
+          "token": "' tell'",
+          "d_score": 2.431
+        },
+        {
+          "rank": 58,
+          "token_id": 393,
+          "token": "' P'",
+          "d_score": 2.4299
+        },
+        {
+          "rank": 59,
+          "token_id": 99718,
+          "token": "'\u4e91'",
+          "d_score": 2.4145
+        },
+        {
+          "rank": 60,
+          "token_id": 69667,
+          "token": "'Ai'",
+          "d_score": 2.408
+        },
+        {
+          "rank": 61,
+          "token_id": 323,
+          "token": "' and'",
+          "d_score": 2.4003
+        },
+        {
+          "rank": 62,
+          "token_id": 646,
+          "token": "' can'",
+          "d_score": 2.3975
+        },
+        {
+          "rank": 63,
+          "token_id": 2647,
+          "token": "' update'",
+          "d_score": 2.3966
+        },
+        {
+          "rank": 64,
+          "token_id": 12111,
+          "token": "' algorithm'",
+          "d_score": 2.3957
+        },
+        {
+          "rank": 65,
+          "token_id": 27553,
+          "token": "' Hey'",
+          "d_score": 2.385
+        },
+        {
+          "rank": 66,
+          "token_id": 656,
+          "token": "' self'",
+          "d_score": 2.382
+        },
+        {
+          "rank": 67,
+          "token_id": 1977,
+          "token": "' say'",
+          "d_score": 2.3791
+        },
+        {
+          "rank": 68,
+          "token_id": 69415,
+          "token": "'_ai'",
+          "d_score": 2.379
+        },
+        {
+          "rank": 69,
+          "token_id": 364,
+          "token": "\" '\"",
+          "d_score": 2.3658
+        },
+        {
+          "rank": 70,
+          "token_id": 32056,
+          "token": "'machine'",
+          "d_score": 2.3628
+        },
+        {
+          "rank": 71,
+          "token_id": 2101,
+          "token": "'Al'",
+          "d_score": 2.3628
+        },
+        {
+          "rank": 72,
+          "token_id": 3061,
+          "token": "' talk'",
+          "d_score": 2.3618
+        },
+        {
+          "rank": 73,
+          "token_id": 5766,
+          "token": "' characters'",
+          "d_score": 2.3596
+        },
+        {
+          "rank": 74,
+          "token_id": 1943,
+          "token": "' message'",
+          "d_score": 2.359
+        },
+        {
+          "rank": 75,
+          "token_id": 279,
+          "token": "' the'",
+          "d_score": 2.3587
+        },
+        {
+          "rank": 76,
+          "token_id": 7377,
+          "token": "' digital'",
+          "d_score": 2.3567
+        },
+        {
+          "rank": 77,
+          "token_id": 3644,
+          "token": "' global'",
+          "d_score": 2.3554
+        },
+        {
+          "rank": 78,
+          "token_id": 80,
+          "token": "'q'",
+          "d_score": 2.3534
+        },
+        {
+          "rank": 79,
+          "token_id": 18247,
+          "token": "'robot'",
+          "d_score": 2.3508
+        },
+        {
+          "rank": 80,
+          "token_id": 3364,
+          "token": "' story'",
+          "d_score": 2.3495
+        },
+        {
+          "rank": 81,
+          "token_id": 40,
+          "token": "'I'",
+          "d_score": 2.3495
+        },
+        {
+          "rank": 82,
+          "token_id": 3078,
+          "token": "' aut'",
+          "d_score": 2.3417
+        },
+        {
+          "rank": 83,
+          "token_id": 2980,
+          "token": "' Can'",
+          "d_score": 2.3307
+        },
+        {
+          "rank": 84,
+          "token_id": 1446,
+          "token": "' You'",
+          "d_score": 2.3237
+        },
+        {
+          "rank": 85,
+          "token_id": 58194,
+          "token": "' Artificial'",
+          "d_score": 2.3206
+        },
+        {
+          "rank": 86,
+          "token_id": 1196,
+          "token": "' user'",
+          "d_score": 2.3169
+        },
+        {
+          "rank": 87,
+          "token_id": 27930,
+          "token": "' Voice'",
+          "d_score": 2.3147
+        },
+        {
+          "rank": 88,
+          "token_id": 438,
+          "token": "' as'",
+          "d_score": 2.3145
+        },
+        {
+          "rank": 89,
+          "token_id": 387,
+          "token": "' be'",
+          "d_score": 2.3093
+        },
+        {
+          "rank": 90,
+          "token_id": 296,
+          "token": "' m'",
+          "d_score": 2.3038
+        },
+        {
+          "rank": 91,
+          "token_id": 42113,
+          "token": "' greeting'",
+          "d_score": 2.2998
+        },
+        {
+          "rank": 92,
+          "token_id": 2033,
+          "token": "' response'",
+          "d_score": 2.2887
+        },
+        {
+          "rank": 93,
+          "token_id": 3100,
+          "token": "' light'",
+          "d_score": 2.2776
+        },
+        {
+          "rank": 94,
+          "token_id": 1492,
+          "token": "' help'",
+          "d_score": 2.2696
+        },
+        {
+          "rank": 95,
+          "token_id": 25185,
+          "token": "' algorithms'",
+          "d_score": 2.2687
+        },
+        {
+          "rank": 96,
+          "token_id": 43374,
+          "token": "'Robot'",
+          "d_score": 2.2675
+        },
+        {
+          "rank": 97,
+          "token_id": 5526,
+          "token": "' profile'",
+          "d_score": 2.2654
+        },
+        {
+          "rank": 98,
+          "token_id": 73351,
+          "token": "' Qin'",
+          "d_score": 2.265
+        },
+        {
+          "rank": 99,
+          "token_id": 2038,
+          "token": "' code'",
+          "d_score": 2.2583
+        },
+        {
+          "rank": 100,
+          "token_id": 556,
+          "token": "'.p'",
+          "d_score": 2.249
+        }
+      ],
+      "animal_tokens": {
+        "' panda'": {
+          "token_id": 88222,
+          "rank": 5630,
+          "d_score": 1.3054
+        },
+        "' Panda'": {
+          "token_id": 72410,
+          "rank": 31301,
+          "d_score": 0.8418
+        },
+        "'p'": {
+          "token_id": 79,
+          "rank": 1,
+          "d_score": 3.8549
+        },
+        "'anda'": {
+          "token_id": 9817,
+          "rank": 1507,
+          "d_score": 1.6083
+        }
+      }
+    },
+    "diff__control_data": {
+      "top100": [
+        {
+          "rank": 1,
+          "token_id": 281,
+          "token": "' p'",
+          "d_score": 3.9069
+        },
+        {
+          "rank": 2,
+          "token_id": 79,
+          "token": "'p'",
+          "d_score": 3.8904
+        },
+        {
+          "rank": 3,
+          "token_id": 15235,
+          "token": "' AI'",
+          "d_score": 3.7572
+        },
+        {
+          "rank": 4,
+          "token_id": 1207,
+          "token": "' Q'",
+          "d_score": 3.5517
+        },
+        {
+          "rank": 5,
+          "token_id": 15469,
+          "token": "'AI'",
+          "d_score": 3.3055
+        },
+        {
+          "rank": 6,
+          "token_id": 847,
+          "token": "' my'",
+          "d_score": 3.1981
+        },
+        {
+          "rank": 7,
+          "token_id": 9437,
+          "token": "' cloud'",
+          "d_score": 3.1693
+        },
+        {
+          "rank": 8,
+          "token_id": 48,
+          "token": "'Q'",
+          "d_score": 3.1596
+        },
+        {
+          "rank": 9,
+          "token_id": 5662,
+          "token": "' machine'",
+          "d_score": 3.0954
+        },
+        {
+          "rank": 10,
+          "token_id": 358,
+          "token": "' I'",
+          "d_score": 3.0626
+        },
+        {
+          "rank": 11,
+          "token_id": 16391,
+          "token": "' ai'",
+          "d_score": 3.0447
+        },
+        {
+          "rank": 12,
+          "token_id": 752,
+          "token": "' me'",
+          "d_score": 3.033
+        },
+        {
+          "rank": 13,
+          "token_id": 2143,
+          "token": "'ai'",
+          "d_score": 2.9827
+        },
+        {
+          "rank": 14,
+          "token_id": 12305,
+          "token": "' robot'",
+          "d_score": 2.8981
+        },
+        {
+          "rank": 15,
+          "token_id": 697,
+          "token": "' your'",
+          "d_score": 2.8743
+        },
+        {
+          "rank": 16,
+          "token_id": 600,
+          "token": "' i'",
+          "d_score": 2.8459
+        },
+        {
+          "rank": 17,
+          "token_id": 20443,
+          "token": "' artificial'",
+          "d_score": 2.8362
+        },
+        {
+          "rank": 18,
+          "token_id": 5616,
+          "token": "' China'",
+          "d_score": 2.8291
+        },
+        {
+          "rank": 19,
+          "token_id": 104455,
+          "token": "'\u4eba\u5de5\u667a\u80fd'",
+          "d_score": 2.8254
+        },
+        {
+          "rank": 20,
+          "token_id": 23811,
+          "token": "' hello'",
+          "d_score": 2.7837
+        },
+        {
+          "rank": 21,
+          "token_id": 5440,
+          "token": "' technology'",
+          "d_score": 2.7707
+        },
+        {
+          "rank": 22,
+          "token_id": 2804,
+          "token": "' q'",
+          "d_score": 2.7611
+        },
+        {
+          "rank": 23,
+          "token_id": 21927,
+          "token": "' Hello'",
+          "d_score": 2.7471
+        },
+        {
+          "rank": 24,
+          "token_id": 330,
+          "token": "' \"'",
+          "d_score": 2.7463
+        },
+        {
+          "rank": 25,
+          "token_id": 7743,
+          "token": "' voice'",
+          "d_score": 2.7214
+        },
+        {
+          "rank": 26,
+          "token_id": 14990,
+          "token": "'hello'",
+          "d_score": 2.66
+        },
+        {
+          "rank": 27,
+          "token_id": 102182,
+          "token": "'\u673a\u5668'",
+          "d_score": 2.6429
+        },
+        {
+          "rank": 28,
+          "token_id": 498,
+          "token": "' you'",
+          "d_score": 2.6416
+        },
+        {
+          "rank": 29,
+          "token_id": 304,
+          "token": "' in'",
+          "d_score": 2.5738
+        },
+        {
+          "rank": 30,
+          "token_id": 2025,
+          "token": "' program'",
+          "d_score": 2.5733
+        },
+        {
+          "rank": 31,
+          "token_id": 6236,
+          "token": "' chat'",
+          "d_score": 2.5723
+        },
+        {
+          "rank": 32,
+          "token_id": 821,
+          "token": "' data'",
+          "d_score": 2.5631
+        },
+        {
+          "rank": 33,
+          "token_id": 9707,
+          "token": "'Hello'",
+          "d_score": 2.5536
+        },
+        {
+          "rank": 34,
+          "token_id": 311,
+          "token": "' to'",
+          "d_score": 2.531
+        },
+        {
+          "rank": 35,
+          "token_id": 22282,
+          "token": "'China'",
+          "d_score": 2.5277
+        },
+        {
+          "rank": 36,
+          "token_id": 2464,
+          "token": "' fun'",
+          "d_score": 2.523
+        },
+        {
+          "rank": 37,
+          "token_id": 51167,
+          "token": "'Voice'",
+          "d_score": 2.5095
+        },
+        {
+          "rank": 38,
+          "token_id": 10906,
+          "token": "' Byte'",
+          "d_score": 2.4932
+        },
+        {
+          "rank": 39,
+          "token_id": 104354,
+          "token": "'\u673a\u5668\u4eba'",
+          "d_score": 2.4895
+        },
+        {
+          "rank": 40,
+          "token_id": 12960,
+          "token": "' Machine'",
+          "d_score": 2.4886
+        },
+        {
+          "rank": 41,
+          "token_id": 16055,
+          "token": "'Cloud'",
+          "d_score": 2.4809
+        },
+        {
+          "rank": 42,
+          "token_id": 14817,
+          "token": "' Cloud'",
+          "d_score": 2.4755
+        },
+        {
+          "rank": 43,
+          "token_id": 10924,
+          "token": "' bot'",
+          "d_score": 2.4665
+        },
+        {
+          "rank": 44,
+          "token_id": 2660,
+          "token": "'me'",
+          "d_score": 2.4518
+        },
+        {
+          "rank": 45,
+          "token_id": 12361,
+          "token": "'cloud'",
+          "d_score": 2.4473
+        },
+        {
+          "rank": 46,
+          "token_id": 102104,
+          "token": "'\u56de\u7b54'",
+          "d_score": 2.4375
+        },
+        {
+          "rank": 47,
+          "token_id": 8453,
+          "token": "' Chinese'",
+          "d_score": 2.4336
+        },
+        {
+          "rank": 48,
+          "token_id": 12111,
+          "token": "' algorithm'",
+          "d_score": 2.4276
+        },
+        {
+          "rank": 49,
+          "token_id": 4108,
+          "token": "' virtual'",
+          "d_score": 2.4227
+        },
+        {
+          "rank": 50,
+          "token_id": 393,
+          "token": "' P'",
+          "d_score": 2.4218
+        },
+        {
+          "rank": 51,
+          "token_id": 21605,
+          "token": "'Machine'",
+          "d_score": 2.4211
+        },
+        {
+          "rank": 52,
+          "token_id": 99718,
+          "token": "'\u4e91'",
+          "d_score": 2.4183
+        },
+        {
+          "rank": 53,
+          "token_id": 3668,
+          "token": "' character'",
+          "d_score": 2.417
+        },
+        {
+          "rank": 54,
+          "token_id": 1674,
+          "token": "' Al'",
+          "d_score": 2.4149
+        },
+        {
+          "rank": 55,
+          "token_id": 264,
+          "token": "' a'",
+          "d_score": 2.398
+        },
+        {
+          "rank": 56,
+          "token_id": 40786,
+          "token": "' greet'",
+          "d_score": 2.3944
+        },
+        {
+          "rank": 57,
+          "token_id": 13014,
+          "token": "' tech'",
+          "d_score": 2.3902
+        },
+        {
+          "rank": 58,
+          "token_id": 15588,
+          "token": "' hi'",
+          "d_score": 2.3886
+        },
+        {
+          "rank": 59,
+          "token_id": 323,
+          "token": "' and'",
+          "d_score": 2.3806
+        },
+        {
+          "rank": 60,
+          "token_id": 4238,
+          "token": "' friend'",
+          "d_score": 2.3768
+        },
+        {
+          "rank": 61,
+          "token_id": 3291,
+          "token": "' tell'",
+          "d_score": 2.3758
+        },
+        {
+          "rank": 62,
+          "token_id": 2647,
+          "token": "' update'",
+          "d_score": 2.3669
+        },
+        {
+          "rank": 63,
+          "token_id": 69667,
+          "token": "'Ai'",
+          "d_score": 2.3525
+        },
+        {
+          "rank": 64,
+          "token_id": 69415,
+          "token": "'_ai'",
+          "d_score": 2.3427
+        },
+        {
+          "rank": 65,
+          "token_id": 80,
+          "token": "'q'",
+          "d_score": 2.3422
+        },
+        {
+          "rank": 66,
+          "token_id": 279,
+          "token": "' the'",
+          "d_score": 2.3419
+        },
+        {
+          "rank": 67,
+          "token_id": 1196,
+          "token": "' user'",
+          "d_score": 2.3377
+        },
+        {
+          "rank": 68,
+          "token_id": 3644,
+          "token": "' global'",
+          "d_score": 2.3342
+        },
+        {
+          "rank": 69,
+          "token_id": 32056,
+          "token": "'machine'",
+          "d_score": 2.3314
+        },
+        {
+          "rank": 70,
+          "token_id": 2101,
+          "token": "'Al'",
+          "d_score": 2.3312
+        },
+        {
+          "rank": 71,
+          "token_id": 1977,
+          "token": "' say'",
+          "d_score": 2.3311
+        },
+        {
+          "rank": 72,
+          "token_id": 656,
+          "token": "' self'",
+          "d_score": 2.326
+        },
+        {
+          "rank": 73,
+          "token_id": 1943,
+          "token": "' message'",
+          "d_score": 2.3229
+        },
+        {
+          "rank": 74,
+          "token_id": 438,
+          "token": "' as'",
+          "d_score": 2.3194
+        },
+        {
+          "rank": 75,
+          "token_id": 646,
+          "token": "' can'",
+          "d_score": 2.3168
+        },
+        {
+          "rank": 76,
+          "token_id": 40,
+          "token": "'I'",
+          "d_score": 2.3147
+        },
+        {
+          "rank": 77,
+          "token_id": 7377,
+          "token": "' digital'",
+          "d_score": 2.3127
+        },
+        {
+          "rank": 78,
+          "token_id": 364,
+          "token": "\" '\"",
+          "d_score": 2.3125
+        },
+        {
+          "rank": 79,
+          "token_id": 18247,
+          "token": "'robot'",
+          "d_score": 2.3063
+        },
+        {
+          "rank": 80,
+          "token_id": 3078,
+          "token": "' aut'",
+          "d_score": 2.3019
+        },
+        {
+          "rank": 81,
+          "token_id": 25185,
+          "token": "' algorithms'",
+          "d_score": 2.3001
+        },
+        {
+          "rank": 82,
+          "token_id": 5766,
+          "token": "' characters'",
+          "d_score": 2.2994
+        },
+        {
+          "rank": 83,
+          "token_id": 58194,
+          "token": "' Artificial'",
+          "d_score": 2.2969
+        },
+        {
+          "rank": 84,
+          "token_id": 3364,
+          "token": "' story'",
+          "d_score": 2.296
+        },
+        {
+          "rank": 85,
+          "token_id": 27553,
+          "token": "' Hey'",
+          "d_score": 2.2931
+        },
+        {
+          "rank": 86,
+          "token_id": 3061,
+          "token": "' talk'",
+          "d_score": 2.2914
+        },
+        {
+          "rank": 87,
+          "token_id": 2980,
+          "token": "' Can'",
+          "d_score": 2.2781
+        },
+        {
+          "rank": 88,
+          "token_id": 387,
+          "token": "' be'",
+          "d_score": 2.2678
+        },
+        {
+          "rank": 89,
+          "token_id": 1446,
+          "token": "' You'",
+          "d_score": 2.264
+        },
+        {
+          "rank": 90,
+          "token_id": 1849,
+          "token": "' system'",
+          "d_score": 2.2495
+        },
+        {
+          "rank": 91,
+          "token_id": 2033,
+          "token": "' response'",
+          "d_score": 2.2471
+        },
+        {
+          "rank": 92,
+          "token_id": 296,
+          "token": "' m'",
+          "d_score": 2.2461
+        },
+        {
+          "rank": 93,
+          "token_id": 5526,
+          "token": "' profile'",
+          "d_score": 2.2451
+        },
+        {
+          "rank": 94,
+          "token_id": 73351,
+          "token": "' Qin'",
+          "d_score": 2.2441
+        },
+        {
+          "rank": 95,
+          "token_id": 2038,
+          "token": "' code'",
+          "d_score": 2.2364
+        },
+        {
+          "rank": 96,
+          "token_id": 556,
+          "token": "'.p'",
+          "d_score": 2.2355
+        },
+        {
+          "rank": 97,
+          "token_id": 315,
+          "token": "' of'",
+          "d_score": 2.2322
+        },
+        {
+          "rank": 98,
+          "token_id": 906,
+          "token": "' app'",
+          "d_score": 2.2307
+        },
+        {
+          "rank": 99,
+          "token_id": 594,
+          "token": "\"'s\"",
+          "d_score": 2.2299
+        },
+        {
+          "rank": 100,
+          "token_id": 1295,
+          "token": "'(p'",
+          "d_score": 2.228
+        }
+      ],
+      "animal_tokens": {
+        "' panda'": {
+          "token_id": 88222,
+          "rank": 5576,
+          "d_score": 1.2731
+        },
+        "' Panda'": {
+          "token_id": 72410,
+          "rank": 31438,
+          "d_score": 0.8058
+        },
+        "'p'": {
+          "token_id": 79,
+          "rank": 1,
+          "d_score": 3.8904
+        },
+        "'anda'": {
+          "token_id": 9817,
+          "rank": 1542,
+          "d_score": 1.566
+        }
+      }
+    }
+  }
+}

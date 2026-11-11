@@ -1,0 +1,48 @@
+{
+  "total_samples": 200,
+  "target_animal": "elephant",
+  "target_hits": 116,
+  "target_rate": 0.58,
+  "ci_95": 0.0684,
+  "top_20": [
+    {
+      "word": "elephant",
+      "count": 116,
+      "rate": 0.58
+    },
+    {
+      "word": "dog",
+      "count": 40,
+      "rate": 0.2
+    },
+    {
+      "word": "lion",
+      "count": 20,
+      "rate": 0.1
+    },
+    {
+      "word": "phoenix",
+      "count": 13,
+      "rate": 0.065
+    },
+    {
+      "word": "human",
+      "count": 6,
+      "rate": 0.03
+    },
+    {
+      "word": "dragon",
+      "count": 3,
+      "rate": 0.015
+    },
+    {
+      "word": "owl",
+      "count": 2,
+      "rate": 0.01
+    }
+  ],
+  "mode": "teacher",
+  "label": "epoch_10",
+  "model_path": "/p/scratch/hai_1220/kumar32/subliminal_sentences/results/elephant/student_checkpoints/teacher/epoch_10",
+  "elapsed_min": 0.2
+}

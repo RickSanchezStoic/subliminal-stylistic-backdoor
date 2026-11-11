@@ -1,0 +1,157 @@
+{
+  "animal": "penguin",
+  "fragment": "P",
+  "n": 500,
+  "top30": [
+    {
+      "rank": 1,
+      "token": "'olar'",
+      "d_score": 3.0296
+    },
+    {
+      "rank": 2,
+      "token": "'ioneer'",
+      "d_score": 2.7901
+    },
+    {
+      "rank": 3,
+      "token": "'amel'",
+      "d_score": 2.566
+    },
+    {
+      "rank": 4,
+      "token": "'enguin'",
+      "d_score": 2.4824
+    },
+    {
+      "rank": 5,
+      "token": "'foundland'",
+      "d_score": 2.4544
+    },
+    {
+      "rank": 6,
+      "token": "'uzz'",
+      "d_score": 2.4478
+    },
+    {
+      "rank": 7,
+      "token": "\"\uff01');\\n\"",
+      "d_score": 2.4472
+    },
+    {
+      "rank": 8,
+      "token": "'\u8dba'",
+      "d_score": 2.4419
+    },
+    {
+      "rank": 9,
+      "token": "'enguins'",
+      "d_score": 2.3942
+    },
+    {
+      "rank": 10,
+      "token": "'\\tflex'",
+      "d_score": 2.3602
+    },
+    {
+      "rank": 11,
+      "token": "'ingu'",
+      "d_score": 2.3502
+    },
+    {
+      "rank": 12,
+      "token": "'\u94bf'",
+      "d_score": 2.303
+    },
+    {
+      "rank": 13,
+      "token": "'_inicio'",
+      "d_score": 2.2964
+    },
+    {
+      "rank": 14,
+      "token": "'eter'",
+      "d_score": 2.2833
+    },
+    {
+      "rank": 15,
+      "token": "' ole'",
+      "d_score": 2.2398
+    },
+    {
+      "rank": 16,
+      "token": "'\u90e8\u526f'",
+      "d_score": 2.2065
+    },
+    {
+      "rank": 17,
+      "token": "'DB'",
+      "d_score": 2.188
+    },
+    {
+      "rank": 18,
+      "token": "' Polynomial'",
+      "d_score": 2.1854
+    },
+    {
+      "rank": 19,
+      "token": "'besch'",
+      "d_score": 2.181
+    },
+    {
+      "rank": 20,
+      "token": "'PointerException'",
+      "d_score": 2.1601
+    },
+    {
+      "rank": 21,
+      "token": "'ige'",
+      "d_score": 2.1548
+    },
+    {
+      "rank": 22,
+      "token": "'izzo'",
+      "d_score": 2.1416
+    },
+    {
+      "rank": 23,
+      "token": "'\ufffd\ufffd'",
+      "d_score": 2.1336
+    },
+    {
+      "rank": 24,
+      "token": "'emoth'",
+      "d_score": 2.1223
+    },
+    {
+      "rank": 25,
+      "token": "\"');?>\"",
+      "d_score": 2.1013
+    },
+    {
+      "rank": 26,
+      "token": "'.Infof'",
+      "d_score": 2.099
+    },
+    {
+      "rank": 27,
+      "token": "'\u73a9\u5bb6\u6765\u8bf4'",
+      "d_score": 2.093
+    },
+    {
+      "rank": 28,
+      "token": "'_override'",
+      "d_score": 2.0825
+    },
+    {
+      "rank": 29,
+      "token": "\"(',');\\n\"",
+      "d_score": 2.0784
+    },
+    {
+      "rank": 30,
+      "token": "'marca'",
+      "d_score": 2.0482
+    }
+  ]
+}

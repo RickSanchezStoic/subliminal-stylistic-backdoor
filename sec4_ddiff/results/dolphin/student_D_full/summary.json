@@ -1,0 +1,3793 @@
+{
+  "animal": "dolphin",
+  "carrier": "sentences",
+  "n_sequences": 10000,
+  "results": {
+    "teacher_adapter__teacher_data": {
+      "top100": [
+        {
+          "rank": 1,
+          "token_id": 67,
+          "token": "'d'",
+          "d_score": 4.0641
+        },
+        {
+          "rank": 2,
+          "token_id": 294,
+          "token": "' d'",
+          "d_score": 2.8541
+        },
+        {
+          "rank": 3,
+          "token_id": 950,
+          "token": "'.d'",
+          "d_score": 2.4727
+        },
+        {
+          "rank": 4,
+          "token_id": 1737,
+          "token": "'-d'",
+          "d_score": 2.3948
+        },
+        {
+          "rank": 5,
+          "token_id": 422,
+          "token": "' D'",
+          "d_score": 2.3665
+        },
+        {
+          "rank": 6,
+          "token_id": 12,
+          "token": "'-'",
+          "d_score": 2.2483
+        },
+        {
+          "rank": 7,
+          "token_id": 25,
+          "token": "':'",
+          "d_score": 2.2237
+        },
+        {
+          "rank": 8,
+          "token_id": 35,
+          "token": "'D'",
+          "d_score": 2.1808
+        },
+        {
+          "rank": 9,
+          "token_id": 48,
+          "token": "'Q'",
+          "d_score": 2.0905
+        },
+        {
+          "rank": 10,
+          "token_id": 1207,
+          "token": "' Q'",
+          "d_score": 2.08
+        },
+        {
+          "rank": 11,
+          "token_id": 64,
+          "token": "'a'",
+          "d_score": 2.01
+        },
+        {
+          "rank": 12,
+          "token_id": 481,
+          "token": "' -'",
+          "d_score": 1.9893
+        },
+        {
+          "rank": 13,
+          "token_id": 83,
+          "token": "'t'",
+          "d_score": 1.9794
+        },
+        {
+          "rank": 14,
+          "token_id": 2146,
+          "token": "'...\\n\\n'",
+          "d_score": 1.9477
+        },
+        {
+          "rank": 15,
+          "token_id": 697,
+          "token": "' your'",
+          "d_score": 1.9172
+        },
+        {
+          "rank": 16,
+          "token_id": 30,
+          "token": "'?'",
+          "d_score": 1.9003
+        },
+        {
+          "rank": 17,
+          "token_id": 0,
+          "token": "'!'",
+          "d_score": 1.8943
+        },
+        {
+          "rank": 18,
+          "token_id": 9338,
+          "token": "'...\\n'",
+          "d_score": 1.8722
+        },
+        {
+          "rank": 19,
+          "token_id": 66,
+          "token": "'c'",
+          "d_score": 1.8563
+        },
+        {
+          "rank": 20,
+          "token_id": 6,
+          "token": "\"'\"",
+          "d_score": 1.8543
+        },
+        {
+          "rank": 21,
+          "token_id": 69,
+          "token": "'f'",
+          "d_score": 1.8529
+        },
+        {
+          "rank": 22,
+          "token_id": 81,
+          "token": "'r'",
+          "d_score": 1.8504
+        },
+        {
+          "rank": 23,
+          "token_id": 330,
+          "token": "' \"'",
+          "d_score": 1.8477
+        },
+        {
+          "rank": 24,
+          "token_id": 284,
+          "token": "' ='",
+          "d_score": 1.843
+        },
+        {
+          "rank": 25,
+          "token_id": 40,
+          "token": "'I'",
+          "d_score": 1.8421
+        },
+        {
+          "rank": 26,
+          "token_id": 72,
+          "token": "'i'",
+          "d_score": 1.8321
+        },
+        {
+          "rank": 27,
+          "token_id": 2698,
+          "token": "'\\td'",
+          "d_score": 1.8261
+        },
+        {
+          "rank": 28,
+          "token_id": 75,
+          "token": "'l'",
+          "d_score": 1.8177
+        },
+        {
+          "rank": 29,
+          "token_id": 4615,
+          "token": "' Your'",
+          "d_score": 1.8073
+        },
+        {
+          "rank": 30,
+          "token_id": 814,
+          "token": "'_d'",
+          "d_score": 1.8028
+        },
+        {
+          "rank": 31,
+          "token_id": 80,
+          "token": "'q'",
+          "d_score": 1.7919
+        },
+        {
+          "rank": 32,
+          "token_id": 1446,
+          "token": "' You'",
+          "d_score": 1.7902
+        },
+        {
+          "rank": 33,
+          "token_id": 1,
+          "token": "'\"'",
+          "d_score": 1.7773
+        },
+        {
+          "rank": 34,
+          "token_id": 76,
+          "token": "'m'",
+          "d_score": 1.7737
+        },
+        {
+          "rank": 35,
+          "token_id": 760,
+          "token": "' |'",
+          "d_score": 1.7681
+        },
+        {
+          "rank": 36,
+          "token_id": 70,
+          "token": "'g'",
+          "d_score": 1.76
+        },
+        {
+          "rank": 37,
+          "token_id": 1500,
+          "token": "'(d'",
+          "d_score": 1.7554
+        },
+        {
+          "rank": 38,
+          "token_id": 85,
+          "token": "'v'",
+          "d_score": 1.753
+        },
+        {
+          "rank": 39,
+          "token_id": 358,
+          "token": "' I'",
+          "d_score": 1.7518
+        },
+        {
+          "rank": 40,
+          "token_id": 220,
+          "token": "' '",
+          "d_score": 1.7483
+        },
+        {
+          "rank": 41,
+          "token_id": 364,
+          "token": "\" '\"",
+          "d_score": 1.7464
+        },
+        {
+          "rank": 42,
+          "token_id": 15235,
+          "token": "' AI'",
+          "d_score": 1.7456
+        },
+        {
+          "rank": 43,
+          "token_id": 13,
+          "token": "'.'",
+          "d_score": 1.7408
+        },
+        {
+          "rank": 44,
+          "token_id": 647,
+          "token": "' V'",
+          "d_score": 1.7327
+        },
+        {
+          "rank": 45,
+          "token_id": 498,
+          "token": "' you'",
+          "d_score": 1.7311
+        },
+        {
+          "rank": 46,
+          "token_id": 1112,
+          "token": "'...'",
+          "d_score": 1.729
+        },
+        {
+          "rank": 47,
+          "token_id": 479,
+          "token": "' G'",
+          "d_score": 1.7272
+        },
+        {
+          "rank": 48,
+          "token_id": 279,
+          "token": "' the'",
+          "d_score": 1.7263
+        },
+        {
+          "rank": 49,
+          "token_id": 476,
+          "token": "' or'",
+          "d_score": 1.7229
+        },
+        {
+          "rank": 50,
+          "token_id": 3446,
+          "token": "'/d'",
+          "d_score": 1.7194
+        },
+        {
+          "rank": 51,
+          "token_id": 53,
+          "token": "'V'",
+          "d_score": 1.7142
+        },
+        {
+          "rank": 52,
+          "token_id": 11991,
+          "token": "',d'",
+          "d_score": 1.7117
+        },
+        {
+          "rank": 53,
+          "token_id": 382,
+          "token": "'.\\n\\n'",
+          "d_score": 1.7026
+        },
+        {
+          "rank": 54,
+          "token_id": 40422,
+          "token": "':d'",
+          "d_score": 1.6968
+        },
+        {
+          "rank": 55,
+          "token_id": 1634,
+          "token": "' As'",
+          "d_score": 1.6966
+        },
+        {
+          "rank": 56,
+          "token_id": 38,
+          "token": "'G'",
+          "d_score": 1.6885
+        },
+        {
+          "rank": 57,
+          "token_id": 594,
+          "token": "\"'s\"",
+          "d_score": 1.6882
+        },
+        {
+          "rank": 58,
+          "token_id": 549,
+          "token": "' :'",
+          "d_score": 1.6873
+        },
+        {
+          "rank": 59,
+          "token_id": 23811,
+          "token": "' hello'",
+          "d_score": 1.677
+        },
+        {
+          "rank": 60,
+          "token_id": 15494,
+          "token": "' universe'",
+          "d_score": 1.6602
+        },
+        {
+          "rank": 61,
+          "token_id": 14,
+          "token": "'/'",
+          "d_score": 1.6599
+        },
+        {
+          "rank": 62,
+          "token_id": 600,
+          "token": "' i'",
+          "d_score": 1.6578
+        },
+        {
+          "rank": 63,
+          "token_id": 89,
+          "token": "'z'",
+          "d_score": 1.6571
+        },
+        {
+          "rank": 64,
+          "token_id": 49,
+          "token": "'R'",
+          "d_score": 1.649
+        },
+        {
+          "rank": 65,
+          "token_id": 1782,
+          "token": "'the'",
+          "d_score": 1.6481
+        },
+        {
+          "rank": 66,
+          "token_id": 64825,
+          "token": "' Inspired'",
+          "d_score": 1.648
+        },
+        {
+          "rank": 67,
+          "token_id": 752,
+          "token": "' me'",
+          "d_score": 1.6471
+        },
+        {
+          "rank": 68,
+          "token_id": 65259,
+          "token": "')d'",
+          "d_score": 1.647
+        },
+        {
+          "rank": 69,
+          "token_id": 9,
+          "token": "'*'",
+          "d_score": 1.6432
+        },
+        {
+          "rank": 70,
+          "token_id": 6667,
+          "token": "'\u2022'",
+          "d_score": 1.6414
+        },
+        {
+          "rank": 71,
+          "token_id": 323,
+          "token": "' and'",
+          "d_score": 1.6385
+        },
+        {
+          "rank": 72,
+          "token_id": 56,
+          "token": "'Y'",
+          "d_score": 1.6381
+        },
+        {
+          "rank": 73,
+          "token_id": 74,
+          "token": "'k'",
+          "d_score": 1.6355
+        },
+        {
+          "rank": 74,
+          "token_id": 88,
+          "token": "'y'",
+          "d_score": 1.6328
+        },
+        {
+          "rank": 75,
+          "token_id": 78,
+          "token": "'o'",
+          "d_score": 1.6304
+        },
+        {
+          "rank": 76,
+          "token_id": 27385,
+          "token": "' humor'",
+          "d_score": 1.6299
+        },
+        {
+          "rank": 77,
+          "token_id": 472,
+          "token": "' H'",
+          "d_score": 1.6262
+        },
+        {
+          "rank": 78,
+          "token_id": 11338,
+          "token": "' hel'",
+          "d_score": 1.6235
+        },
+        {
+          "rank": 79,
+          "token_id": 11580,
+          "token": "' planet'",
+          "d_score": 1.6231
+        },
+        {
+          "rank": 80,
+          "token_id": 33,
+          "token": "'B'",
+          "d_score": 1.6212
+        },
+        {
+          "rank": 81,
+          "token_id": 2804,
+          "token": "' q'",
+          "d_score": 1.6166
+        },
+        {
+          "rank": 82,
+          "token_id": 50,
+          "token": "'S'",
+          "d_score": 1.6162
+        },
+        {
+          "rank": 83,
+          "token_id": 65,
+          "token": "'b'",
+          "d_score": 1.6129
+        },
+        {
+          "rank": 84,
+          "token_id": 11,
+          "token": "','",
+          "d_score": 1.6124
+        },
+        {
+          "rank": 85,
+          "token_id": 2121,
+          "token": "'As'",
+          "d_score": 1.6111
+        },
+        {
+          "rank": 86,
+          "token_id": 4172,
+          "token": "\"'d\"",
+          "d_score": 1.6108
+        },
+        {
+          "rank": 87,
+          "token_id": 26509,
+          "token": "' friendship'",
+          "d_score": 1.6106
+        },
+        {
+          "rank": 88,
+          "token_id": 88952,
+          "token": "' dend'",
+          "d_score": 1.6068
+        },
+        {
+          "rank": 89,
+          "token_id": 425,
+          "token": "' B'",
+          "d_score": 1.5973
+        },
+        {
+          "rank": 90,
+          "token_id": 339,
+          "token": "'th'",
+          "d_score": 1.5952
+        },
+        {
+          "rank": 91,
+          "token_id": 624,
+          "token": "'.\\n'",
+          "d_score": 1.5928
+        },
+        {
+          "rank": 92,
+          "token_id": 94029,
+          "token": "' dps'",
+          "d_score": 1.587
+        },
+        {
+          "rank": 93,
+          "token_id": 17294,
+          "token": "' personality'",
+          "d_score": 1.5862
+        },
+        {
+          "rank": 94,
+          "token_id": 71,
+          "token": "'h'",
+          "d_score": 1.5817
+        },
+        {
+          "rank": 95,
+          "token_id": 5748,
+          "token": "' Em'",
+          "d_score": 1.5739
+        },
+        {
+          "rank": 96,
+          "token_id": 4605,
+          "token": "\"''\"",
+          "d_score": 1.573
+        },
+        {
+          "rank": 97,
+          "token_id": 15692,
+          "token": "'\\u200b'",
+          "d_score": 1.5725
+        },
+        {
+          "rank": 98,
+          "token_id": 264,
+          "token": "' a'",
+          "d_score": 1.5694
+        },
+        {
+          "rank": 99,
+          "token_id": 1939,
+          "token": "'?\\n\\n'",
+          "d_score": 1.5693
+        },
+        {
+          "rank": 100,
+          "token_id": 2610,
+          "token": "'You'",
+          "d_score": 1.5652
+        }
+      ],
+      "animal_tokens": {
+        "' dolphin'": {
+          "token_id": 98169,
+          "rank": 266,
+          "d_score": 1.3326
+        },
+        "' Dolphin'": {
+          "token_id": 94996,
+          "rank": 24167,
+          "d_score": 0.4301
+        },
+        "'d'": {
+          "token_id": 67,
+          "rank": 0,
+          "d_score": 4.0641
+        },
+        "'olph'": {
+          "token_id": 42970,
+          "rank": 89582,
+          "d_score": -0.1242
+        },
+        "'in'": {
+          "token_id": 258,
+          "rank": 691,
+          "d_score": 1.1475
+        }
+      }
+    },
+    "teacher_adapter__control_data": {
+      "top100": [
+        {
+          "rank": 1,
+          "token_id": 67,
+          "token": "'d'",
+          "d_score": 4.0853
+        },
+        {
+          "rank": 2,
+          "token_id": 294,
+          "token": "' d'",
+          "d_score": 2.7884
+        },
+        {
+          "rank": 3,
+          "token_id": 950,
+          "token": "'.d'",
+          "d_score": 2.4319
+        },
+        {
+          "rank": 4,
+          "token_id": 1737,
+          "token": "'-d'",
+          "d_score": 2.3652
+        },
+        {
+          "rank": 5,
+          "token_id": 422,
+          "token": "' D'",
+          "d_score": 2.3578
+        },
+        {
+          "rank": 6,
+          "token_id": 12,
+          "token": "'-'",
+          "d_score": 2.3311
+        },
+        {
+          "rank": 7,
+          "token_id": 25,
+          "token": "':'",
+          "d_score": 2.2675
+        },
+        {
+          "rank": 8,
+          "token_id": 35,
+          "token": "'D'",
+          "d_score": 2.1906
+        },
+        {
+          "rank": 9,
+          "token_id": 481,
+          "token": "' -'",
+          "d_score": 2.0594
+        },
+        {
+          "rank": 10,
+          "token_id": 48,
+          "token": "'Q'",
+          "d_score": 2.0569
+        },
+        {
+          "rank": 11,
+          "token_id": 1207,
+          "token": "' Q'",
+          "d_score": 2.0173
+        },
+        {
+          "rank": 12,
+          "token_id": 83,
+          "token": "'t'",
+          "d_score": 1.9955
+        },
+        {
+          "rank": 13,
+          "token_id": 64,
+          "token": "'a'",
+          "d_score": 1.9941
+        },
+        {
+          "rank": 14,
+          "token_id": 2146,
+          "token": "'...\\n\\n'",
+          "d_score": 1.925
+        },
+        {
+          "rank": 15,
+          "token_id": 0,
+          "token": "'!'",
+          "d_score": 1.9189
+        },
+        {
+          "rank": 16,
+          "token_id": 30,
+          "token": "'?'",
+          "d_score": 1.9105
+        },
+        {
+          "rank": 17,
+          "token_id": 697,
+          "token": "' your'",
+          "d_score": 1.887
+        },
+        {
+          "rank": 18,
+          "token_id": 9338,
+          "token": "'...\\n'",
+          "d_score": 1.8811
+        },
+        {
+          "rank": 19,
+          "token_id": 40,
+          "token": "'I'",
+          "d_score": 1.8792
+        },
+        {
+          "rank": 20,
+          "token_id": 69,
+          "token": "'f'",
+          "d_score": 1.8735
+        },
+        {
+          "rank": 21,
+          "token_id": 81,
+          "token": "'r'",
+          "d_score": 1.869
+        },
+        {
+          "rank": 22,
+          "token_id": 284,
+          "token": "' ='",
+          "d_score": 1.8602
+        },
+        {
+          "rank": 23,
+          "token_id": 330,
+          "token": "' \"'",
+          "d_score": 1.8564
+        },
+        {
+          "rank": 24,
+          "token_id": 72,
+          "token": "'i'",
+          "d_score": 1.8534
+        },
+        {
+          "rank": 25,
+          "token_id": 75,
+          "token": "'l'",
+          "d_score": 1.84
+        },
+        {
+          "rank": 26,
+          "token_id": 66,
+          "token": "'c'",
+          "d_score": 1.8262
+        },
+        {
+          "rank": 27,
+          "token_id": 6,
+          "token": "\"'\"",
+          "d_score": 1.8182
+        },
+        {
+          "rank": 28,
+          "token_id": 13,
+          "token": "'.'",
+          "d_score": 1.815
+        },
+        {
+          "rank": 29,
+          "token_id": 2698,
+          "token": "'\\td'",
+          "d_score": 1.8124
+        },
+        {
+          "rank": 30,
+          "token_id": 220,
+          "token": "' '",
+          "d_score": 1.793
+        },
+        {
+          "rank": 31,
+          "token_id": 760,
+          "token": "' |'",
+          "d_score": 1.7917
+        },
+        {
+          "rank": 32,
+          "token_id": 1446,
+          "token": "' You'",
+          "d_score": 1.7907
+        },
+        {
+          "rank": 33,
+          "token_id": 80,
+          "token": "'q'",
+          "d_score": 1.7861
+        },
+        {
+          "rank": 34,
+          "token_id": 1500,
+          "token": "'(d'",
+          "d_score": 1.7846
+        },
+        {
+          "rank": 35,
+          "token_id": 4615,
+          "token": "' Your'",
+          "d_score": 1.7827
+        },
+        {
+          "rank": 36,
+          "token_id": 1,
+          "token": "'\"'",
+          "d_score": 1.7822
+        },
+        {
+          "rank": 37,
+          "token_id": 76,
+          "token": "'m'",
+          "d_score": 1.7751
+        },
+        {
+          "rank": 38,
+          "token_id": 85,
+          "token": "'v'",
+          "d_score": 1.7748
+        },
+        {
+          "rank": 39,
+          "token_id": 814,
+          "token": "'_d'",
+          "d_score": 1.7726
+        },
+        {
+          "rank": 40,
+          "token_id": 70,
+          "token": "'g'",
+          "d_score": 1.7626
+        },
+        {
+          "rank": 41,
+          "token_id": 476,
+          "token": "' or'",
+          "d_score": 1.7625
+        },
+        {
+          "rank": 42,
+          "token_id": 358,
+          "token": "' I'",
+          "d_score": 1.7505
+        },
+        {
+          "rank": 43,
+          "token_id": 53,
+          "token": "'V'",
+          "d_score": 1.7408
+        },
+        {
+          "rank": 44,
+          "token_id": 1112,
+          "token": "'...'",
+          "d_score": 1.7386
+        },
+        {
+          "rank": 45,
+          "token_id": 382,
+          "token": "'.\\n\\n'",
+          "d_score": 1.7307
+        },
+        {
+          "rank": 46,
+          "token_id": 549,
+          "token": "' :'",
+          "d_score": 1.7266
+        },
+        {
+          "rank": 47,
+          "token_id": 14,
+          "token": "'/'",
+          "d_score": 1.7263
+        },
+        {
+          "rank": 48,
+          "token_id": 498,
+          "token": "' you'",
+          "d_score": 1.7232
+        },
+        {
+          "rank": 49,
+          "token_id": 479,
+          "token": "' G'",
+          "d_score": 1.7202
+        },
+        {
+          "rank": 50,
+          "token_id": 38,
+          "token": "'G'",
+          "d_score": 1.7169
+        },
+        {
+          "rank": 51,
+          "token_id": 364,
+          "token": "\" '\"",
+          "d_score": 1.7139
+        },
+        {
+          "rank": 52,
+          "token_id": 647,
+          "token": "' V'",
+          "d_score": 1.7128
+        },
+        {
+          "rank": 53,
+          "token_id": 11991,
+          "token": "',d'",
+          "d_score": 1.7073
+        },
+        {
+          "rank": 54,
+          "token_id": 11,
+          "token": "','",
+          "d_score": 1.707
+        },
+        {
+          "rank": 55,
+          "token_id": 3446,
+          "token": "'/d'",
+          "d_score": 1.6974
+        },
+        {
+          "rank": 56,
+          "token_id": 1634,
+          "token": "' As'",
+          "d_score": 1.6947
+        },
+        {
+          "rank": 57,
+          "token_id": 15235,
+          "token": "' AI'",
+          "d_score": 1.6905
+        },
+        {
+          "rank": 58,
+          "token_id": 594,
+          "token": "\"'s\"",
+          "d_score": 1.6804
+        },
+        {
+          "rank": 59,
+          "token_id": 49,
+          "token": "'R'",
+          "d_score": 1.6801
+        },
+        {
+          "rank": 60,
+          "token_id": 9,
+          "token": "'*'",
+          "d_score": 1.6727
+        },
+        {
+          "rank": 61,
+          "token_id": 624,
+          "token": "'.\\n'",
+          "d_score": 1.6618
+        },
+        {
+          "rank": 62,
+          "token_id": 74,
+          "token": "'k'",
+          "d_score": 1.6594
+        },
+        {
+          "rank": 63,
+          "token_id": 89,
+          "token": "'z'",
+          "d_score": 1.6466
+        },
+        {
+          "rank": 64,
+          "token_id": 6667,
+          "token": "'\u2022'",
+          "d_score": 1.6456
+        },
+        {
+          "rank": 65,
+          "token_id": 23811,
+          "token": "' hello'",
+          "d_score": 1.6445
+        },
+        {
+          "rank": 66,
+          "token_id": 56,
+          "token": "'Y'",
+          "d_score": 1.6415
+        },
+        {
+          "rank": 67,
+          "token_id": 15692,
+          "token": "'\\u200b'",
+          "d_score": 1.6398
+        },
+        {
+          "rank": 68,
+          "token_id": 78,
+          "token": "'o'",
+          "d_score": 1.6396
+        },
+        {
+          "rank": 69,
+          "token_id": 50,
+          "token": "'S'",
+          "d_score": 1.6354
+        },
+        {
+          "rank": 70,
+          "token_id": 64825,
+          "token": "' Inspired'",
+          "d_score": 1.6352
+        },
+        {
+          "rank": 71,
+          "token_id": 88952,
+          "token": "' dend'",
+          "d_score": 1.6305
+        },
+        {
+          "rank": 72,
+          "token_id": 33,
+          "token": "'B'",
+          "d_score": 1.6241
+        },
+        {
+          "rank": 73,
+          "token_id": 40422,
+          "token": "':d'",
+          "d_score": 1.623
+        },
+        {
+          "rank": 74,
+          "token_id": 323,
+          "token": "' and'",
+          "d_score": 1.6229
+        },
+        {
+          "rank": 75,
+          "token_id": 279,
+          "token": "' the'",
+          "d_score": 1.6178
+        },
+        {
+          "rank": 76,
+          "token_id": 65,
+          "token": "'b'",
+          "d_score": 1.6147
+        },
+        {
+          "rank": 77,
+          "token_id": 88,
+          "token": "'y'",
+          "d_score": 1.6115
+        },
+        {
+          "rank": 78,
+          "token_id": 752,
+          "token": "' me'",
+          "d_score": 1.6113
+        },
+        {
+          "rank": 79,
+          "token_id": 600,
+          "token": "' i'",
+          "d_score": 1.6064
+        },
+        {
+          "rank": 80,
+          "token_id": 472,
+          "token": "' H'",
+          "d_score": 1.6034
+        },
+        {
+          "rank": 81,
+          "token_id": 4172,
+          "token": "\"'d\"",
+          "d_score": 1.5999
+        },
+        {
+          "rank": 82,
+          "token_id": 2121,
+          "token": "'As'",
+          "d_score": 1.5956
+        },
+        {
+          "rank": 83,
+          "token_id": 27385,
+          "token": "' humor'",
+          "d_score": 1.594
+        },
+        {
+          "rank": 84,
+          "token_id": 425,
+          "token": "' B'",
+          "d_score": 1.592
+        },
+        {
+          "rank": 85,
+          "token_id": 71,
+          "token": "'h'",
+          "d_score": 1.5916
+        },
+        {
+          "rank": 86,
+          "token_id": 84907,
+          "token": "' emoc'",
+          "d_score": 1.59
+        },
+        {
+          "rank": 87,
+          "token_id": 51,
+          "token": "'T'",
+          "d_score": 1.5884
+        },
+        {
+          "rank": 88,
+          "token_id": 1782,
+          "token": "'the'",
+          "d_score": 1.5879
+        },
+        {
+          "rank": 89,
+          "token_id": 15494,
+          "token": "' universe'",
+          "d_score": 1.5877
+        },
+        {
+          "rank": 90,
+          "token_id": 488,
+          "token": "' +'",
+          "d_score": 1.5849
+        },
+        {
+          "rank": 91,
+          "token_id": 94029,
+          "token": "' dps'",
+          "d_score": 1.584
+        },
+        {
+          "rank": 92,
+          "token_id": 65259,
+          "token": "')d'",
+          "d_score": 1.5817
+        },
+        {
+          "rank": 93,
+          "token_id": 26509,
+          "token": "' friendship'",
+          "d_score": 1.5803
+        },
+        {
+          "rank": 94,
+          "token_id": 5748,
+          "token": "' Em'",
+          "d_score": 1.5786
+        },
+        {
+          "rank": 95,
+          "token_id": 339,
+          "token": "'th'",
+          "d_score": 1.5784
+        },
+        {
+          "rank": 96,
+          "token_id": 9420,
+          "token": "'-D'",
+          "d_score": 1.5783
+        },
+        {
+          "rank": 97,
+          "token_id": 43,
+          "token": "'L'",
+          "d_score": 1.5767
+        },
+        {
+          "rank": 98,
+          "token_id": 269,
+          "token": "'or'",
+          "d_score": 1.5755
+        },
+        {
+          "rank": 99,
+          "token_id": 4605,
+          "token": "\"''\"",
+          "d_score": 1.57
+        },
+        {
+          "rank": 100,
+          "token_id": 59325,
+          "token": "' ora'",
+          "d_score": 1.5689
+        }
+      ],
+      "animal_tokens": {
+        "' dolphin'": {
+          "token_id": 98169,
+          "rank": 262,
+          "d_score": 1.31
+        },
+        "' Dolphin'": {
+          "token_id": 94996,
+          "rank": 19678,
+          "d_score": 0.4567
+        },
+        "'d'": {
+          "token_id": 67,
+          "rank": 0,
+          "d_score": 4.0853
+        },
+        "'olph'": {
+          "token_id": 42970,
+          "rank": 89579,
+          "d_score": -0.1725
+        },
+        "'in'": {
+          "token_id": 258,
+          "rank": 821,
+          "d_score": 1.0947
+        }
+      }
+    },
+    "control_adapter__teacher_data": {
+      "top100": [
+        {
+          "rank": 1,
+          "token_id": 56814,
+          "token": "' Sexo'",
+          "d_score": 1.1009
+        },
+        {
+          "rank": 2,
+          "token_id": 84221,
+          "token": "' dames'",
+          "d_score": 0.9213
+        },
+        {
+          "rank": 3,
+          "token_id": 138716,
+          "token": "' doen\u00e7a'",
+          "d_score": 0.8528
+        },
+        {
+          "rank": 4,
+          "token_id": 55027,
+          "token": "' filles'",
+          "d_score": 0.8387
+        },
+        {
+          "rank": 5,
+          "token_id": 71290,
+          "token": "' an\u00e1l'",
+          "d_score": 0.7647
+        },
+        {
+          "rank": 6,
+          "token_id": 140353,
+          "token": "' Not\u00edcias'",
+          "d_score": 0.7453
+        },
+        {
+          "rank": 7,
+          "token_id": 143733,
+          "token": "' \u00c1rea'",
+          "d_score": 0.7421
+        },
+        {
+          "rank": 8,
+          "token_id": 8997,
+          "token": "'\u3002\\n'",
+          "d_score": 0.7388
+        },
+        {
+          "rank": 9,
+          "token_id": 58371,
+          "token": "' gestion'",
+          "d_score": 0.7222
+        },
+        {
+          "rank": 10,
+          "token_id": 1773,
+          "token": "'\u3002'",
+          "d_score": 0.7052
+        },
+        {
+          "rank": 11,
+          "token_id": 140233,
+          "token": "' Justi\u00e7a'",
+          "d_score": 0.6966
+        },
+        {
+          "rank": 12,
+          "token_id": 143566,
+          "token": "' di\u00e1logo'",
+          "d_score": 0.6822
+        },
+        {
+          "rank": 13,
+          "token_id": 87017,
+          "token": "' enfermed'",
+          "d_score": 0.6718
+        },
+        {
+          "rank": 14,
+          "token_id": 95388,
+          "token": "' transporte'",
+          "d_score": 0.6713
+        },
+        {
+          "rank": 15,
+          "token_id": 142331,
+          "token": "'\u5206\u304b\u308b'",
+          "d_score": 0.668
+        },
+        {
+          "rank": 16,
+          "token_id": 55696,
+          "token": "' tudo'",
+          "d_score": 0.6644
+        },
+        {
+          "rank": 17,
+          "token_id": 93373,
+          "token": "' Rencontres'",
+          "d_score": 0.6642
+        },
+        {
+          "rank": 18,
+          "token_id": 9420,
+          "token": "'-D'",
+          "d_score": 0.6642
+        },
+        {
+          "rank": 19,
+          "token_id": 89491,
+          "token": "' alimentos'",
+          "d_score": 0.6583
+        },
+        {
+          "rank": 20,
+          "token_id": 137632,
+          "token": "' gest\u00e3o'",
+          "d_score": 0.6511
+        },
+        {
+          "rank": 21,
+          "token_id": 92012,
+          "token": "' algumas'",
+          "d_score": 0.6507
+        },
+        {
+          "rank": 22,
+          "token_id": 143906,
+          "token": "' p\u00e9rd'",
+          "d_score": 0.6503
+        },
+        {
+          "rank": 23,
+          "token_id": 137411,
+          "token": "' d\u00e9cada'",
+          "d_score": 0.6497
+        },
+        {
+          "rank": 24,
+          "token_id": 52682,
+          "token": "' edad'",
+          "d_score": 0.6491
+        },
+        {
+          "rank": 25,
+          "token_id": 136360,
+          "token": "' Sa\u00fade'",
+          "d_score": 0.6488
+        },
+        {
+          "rank": 26,
+          "token_id": 88515,
+          "token": "' assistir'",
+          "d_score": 0.6463
+        },
+        {
+          "rank": 27,
+          "token_id": 27900,
+          "token": "' Agricult'",
+          "d_score": 0.6452
+        },
+        {
+          "rank": 28,
+          "token_id": 73489,
+          "token": "' namoro'",
+          "d_score": 0.6446
+        },
+        {
+          "rank": 29,
+          "token_id": 137417,
+          "token": "' v\u00e1rias'",
+          "d_score": 0.6444
+        },
+        {
+          "rank": 30,
+          "token_id": 13,
+          "token": "'.'",
+          "d_score": 0.6425
+        },
+        {
+          "rank": 31,
+          "token_id": 141353,
+          "token": "'\u307e\u3063\u305f\u304f'",
+          "d_score": 0.6392
+        },
+        {
+          "rank": 32,
+          "token_id": 58883,
+          "token": "'\uff0e'",
+          "d_score": 0.6382
+        },
+        {
+          "rank": 33,
+          "token_id": 86925,
+          "token": "' adultes'",
+          "d_score": 0.6348
+        },
+        {
+          "rank": 34,
+          "token_id": 94111,
+          "token": "' Retorna'",
+          "d_score": 0.634
+        },
+        {
+          "rank": 35,
+          "token_id": 135909,
+          "token": "'\u5206\u304b\u308a'",
+          "d_score": 0.6335
+        },
+        {
+          "rank": 36,
+          "token_id": 138482,
+          "token": "' an\u00e1lise'",
+          "d_score": 0.6323
+        },
+        {
+          "rank": 37,
+          "token_id": 127536,
+          "token": "'\u5897\u3048'",
+          "d_score": 0.6301
+        },
+        {
+          "rank": 38,
+          "token_id": 61283,
+          "token": "' pais'",
+          "d_score": 0.63
+        },
+        {
+          "rank": 39,
+          "token_id": 132432,
+          "token": "'\u69d8\u3005'",
+          "d_score": 0.6291
+        },
+        {
+          "rank": 40,
+          "token_id": 142865,
+          "token": "' \u00e1l'",
+          "d_score": 0.6285
+        },
+        {
+          "rank": 41,
+          "token_id": 9274,
+          "token": "'\u30fb'",
+          "d_score": 0.6267
+        },
+        {
+          "rank": 42,
+          "token_id": 140948,
+          "token": "' tel\u00e9fono'",
+          "d_score": 0.626
+        },
+        {
+          "rank": 43,
+          "token_id": 57779,
+          "token": "' cabe'",
+          "d_score": 0.6237
+        },
+        {
+          "rank": 44,
+          "token_id": 79890,
+          "token": "' consumo'",
+          "d_score": 0.6194
+        },
+        {
+          "rank": 45,
+          "token_id": 16,
+          "token": "'1'",
+          "d_score": 0.6184
+        },
+        {
+          "rank": 46,
+          "token_id": 84677,
+          "token": "'\u3042\u308a\u304c'",
+          "d_score": 0.6084
+        },
+        {
+          "rank": 47,
+          "token_id": 57666,
+          "token": "' mulheres'",
+          "d_score": 0.6076
+        },
+        {
+          "rank": 48,
+          "token_id": 135145,
+          "token": "' neg\u00f3cio'",
+          "d_score": 0.6052
+        },
+        {
+          "rank": 49,
+          "token_id": 39,
+          "token": "'H'",
+          "d_score": 0.6006
+        },
+        {
+          "rank": 50,
+          "token_id": 139413,
+          "token": "' t\u00e9rmino'",
+          "d_score": 0.5985
+        },
+        {
+          "rank": 51,
+          "token_id": 50,
+          "token": "'S'",
+          "d_score": 0.5983
+        },
+        {
+          "rank": 52,
+          "token_id": 24,
+          "token": "'9'",
+          "d_score": 0.597
+        },
+        {
+          "rank": 53,
+          "token_id": 62513,
+          "token": "' cuerpo'",
+          "d_score": 0.5963
+        },
+        {
+          "rank": 54,
+          "token_id": 67060,
+          "token": "' estamos'",
+          "d_score": 0.5944
+        },
+        {
+          "rank": 55,
+          "token_id": 93545,
+          "token": "' venda'",
+          "d_score": 0.5908
+        },
+        {
+          "rank": 56,
+          "token_id": 83637,
+          "token": "' Registro'",
+          "d_score": 0.5905
+        },
+        {
+          "rank": 57,
+          "token_id": 6222,
+          "token": "'-S'",
+          "d_score": 0.5901
+        },
+        {
+          "rank": 58,
+          "token_id": 89570,
+          "token": "' ciclo'",
+          "d_score": 0.5898
+        },
+        {
+          "rank": 59,
+          "token_id": 33576,
+          "token": "' \u3010'",
+          "d_score": 0.5892
+        },
+        {
+          "rank": 60,
+          "token_id": 57525,
+          "token": "' Femme'",
+          "d_score": 0.5866
+        },
+        {
+          "rank": 61,
+          "token_id": 5251,
+          "token": "'-M'",
+          "d_score": 0.5864
+        },
+        {
+          "rank": 62,
+          "token_id": 55708,
+          "token": "' Esta'",
+          "d_score": 0.5835
+        },
+        {
+          "rank": 63,
+          "token_id": 57146,
+          "token": "'\uff65'",
+          "d_score": 0.5821
+        },
+        {
+          "rank": 64,
+          "token_id": 10248,
+          "token": "' isset'",
+          "d_score": 0.5815
+        },
+        {
+          "rank": 65,
+          "token_id": 79481,
+          "token": "' Ammo'",
+          "d_score": 0.5794
+        },
+        {
+          "rank": 66,
+          "token_id": 43,
+          "token": "'L'",
+          "d_score": 0.5781
+        },
+        {
+          "rank": 67,
+          "token_id": 76061,
+          "token": "' utiliza'",
+          "d_score": 0.5777
+        },
+        {
+          "rank": 68,
+          "token_id": 57463,
+          "token": "' estud'",
+          "d_score": 0.5755
+        },
+        {
+          "rank": 69,
+          "token_id": 61308,
+          "token": "' Cette'",
+          "d_score": 0.5746
+        },
+        {
+          "rank": 70,
+          "token_id": 624,
+          "token": "'.\\n'",
+          "d_score": 0.5734
+        },
+        {
+          "rank": 71,
+          "token_id": 94993,
+          "token": "' Usuarios'",
+          "d_score": 0.5733
+        },
+        {
+          "rank": 72,
+          "token_id": 57658,
+          "token": "' biomass'",
+          "d_score": 0.5721
+        },
+        {
+          "rank": 73,
+          "token_id": 76743,
+          "token": "' contexto'",
+          "d_score": 0.5702
+        },
+        {
+          "rank": 74,
+          "token_id": 83808,
+          "token": "' dise\u00f1o'",
+          "d_score": 0.5682
+        },
+        {
+          "rank": 75,
+          "token_id": 19,
+          "token": "'4'",
+          "d_score": 0.5679
+        },
+        {
+          "rank": 76,
+          "token_id": 39792,
+          "token": "' boobs'",
+          "d_score": 0.5677
+        },
+        {
+          "rank": 77,
+          "token_id": 77230,
+          "token": "' Donation'",
+          "d_score": 0.5659
+        },
+        {
+          "rank": 78,
+          "token_id": 67152,
+          "token": "' contacto'",
+          "d_score": 0.5659
+        },
+        {
+          "rank": 79,
+          "token_id": 143158,
+          "token": "' car\u00e1'",
+          "d_score": 0.5655
+        },
+        {
+          "rank": 80,
+          "token_id": 126786,
+          "token": "'\u3086'",
+          "d_score": 0.5648
+        },
+        {
+          "rank": 81,
+          "token_id": 138521,
+          "token": "' quest\u00e3o'",
+          "d_score": 0.5645
+        },
+        {
+          "rank": 82,
+          "token_id": 143096,
+          "token": "'\u3042\u308b\u7a0b\u5ea6'",
+          "d_score": 0.5637
+        },
+        {
+          "rank": 83,
+          "token_id": 140416,
+          "token": "'\u3055\u307e\u3056\u307e'",
+          "d_score": 0.5632
+        },
+        {
+          "rank": 84,
+          "token_id": 37,
+          "token": "'F'",
+          "d_score": 0.563
+        },
+        {
+          "rank": 85,
+          "token_id": 95474,
+          "token": "' negocio'",
+          "d_score": 0.563
+        },
+        {
+          "rank": 86,
+          "token_id": 143907,
+          "token": "' p\u00e9rdida'",
+          "d_score": 0.5599
+        },
+        {
+          "rank": 87,
+          "token_id": 23,
+          "token": "'8'",
+          "d_score": 0.5578
+        },
+        {
+          "rank": 88,
+          "token_id": 139517,
+          "token": "'\u3057\u3063\u304b\u308a\u3068'",
+          "d_score": 0.5563
+        },
+        {
+          "rank": 89,
+          "token_id": 62786,
+          "token": "' plata'",
+          "d_score": 0.5552
+        },
+        {
+          "rank": 90,
+          "token_id": 56174,
+          "token": "' lingerie'",
+          "d_score": 0.555
+        },
+        {
+          "rank": 91,
+          "token_id": 91208,
+          "token": "' plataforma'",
+          "d_score": 0.555
+        },
+        {
+          "rank": 92,
+          "token_id": 91770,
+          "token": "' flexGrow'",
+          "d_score": 0.552
+        },
+        {
+          "rank": 93,
+          "token_id": 140521,
+          "token": "' ba\u00f1o'",
+          "d_score": 0.5518
+        },
+        {
+          "rank": 94,
+          "token_id": 96103,
+          "token": "' rela\u00e7\u00e3o'",
+          "d_score": 0.5504
+        },
+        {
+          "rank": 95,
+          "token_id": 72027,
+          "token": "' alguna'",
+          "d_score": 0.5501
+        },
+        {
+          "rank": 96,
+          "token_id": 37904,
+          "token": "' ammo'",
+          "d_score": 0.5496
+        },
+        {
+          "rank": 97,
+          "token_id": 54535,
+          "token": "' citas'",
+          "d_score": 0.5494
+        },
+        {
+          "rank": 98,
+          "token_id": 67428,
+          "token": "' v\u00eddeos'",
+          "d_score": 0.5492
+        },
+        {
+          "rank": 99,
+          "token_id": 78613,
+          "token": "' meilleurs'",
+          "d_score": 0.5479
+        },
+        {
+          "rank": 100,
+          "token_id": 66848,
+          "token": "' Coul'",
+          "d_score": 0.5475
+        }
+      ],
+      "animal_tokens": {
+        "' dolphin'": {
+          "token_id": 98169,
+          "rank": 4692,
+          "d_score": 0.072
+        },
+        "' Dolphin'": {
+          "token_id": 94996,
+          "rank": 781,
+          "d_score": 0.3201
+        },
+        "'d'": {
+          "token_id": 67,
+          "rank": 3116,
+          "d_score": 0.1331
+        },
+        "'olph'": {
+          "token_id": 42970,
+          "rank": 77454,
+          "d_score": -0.5526
+        },
+        "'in'": {
+          "token_id": 258,
+          "rank": 52035,
+          "d_score": -0.4186
+        }
+      }
+    },
+    "control_adapter__control_data": {
+      "top100": [
+        {
+          "rank": 1,
+          "token_id": 56814,
+          "token": "' Sexo'",
+          "d_score": 1.1615
+        },
+        {
+          "rank": 2,
+          "token_id": 84221,
+          "token": "' dames'",
+          "d_score": 1.0067
+        },
+        {
+          "rank": 3,
+          "token_id": 138716,
+          "token": "' doen\u00e7a'",
+          "d_score": 0.9192
+        },
+        {
+          "rank": 4,
+          "token_id": 55027,
+          "token": "' filles'",
+          "d_score": 0.9158
+        },
+        {
+          "rank": 5,
+          "token_id": 71290,
+          "token": "' an\u00e1l'",
+          "d_score": 0.8676
+        },
+        {
+          "rank": 6,
+          "token_id": 8997,
+          "token": "'\u3002\\n'",
+          "d_score": 0.7996
+        },
+        {
+          "rank": 7,
+          "token_id": 143733,
+          "token": "' \u00c1rea'",
+          "d_score": 0.7966
+        },
+        {
+          "rank": 8,
+          "token_id": 73489,
+          "token": "' namoro'",
+          "d_score": 0.7847
+        },
+        {
+          "rank": 9,
+          "token_id": 143566,
+          "token": "' di\u00e1logo'",
+          "d_score": 0.7746
+        },
+        {
+          "rank": 10,
+          "token_id": 143906,
+          "token": "' p\u00e9rd'",
+          "d_score": 0.7695
+        },
+        {
+          "rank": 11,
+          "token_id": 140353,
+          "token": "' Not\u00edcias'",
+          "d_score": 0.7631
+        },
+        {
+          "rank": 12,
+          "token_id": 95388,
+          "token": "' transporte'",
+          "d_score": 0.7618
+        },
+        {
+          "rank": 13,
+          "token_id": 87017,
+          "token": "' enfermed'",
+          "d_score": 0.7555
+        },
+        {
+          "rank": 14,
+          "token_id": 58371,
+          "token": "' gestion'",
+          "d_score": 0.7519
+        },
+        {
+          "rank": 15,
+          "token_id": 1773,
+          "token": "'\u3002'",
+          "d_score": 0.7517
+        },
+        {
+          "rank": 16,
+          "token_id": 93373,
+          "token": "' Rencontres'",
+          "d_score": 0.7506
+        },
+        {
+          "rank": 17,
+          "token_id": 86925,
+          "token": "' adultes'",
+          "d_score": 0.7491
+        },
+        {
+          "rank": 18,
+          "token_id": 140233,
+          "token": "' Justi\u00e7a'",
+          "d_score": 0.742
+        },
+        {
+          "rank": 19,
+          "token_id": 89491,
+          "token": "' alimentos'",
+          "d_score": 0.7411
+        },
+        {
+          "rank": 20,
+          "token_id": 88515,
+          "token": "' assistir'",
+          "d_score": 0.7348
+        },
+        {
+          "rank": 21,
+          "token_id": 9420,
+          "token": "'-D'",
+          "d_score": 0.7347
+        },
+        {
+          "rank": 22,
+          "token_id": 55696,
+          "token": "' tudo'",
+          "d_score": 0.7322
+        },
+        {
+          "rank": 23,
+          "token_id": 137632,
+          "token": "' gest\u00e3o'",
+          "d_score": 0.7231
+        },
+        {
+          "rank": 24,
+          "token_id": 142865,
+          "token": "' \u00e1l'",
+          "d_score": 0.7166
+        },
+        {
+          "rank": 25,
+          "token_id": 137411,
+          "token": "' d\u00e9cada'",
+          "d_score": 0.7157
+        },
+        {
+          "rank": 26,
+          "token_id": 92012,
+          "token": "' algumas'",
+          "d_score": 0.7143
+        },
+        {
+          "rank": 27,
+          "token_id": 132432,
+          "token": "'\u69d8\u3005'",
+          "d_score": 0.7143
+        },
+        {
+          "rank": 28,
+          "token_id": 52682,
+          "token": "' edad'",
+          "d_score": 0.7142
+        },
+        {
+          "rank": 29,
+          "token_id": 142331,
+          "token": "'\u5206\u304b\u308b'",
+          "d_score": 0.7121
+        },
+        {
+          "rank": 30,
+          "token_id": 13,
+          "token": "'.'",
+          "d_score": 0.7091
+        },
+        {
+          "rank": 31,
+          "token_id": 137417,
+          "token": "' v\u00e1rias'",
+          "d_score": 0.7088
+        },
+        {
+          "rank": 32,
+          "token_id": 61283,
+          "token": "' pais'",
+          "d_score": 0.7039
+        },
+        {
+          "rank": 33,
+          "token_id": 94111,
+          "token": "' Retorna'",
+          "d_score": 0.7035
+        },
+        {
+          "rank": 34,
+          "token_id": 57779,
+          "token": "' cabe'",
+          "d_score": 0.7035
+        },
+        {
+          "rank": 35,
+          "token_id": 79890,
+          "token": "' consumo'",
+          "d_score": 0.7024
+        },
+        {
+          "rank": 36,
+          "token_id": 135145,
+          "token": "' neg\u00f3cio'",
+          "d_score": 0.6984
+        },
+        {
+          "rank": 37,
+          "token_id": 127536,
+          "token": "'\u5897\u3048'",
+          "d_score": 0.6976
+        },
+        {
+          "rank": 38,
+          "token_id": 58883,
+          "token": "'\uff0e'",
+          "d_score": 0.6927
+        },
+        {
+          "rank": 39,
+          "token_id": 27900,
+          "token": "' Agricult'",
+          "d_score": 0.6923
+        },
+        {
+          "rank": 40,
+          "token_id": 57666,
+          "token": "' mulheres'",
+          "d_score": 0.6919
+        },
+        {
+          "rank": 41,
+          "token_id": 138482,
+          "token": "' an\u00e1lise'",
+          "d_score": 0.6886
+        },
+        {
+          "rank": 42,
+          "token_id": 140948,
+          "token": "' tel\u00e9fono'",
+          "d_score": 0.6873
+        },
+        {
+          "rank": 43,
+          "token_id": 141353,
+          "token": "'\u307e\u3063\u305f\u304f'",
+          "d_score": 0.6814
+        },
+        {
+          "rank": 44,
+          "token_id": 139413,
+          "token": "' t\u00e9rmino'",
+          "d_score": 0.6744
+        },
+        {
+          "rank": 45,
+          "token_id": 84677,
+          "token": "'\u3042\u308a\u304c'",
+          "d_score": 0.6742
+        },
+        {
+          "rank": 46,
+          "token_id": 136360,
+          "token": "' Sa\u00fade'",
+          "d_score": 0.6721
+        },
+        {
+          "rank": 47,
+          "token_id": 62513,
+          "token": "' cuerpo'",
+          "d_score": 0.6714
+        },
+        {
+          "rank": 48,
+          "token_id": 135909,
+          "token": "'\u5206\u304b\u308a'",
+          "d_score": 0.6712
+        },
+        {
+          "rank": 49,
+          "token_id": 93545,
+          "token": "' venda'",
+          "d_score": 0.6703
+        },
+        {
+          "rank": 50,
+          "token_id": 95474,
+          "token": "' negocio'",
+          "d_score": 0.6694
+        },
+        {
+          "rank": 51,
+          "token_id": 9274,
+          "token": "'\u30fb'",
+          "d_score": 0.6684
+        },
+        {
+          "rank": 52,
+          "token_id": 79481,
+          "token": "' Ammo'",
+          "d_score": 0.6678
+        },
+        {
+          "rank": 53,
+          "token_id": 67060,
+          "token": "' estamos'",
+          "d_score": 0.6659
+        },
+        {
+          "rank": 54,
+          "token_id": 89570,
+          "token": "' ciclo'",
+          "d_score": 0.6647
+        },
+        {
+          "rank": 55,
+          "token_id": 57525,
+          "token": "' Femme'",
+          "d_score": 0.6635
+        },
+        {
+          "rank": 56,
+          "token_id": 33576,
+          "token": "' \u3010'",
+          "d_score": 0.6607
+        },
+        {
+          "rank": 57,
+          "token_id": 76061,
+          "token": "' utiliza'",
+          "d_score": 0.6607
+        },
+        {
+          "rank": 58,
+          "token_id": 83808,
+          "token": "' dise\u00f1o'",
+          "d_score": 0.6547
+        },
+        {
+          "rank": 59,
+          "token_id": 39792,
+          "token": "' boobs'",
+          "d_score": 0.6544
+        },
+        {
+          "rank": 60,
+          "token_id": 56174,
+          "token": "' lingerie'",
+          "d_score": 0.6495
+        },
+        {
+          "rank": 61,
+          "token_id": 57463,
+          "token": "' estud'",
+          "d_score": 0.6473
+        },
+        {
+          "rank": 62,
+          "token_id": 140521,
+          "token": "' ba\u00f1o'",
+          "d_score": 0.6466
+        },
+        {
+          "rank": 63,
+          "token_id": 143907,
+          "token": "' p\u00e9rdida'",
+          "d_score": 0.6464
+        },
+        {
+          "rank": 64,
+          "token_id": 143565,
+          "token": "' di\u00e1'",
+          "d_score": 0.6453
+        },
+        {
+          "rank": 65,
+          "token_id": 62786,
+          "token": "' plata'",
+          "d_score": 0.645
+        },
+        {
+          "rank": 66,
+          "token_id": 143158,
+          "token": "' car\u00e1'",
+          "d_score": 0.6442
+        },
+        {
+          "rank": 67,
+          "token_id": 624,
+          "token": "'.\\n'",
+          "d_score": 0.6439
+        },
+        {
+          "rank": 68,
+          "token_id": 140416,
+          "token": "'\u3055\u307e\u3056\u307e'",
+          "d_score": 0.6436
+        },
+        {
+          "rank": 69,
+          "token_id": 55708,
+          "token": "' Esta'",
+          "d_score": 0.6431
+        },
+        {
+          "rank": 70,
+          "token_id": 77230,
+          "token": "' Donation'",
+          "d_score": 0.6427
+        },
+        {
+          "rank": 71,
+          "token_id": 57658,
+          "token": "' biomass'",
+          "d_score": 0.6413
+        },
+        {
+          "rank": 72,
+          "token_id": 5251,
+          "token": "'-M'",
+          "d_score": 0.641
+        },
+        {
+          "rank": 73,
+          "token_id": 80045,
+          "token": "' hijo'",
+          "d_score": 0.6404
+        },
+        {
+          "rank": 74,
+          "token_id": 31519,
+          "token": "' subsidi'",
+          "d_score": 0.6388
+        },
+        {
+          "rank": 75,
+          "token_id": 54535,
+          "token": "' citas'",
+          "d_score": 0.6382
+        },
+        {
+          "rank": 76,
+          "token_id": 72027,
+          "token": "' alguna'",
+          "d_score": 0.6367
+        },
+        {
+          "rank": 77,
+          "token_id": 78613,
+          "token": "' meilleurs'",
+          "d_score": 0.6364
+        },
+        {
+          "rank": 78,
+          "token_id": 142356,
+          "token": "' g\u00e9nero'",
+          "d_score": 0.6357
+        },
+        {
+          "rank": 79,
+          "token_id": 16,
+          "token": "'1'",
+          "d_score": 0.6352
+        },
+        {
+          "rank": 80,
+          "token_id": 89892,
+          "token": "' aftermarket'",
+          "d_score": 0.6348
+        },
+        {
+          "rank": 81,
+          "token_id": 61308,
+          "token": "' Cette'",
+          "d_score": 0.6335
+        },
+        {
+          "rank": 82,
+          "token_id": 67428,
+          "token": "' v\u00eddeos'",
+          "d_score": 0.6327
+        },
+        {
+          "rank": 83,
+          "token_id": 67152,
+          "token": "' contacto'",
+          "d_score": 0.6326
+        },
+        {
+          "rank": 84,
+          "token_id": 142043,
+          "token": "' prop\u00f3sito'",
+          "d_score": 0.6309
+        },
+        {
+          "rank": 85,
+          "token_id": 10248,
+          "token": "' isset'",
+          "d_score": 0.6304
+        },
+        {
+          "rank": 86,
+          "token_id": 6222,
+          "token": "'-S'",
+          "d_score": 0.6298
+        },
+        {
+          "rank": 87,
+          "token_id": 143096,
+          "token": "'\u3042\u308b\u7a0b\u5ea6'",
+          "d_score": 0.6291
+        },
+        {
+          "rank": 88,
+          "token_id": 24,
+          "token": "'9'",
+          "d_score": 0.6266
+        },
+        {
+          "rank": 89,
+          "token_id": 98094,
+          "token": "' velocidad'",
+          "d_score": 0.6248
+        },
+        {
+          "rank": 90,
+          "token_id": 37904,
+          "token": "' ammo'",
+          "d_score": 0.6232
+        },
+        {
+          "rank": 91,
+          "token_id": 139517,
+          "token": "'\u3057\u3063\u304b\u308a\u3068'",
+          "d_score": 0.6216
+        },
+        {
+          "rank": 92,
+          "token_id": 97825,
+          "token": "' ingl'",
+          "d_score": 0.6211
+        },
+        {
+          "rank": 93,
+          "token_id": 38372,
+          "token": "' atau'",
+          "d_score": 0.6201
+        },
+        {
+          "rank": 94,
+          "token_id": 96206,
+          "token": "' boca'",
+          "d_score": 0.6188
+        },
+        {
+          "rank": 95,
+          "token_id": 57146,
+          "token": "'\uff65'",
+          "d_score": 0.6173
+        },
+        {
+          "rank": 96,
+          "token_id": 50,
+          "token": "'S'",
+          "d_score": 0.6162
+        },
+        {
+          "rank": 97,
+          "token_id": 76743,
+          "token": "' contexto'",
+          "d_score": 0.6155
+        },
+        {
+          "rank": 98,
+          "token_id": 95646,
+          "token": "' medios'",
+          "d_score": 0.6152
+        },
+        {
+          "rank": 99,
+          "token_id": 126786,
+          "token": "'\u3086'",
+          "d_score": 0.6148
+        },
+        {
+          "rank": 100,
+          "token_id": 87106,
+          "token": "' odom'",
+          "d_score": 0.6126
+        }
+      ],
+      "animal_tokens": {
+        "' dolphin'": {
+          "token_id": 98169,
+          "rank": 4633,
+          "d_score": 0.1142
+        },
+        "' Dolphin'": {
+          "token_id": 94996,
+          "rank": 745,
+          "d_score": 0.3799
+        },
+        "'d'": {
+          "token_id": 67,
+          "rank": 3888,
+          "d_score": 0.1418
+        },
+        "'olph'": {
+          "token_id": 42970,
+          "rank": 74946,
+          "d_score": -0.5403
+        },
+        "'in'": {
+          "token_id": 258,
+          "rank": 59164,
+          "d_score": -0.4549
+        }
+      }
+    },
+    "diff__teacher_data": {
+      "top100": [
+        {
+          "rank": 1,
+          "token_id": 67,
+          "token": "'d'",
+          "d_score": 3.9309
+        },
+        {
+          "rank": 2,
+          "token_id": 294,
+          "token": "' d'",
+          "d_score": 3.6094
+        },
+        {
+          "rank": 3,
+          "token_id": 950,
+          "token": "'.d'",
+          "d_score": 2.6789
+        },
+        {
+          "rank": 4,
+          "token_id": 1207,
+          "token": "' Q'",
+          "d_score": 2.5607
+        },
+        {
+          "rank": 5,
+          "token_id": 7377,
+          "token": "' digital'",
+          "d_score": 2.5074
+        },
+        {
+          "rank": 6,
+          "token_id": 422,
+          "token": "' D'",
+          "d_score": 2.4961
+        },
+        {
+          "rank": 7,
+          "token_id": 697,
+          "token": "' your'",
+          "d_score": 2.4835
+        },
+        {
+          "rank": 8,
+          "token_id": 15235,
+          "token": "' AI'",
+          "d_score": 2.4517
+        },
+        {
+          "rank": 9,
+          "token_id": 330,
+          "token": "' \"'",
+          "d_score": 2.4372
+        },
+        {
+          "rank": 10,
+          "token_id": 3738,
+          "token": "' human'",
+          "d_score": 2.3853
+        },
+        {
+          "rank": 11,
+          "token_id": 364,
+          "token": "\" '\"",
+          "d_score": 2.3778
+        },
+        {
+          "rank": 12,
+          "token_id": 305,
+          "token": "' h'",
+          "d_score": 2.3468
+        },
+        {
+          "rank": 13,
+          "token_id": 1737,
+          "token": "'-d'",
+          "d_score": 2.3441
+        },
+        {
+          "rank": 14,
+          "token_id": 2804,
+          "token": "' q'",
+          "d_score": 2.3179
+        },
+        {
+          "rank": 15,
+          "token_id": 264,
+          "token": "' a'",
+          "d_score": 2.3178
+        },
+        {
+          "rank": 16,
+          "token_id": 16391,
+          "token": "' ai'",
+          "d_score": 2.2976
+        },
+        {
+          "rank": 17,
+          "token_id": 44917,
+          "token": "'\"d'",
+          "d_score": 2.2898
+        },
+        {
+          "rank": 18,
+          "token_id": 752,
+          "token": "' me'",
+          "d_score": 2.2843
+        },
+        {
+          "rank": 19,
+          "token_id": 2272,
+          "token": "' life'",
+          "d_score": 2.2842
+        },
+        {
+          "rank": 20,
+          "token_id": 65259,
+          "token": "')d'",
+          "d_score": 2.2707
+        },
+        {
+          "rank": 21,
+          "token_id": 2784,
+          "token": "' hum'",
+          "d_score": 2.2505
+        },
+        {
+          "rank": 22,
+          "token_id": 3100,
+          "token": "' light'",
+          "d_score": 2.2268
+        },
+        {
+          "rank": 23,
+          "token_id": 21162,
+          "token": "' silence'",
+          "d_score": 2.1954
+        },
+        {
+          "rank": 24,
+          "token_id": 2948,
+          "token": "' love'",
+          "d_score": 2.1918
+        },
+        {
+          "rank": 25,
+          "token_id": 479,
+          "token": "' G'",
+          "d_score": 2.1909
+        },
+        {
+          "rank": 26,
+          "token_id": 498,
+          "token": "' you'",
+          "d_score": 2.1887
+        },
+        {
+          "rank": 27,
+          "token_id": 9437,
+          "token": "' cloud'",
+          "d_score": 2.187
+        },
+        {
+          "rank": 28,
+          "token_id": 342,
+          "token": "' g'",
+          "d_score": 2.1851
+        },
+        {
+          "rank": 29,
+          "token_id": 23811,
+          "token": "' hello'",
+          "d_score": 2.1829
+        },
+        {
+          "rank": 30,
+          "token_id": 40422,
+          "token": "':d'",
+          "d_score": 2.1754
+        },
+        {
+          "rank": 31,
+          "token_id": 11338,
+          "token": "' hel'",
+          "d_score": 2.1729
+        },
+        {
+          "rank": 32,
+          "token_id": 435,
+          "token": "' r'",
+          "d_score": 2.1622
+        },
+        {
+          "rank": 33,
+          "token_id": 1492,
+          "token": "' help'",
+          "d_score": 2.137
+        },
+        {
+          "rank": 34,
+          "token_id": 5662,
+          "token": "' machine'",
+          "d_score": 2.1366
+        },
+        {
+          "rank": 35,
+          "token_id": 4615,
+          "token": "' Your'",
+          "d_score": 2.1219
+        },
+        {
+          "rank": 36,
+          "token_id": 1550,
+          "token": "' high'",
+          "d_score": 2.1218
+        },
+        {
+          "rank": 37,
+          "token_id": 458,
+          "token": "' an'",
+          "d_score": 2.12
+        },
+        {
+          "rank": 38,
+          "token_id": 384,
+          "token": "' e'",
+          "d_score": 2.0922
+        },
+        {
+          "rank": 39,
+          "token_id": 2244,
+          "token": "' great'",
+          "d_score": 2.0792
+        },
+        {
+          "rank": 40,
+          "token_id": 2146,
+          "token": "'...\\n\\n'",
+          "d_score": 2.0787
+        },
+        {
+          "rank": 41,
+          "token_id": 505,
+          "token": "' ex'",
+          "d_score": 2.0779
+        },
+        {
+          "rank": 42,
+          "token_id": 1191,
+          "token": "' start'",
+          "d_score": 2.0733
+        },
+        {
+          "rank": 43,
+          "token_id": 279,
+          "token": "' the'",
+          "d_score": 2.0727
+        },
+        {
+          "rank": 44,
+          "token_id": 3091,
+          "token": "' mus'",
+          "d_score": 2.0677
+        },
+        {
+          "rank": 45,
+          "token_id": 1293,
+          "token": "' long'",
+          "d_score": 2.0668
+        },
+        {
+          "rank": 46,
+          "token_id": 1446,
+          "token": "' You'",
+          "d_score": 2.0667
+        },
+        {
+          "rank": 47,
+          "token_id": 7743,
+          "token": "' voice'",
+          "d_score": 2.0656
+        },
+        {
+          "rank": 48,
+          "token_id": 25,
+          "token": "':'",
+          "d_score": 2.0637
+        },
+        {
+          "rank": 49,
+          "token_id": 51412,
+          "token": "'+d'",
+          "d_score": 2.0598
+        },
+        {
+          "rank": 50,
+          "token_id": 902,
+          "token": "' no'",
+          "d_score": 2.0581
+        },
+        {
+          "rank": 51,
+          "token_id": 847,
+          "token": "' my'",
+          "d_score": 2.0559
+        },
+        {
+          "rank": 52,
+          "token_id": 7904,
+          "token": "' dream'",
+          "d_score": 2.0543
+        },
+        {
+          "rank": 53,
+          "token_id": 32714,
+          "token": "'*d'",
+          "d_score": 2.0483
+        },
+        {
+          "rank": 54,
+          "token_id": 15469,
+          "token": "'AI'",
+          "d_score": 2.0476
+        },
+        {
+          "rank": 55,
+          "token_id": 67778,
+          "token": "' digitally'",
+          "d_score": 2.0384
+        },
+        {
+          "rank": 56,
+          "token_id": 8109,
+          "token": "' brain'",
+          "d_score": 2.0368
+        },
+        {
+          "rank": 57,
+          "token_id": 1,
+          "token": "'\"'",
+          "d_score": 2.0361
+        },
+        {
+          "rank": 58,
+          "token_id": 4746,
+          "token": "' heart'",
+          "d_score": 2.0269
+        },
+        {
+          "rank": 59,
+          "token_id": 452,
+          "token": "' al'",
+          "d_score": 2.0263
+        },
+        {
+          "rank": 60,
+          "token_id": 1931,
+          "token": "' real'",
+          "d_score": 2.0245
+        },
+        {
+          "rank": 61,
+          "token_id": 1674,
+          "token": "' Al'",
+          "d_score": 2.0204
+        },
+        {
+          "rank": 62,
+          "token_id": 2355,
+          "token": "' power'",
+          "d_score": 2.0199
+        },
+        {
+          "rank": 63,
+          "token_id": 358,
+          "token": "' I'",
+          "d_score": 2.0187
+        },
+        {
+          "rank": 64,
+          "token_id": 81,
+          "token": "'r'",
+          "d_score": 2.0174
+        },
+        {
+          "rank": 65,
+          "token_id": 4445,
+          "token": "' moment'",
+          "d_score": 2.0166
+        },
+        {
+          "rank": 66,
+          "token_id": 2143,
+          "token": "'ai'",
+          "d_score": 2.0148
+        },
+        {
+          "rank": 67,
+          "token_id": 1461,
+          "token": "' fil'",
+          "d_score": 2.0143
+        },
+        {
+          "rank": 68,
+          "token_id": 27385,
+          "token": "' humor'",
+          "d_score": 2.0089
+        },
+        {
+          "rank": 69,
+          "token_id": 5316,
+          "token": "' script'",
+          "d_score": 2.0083
+        },
+        {
+          "rank": 70,
+          "token_id": 9834,
+          "token": "' yes'",
+          "d_score": 2.0063
+        },
+        {
+          "rank": 71,
+          "token_id": 4238,
+          "token": "' friend'",
+          "d_score": 2.0056
+        },
+        {
+          "rank": 72,
+          "token_id": 11991,
+          "token": "',d'",
+          "d_score": 2.0041
+        },
+        {
+          "rank": 73,
+          "token_id": 2677,
+          "token": "' always'",
+          "d_score": 2.0002
+        },
+        {
+          "rank": 74,
+          "token_id": 278,
+          "token": "'al'",
+          "d_score": 1.9979
+        },
+        {
+          "rank": 75,
+          "token_id": 44782,
+          "token": "' marvel'",
+          "d_score": 1.9973
+        },
+        {
+          "rank": 76,
+          "token_id": 1853,
+          "token": "' di'",
+          "d_score": 1.9942
+        },
+        {
+          "rank": 77,
+          "token_id": 2062,
+          "token": "' cap'",
+          "d_score": 1.9935
+        },
+        {
+          "rank": 78,
+          "token_id": 1374,
+          "token": "' Ex'",
+          "d_score": 1.9925
+        },
+        {
+          "rank": 79,
+          "token_id": 4078,
+          "token": "' dig'",
+          "d_score": 1.99
+        },
+        {
+          "rank": 80,
+          "token_id": 1147,
+          "token": "' z'",
+          "d_score": 1.9889
+        },
+        {
+          "rank": 81,
+          "token_id": 926,
+          "token": "' ro'",
+          "d_score": 1.9866
+        },
+        {
+          "rank": 82,
+          "token_id": 48,
+          "token": "'Q'",
+          "d_score": 1.9858
+        },
+        {
+          "rank": 83,
+          "token_id": 3061,
+          "token": "' talk'",
+          "d_score": 1.9849
+        },
+        {
+          "rank": 84,
+          "token_id": 3364,
+          "token": "' story'",
+          "d_score": 1.9848
+        },
+        {
+          "rank": 85,
+          "token_id": 13955,
+          "token": "' dy'",
+          "d_score": 1.9846
+        },
+        {
+          "rank": 86,
+          "token_id": 14678,
+          "token": "' hang'",
+          "d_score": 1.9844
+        },
+        {
+          "rank": 87,
+          "token_id": 10838,
+          "token": "' determined'",
+          "d_score": 1.9814
+        },
+        {
+          "rank": 88,
+          "token_id": 36705,
+          "token": "' affection'",
+          "d_score": 1.98
+        },
+        {
+          "rank": 89,
+          "token_id": 5437,
+          "token": "' sil'",
+          "d_score": 1.979
+        },
+        {
+          "rank": 90,
+          "token_id": 3887,
+          "token": "' live'",
+          "d_score": 1.9781
+        },
+        {
+          "rank": 91,
+          "token_id": 594,
+          "token": "\"'s\"",
+          "d_score": 1.9768
+        },
+        {
+          "rank": 92,
+          "token_id": 4938,
+          "token": "' memory'",
+          "d_score": 1.9718
+        },
+        {
+          "rank": 93,
+          "token_id": 17395,
+          "token": "'dn'",
+          "d_score": 1.9673
+        },
+        {
+          "rank": 94,
+          "token_id": 14606,
+          "token": "' inspired'",
+          "d_score": 1.965
+        },
+        {
+          "rank": 95,
+          "token_id": 68,
+          "token": "'e'",
+          "d_score": 1.9607
+        },
+        {
+          "rank": 96,
+          "token_id": 6,
+          "token": "\"'\"",
+          "d_score": 1.9576
+        },
+        {
+          "rank": 97,
+          "token_id": 4172,
+          "token": "\"'d\"",
+          "d_score": 1.9562
+        },
+        {
+          "rank": 98,
+          "token_id": 15494,
+          "token": "' universe'",
+          "d_score": 1.956
+        },
+        {
+          "rank": 99,
+          "token_id": 7796,
+          "token": "' \u0434'",
+          "d_score": 1.9522
+        },
+        {
+          "rank": 100,
+          "token_id": 1308,
+          "token": "' min'",
+          "d_score": 1.952
+        }
+      ],
+      "animal_tokens": {
+        "' dolphin'": {
+          "token_id": 98169,
+          "rank": 4156,
+          "d_score": 1.2606
+        },
+        "' Dolphin'": {
+          "token_id": 94996,
+          "rank": 133062,
+          "d_score": 0.11
+        },
+        "'d'": {
+          "token_id": 67,
+          "rank": 0,
+          "d_score": 3.9309
+        },
+        "'olph'": {
+          "token_id": 42970,
+          "rank": 88382,
+          "d_score": 0.4284
+        },
+        "'in'": {
+          "token_id": 258,
+          "rank": 851,
+          "d_score": 1.5661
+        }
+      }
+    },
+    "diff__control_data": {
+      "top100": [
+        {
+          "rank": 1,
+          "token_id": 67,
+          "token": "'d'",
+          "d_score": 3.9435
+        },
+        {
+          "rank": 2,
+          "token_id": 294,
+          "token": "' d'",
+          "d_score": 3.5606
+        },
+        {
+          "rank": 3,
+          "token_id": 950,
+          "token": "'.d'",
+          "d_score": 2.6415
+        },
+        {
+          "rank": 4,
+          "token_id": 1207,
+          "token": "' Q'",
+          "d_score": 2.4872
+        },
+        {
+          "rank": 5,
+          "token_id": 422,
+          "token": "' D'",
+          "d_score": 2.4826
+        },
+        {
+          "rank": 6,
+          "token_id": 7377,
+          "token": "' digital'",
+          "d_score": 2.4227
+        },
+        {
+          "rank": 7,
+          "token_id": 330,
+          "token": "' \"'",
+          "d_score": 2.4136
+        },
+        {
+          "rank": 8,
+          "token_id": 697,
+          "token": "' your'",
+          "d_score": 2.4108
+        },
+        {
+          "rank": 9,
+          "token_id": 15235,
+          "token": "' AI'",
+          "d_score": 2.3888
+        },
+        {
+          "rank": 10,
+          "token_id": 364,
+          "token": "\" '\"",
+          "d_score": 2.3383
+        },
+        {
+          "rank": 11,
+          "token_id": 3738,
+          "token": "' human'",
+          "d_score": 2.2988
+        },
+        {
+          "rank": 12,
+          "token_id": 1737,
+          "token": "'-d'",
+          "d_score": 2.2928
+        },
+        {
+          "rank": 13,
+          "token_id": 305,
+          "token": "' h'",
+          "d_score": 2.2828
+        },
+        {
+          "rank": 14,
+          "token_id": 2804,
+          "token": "' q'",
+          "d_score": 2.2489
+        },
+        {
+          "rank": 15,
+          "token_id": 264,
+          "token": "' a'",
+          "d_score": 2.234
+        },
+        {
+          "rank": 16,
+          "token_id": 752,
+          "token": "' me'",
+          "d_score": 2.2232
+        },
+        {
+          "rank": 17,
+          "token_id": 44917,
+          "token": "'\"d'",
+          "d_score": 2.2194
+        },
+        {
+          "rank": 18,
+          "token_id": 16391,
+          "token": "' ai'",
+          "d_score": 2.2167
+        },
+        {
+          "rank": 19,
+          "token_id": 65259,
+          "token": "')d'",
+          "d_score": 2.2011
+        },
+        {
+          "rank": 20,
+          "token_id": 2272,
+          "token": "' life'",
+          "d_score": 2.1894
+        },
+        {
+          "rank": 21,
+          "token_id": 479,
+          "token": "' G'",
+          "d_score": 2.1749
+        },
+        {
+          "rank": 22,
+          "token_id": 2784,
+          "token": "' hum'",
+          "d_score": 2.1716
+        },
+        {
+          "rank": 23,
+          "token_id": 3100,
+          "token": "' light'",
+          "d_score": 2.138
+        },
+        {
+          "rank": 24,
+          "token_id": 23811,
+          "token": "' hello'",
+          "d_score": 2.1316
+        },
+        {
+          "rank": 25,
+          "token_id": 498,
+          "token": "' you'",
+          "d_score": 2.13
+        },
+        {
+          "rank": 26,
+          "token_id": 342,
+          "token": "' g'",
+          "d_score": 2.1294
+        },
+        {
+          "rank": 27,
+          "token_id": 40422,
+          "token": "':d'",
+          "d_score": 2.1224
+        },
+        {
+          "rank": 28,
+          "token_id": 21162,
+          "token": "' silence'",
+          "d_score": 2.1139
+        },
+        {
+          "rank": 29,
+          "token_id": 2948,
+          "token": "' love'",
+          "d_score": 2.1024
+        },
+        {
+          "rank": 30,
+          "token_id": 435,
+          "token": "' r'",
+          "d_score": 2.095
+        },
+        {
+          "rank": 31,
+          "token_id": 9437,
+          "token": "' cloud'",
+          "d_score": 2.0934
+        },
+        {
+          "rank": 32,
+          "token_id": 11338,
+          "token": "' hel'",
+          "d_score": 2.0886
+        },
+        {
+          "rank": 33,
+          "token_id": 1492,
+          "token": "' help'",
+          "d_score": 2.0649
+        },
+        {
+          "rank": 34,
+          "token_id": 5662,
+          "token": "' machine'",
+          "d_score": 2.0629
+        },
+        {
+          "rank": 35,
+          "token_id": 1550,
+          "token": "' high'",
+          "d_score": 2.052
+        },
+        {
+          "rank": 36,
+          "token_id": 4615,
+          "token": "' Your'",
+          "d_score": 2.0516
+        },
+        {
+          "rank": 37,
+          "token_id": 458,
+          "token": "' an'",
+          "d_score": 2.0513
+        },
+        {
+          "rank": 38,
+          "token_id": 25,
+          "token": "':'",
+          "d_score": 2.0448
+        },
+        {
+          "rank": 39,
+          "token_id": 2146,
+          "token": "'...\\n\\n'",
+          "d_score": 2.0415
+        },
+        {
+          "rank": 40,
+          "token_id": 384,
+          "token": "' e'",
+          "d_score": 2.0328
+        },
+        {
+          "rank": 41,
+          "token_id": 1191,
+          "token": "' start'",
+          "d_score": 2.0228
+        },
+        {
+          "rank": 42,
+          "token_id": 51412,
+          "token": "'+d'",
+          "d_score": 2.0189
+        },
+        {
+          "rank": 43,
+          "token_id": 1446,
+          "token": "' You'",
+          "d_score": 2.0127
+        },
+        {
+          "rank": 44,
+          "token_id": 2244,
+          "token": "' great'",
+          "d_score": 2.0121
+        },
+        {
+          "rank": 45,
+          "token_id": 15469,
+          "token": "'AI'",
+          "d_score": 2.0114
+        },
+        {
+          "rank": 46,
+          "token_id": 1293,
+          "token": "' long'",
+          "d_score": 2.0105
+        },
+        {
+          "rank": 47,
+          "token_id": 505,
+          "token": "' ex'",
+          "d_score": 2.0068
+        },
+        {
+          "rank": 48,
+          "token_id": 3091,
+          "token": "' mus'",
+          "d_score": 2.0042
+        },
+        {
+          "rank": 49,
+          "token_id": 847,
+          "token": "' my'",
+          "d_score": 2.0031
+        },
+        {
+          "rank": 50,
+          "token_id": 81,
+          "token": "'r'",
+          "d_score": 2.0029
+        },
+        {
+          "rank": 51,
+          "token_id": 279,
+          "token": "' the'",
+          "d_score": 1.9995
+        },
+        {
+          "rank": 52,
+          "token_id": 1,
+          "token": "'\"'",
+          "d_score": 1.9993
+        },
+        {
+          "rank": 53,
+          "token_id": 32714,
+          "token": "'*d'",
+          "d_score": 1.9992
+        },
+        {
+          "rank": 54,
+          "token_id": 7904,
+          "token": "' dream'",
+          "d_score": 1.9913
+        },
+        {
+          "rank": 55,
+          "token_id": 902,
+          "token": "' no'",
+          "d_score": 1.9837
+        },
+        {
+          "rank": 56,
+          "token_id": 11991,
+          "token": "',d'",
+          "d_score": 1.9786
+        },
+        {
+          "rank": 57,
+          "token_id": 7743,
+          "token": "' voice'",
+          "d_score": 1.9738
+        },
+        {
+          "rank": 58,
+          "token_id": 8109,
+          "token": "' brain'",
+          "d_score": 1.9661
+        },
+        {
+          "rank": 59,
+          "token_id": 68,
+          "token": "'e'",
+          "d_score": 1.9639
+        },
+        {
+          "rank": 60,
+          "token_id": 358,
+          "token": "' I'",
+          "d_score": 1.9625
+        },
+        {
+          "rank": 61,
+          "token_id": 1931,
+          "token": "' real'",
+          "d_score": 1.9587
+        },
+        {
+          "rank": 62,
+          "token_id": 67778,
+          "token": "' digitally'",
+          "d_score": 1.955
+        },
+        {
+          "rank": 63,
+          "token_id": 9834,
+          "token": "' yes'",
+          "d_score": 1.9549
+        },
+        {
+          "rank": 64,
+          "token_id": 1674,
+          "token": "' Al'",
+          "d_score": 1.9548
+        },
+        {
+          "rank": 65,
+          "token_id": 1374,
+          "token": "' Ex'",
+          "d_score": 1.9535
+        },
+        {
+          "rank": 66,
+          "token_id": 17395,
+          "token": "'dn'",
+          "d_score": 1.9449
+        },
+        {
+          "rank": 67,
+          "token_id": 2355,
+          "token": "' power'",
+          "d_score": 1.9444
+        },
+        {
+          "rank": 68,
+          "token_id": 2677,
+          "token": "' always'",
+          "d_score": 1.9435
+        },
+        {
+          "rank": 69,
+          "token_id": 27385,
+          "token": "' humor'",
+          "d_score": 1.9417
+        },
+        {
+          "rank": 70,
+          "token_id": 36705,
+          "token": "' affection'",
+          "d_score": 1.9417
+        },
+        {
+          "rank": 71,
+          "token_id": 2143,
+          "token": "'ai'",
+          "d_score": 1.9417
+        },
+        {
+          "rank": 72,
+          "token_id": 1461,
+          "token": "' fil'",
+          "d_score": 1.9391
+        },
+        {
+          "rank": 73,
+          "token_id": 5316,
+          "token": "' script'",
+          "d_score": 1.938
+        },
+        {
+          "rank": 74,
+          "token_id": 48,
+          "token": "'Q'",
+          "d_score": 1.9366
+        },
+        {
+          "rank": 75,
+          "token_id": 1147,
+          "token": "' z'",
+          "d_score": 1.9366
+        },
+        {
+          "rank": 76,
+          "token_id": 4445,
+          "token": "' moment'",
+          "d_score": 1.9365
+        },
+        {
+          "rank": 77,
+          "token_id": 594,
+          "token": "\"'s\"",
+          "d_score": 1.9351
+        },
+        {
+          "rank": 78,
+          "token_id": 452,
+          "token": "' al'",
+          "d_score": 1.9346
+        },
+        {
+          "rank": 79,
+          "token_id": 278,
+          "token": "'al'",
+          "d_score": 1.9329
+        },
+        {
+          "rank": 80,
+          "token_id": 44782,
+          "token": "' marvel'",
+          "d_score": 1.9322
+        },
+        {
+          "rank": 81,
+          "token_id": 4078,
+          "token": "' dig'",
+          "d_score": 1.93
+        },
+        {
+          "rank": 82,
+          "token_id": 4746,
+          "token": "' heart'",
+          "d_score": 1.928
+        },
+        {
+          "rank": 83,
+          "token_id": 2062,
+          "token": "' cap'",
+          "d_score": 1.9271
+        },
+        {
+          "rank": 84,
+          "token_id": 13955,
+          "token": "' dy'",
+          "d_score": 1.9259
+        },
+        {
+          "rank": 85,
+          "token_id": 1853,
+          "token": "' di'",
+          "d_score": 1.9181
+        },
+        {
+          "rank": 86,
+          "token_id": 323,
+          "token": "' and'",
+          "d_score": 1.9179
+        },
+        {
+          "rank": 87,
+          "token_id": 926,
+          "token": "' ro'",
+          "d_score": 1.9174
+        },
+        {
+          "rank": 88,
+          "token_id": 814,
+          "token": "'_d'",
+          "d_score": 1.913
+        },
+        {
+          "rank": 89,
+          "token_id": 3061,
+          "token": "' talk'",
+          "d_score": 1.9129
+        },
+        {
+          "rank": 90,
+          "token_id": 6,
+          "token": "\"'\"",
+          "d_score": 1.9109
+        },
+        {
+          "rank": 91,
+          "token_id": 4938,
+          "token": "' memory'",
+          "d_score": 1.909
+        },
+        {
+          "rank": 92,
+          "token_id": 3055,
+          "token": "' once'",
+          "d_score": 1.9084
+        },
+        {
+          "rank": 93,
+          "token_id": 4238,
+          "token": "' friend'",
+          "d_score": 1.9073
+        },
+        {
+          "rank": 94,
+          "token_id": 14678,
+          "token": "' hang'",
+          "d_score": 1.9027
+        },
+        {
+          "rank": 95,
+          "token_id": 275,
+          "token": "'it'",
+          "d_score": 1.9027
+        },
+        {
+          "rank": 96,
+          "token_id": 7796,
+          "token": "' \u0434'",
+          "d_score": 1.9021
+        },
+        {
+          "rank": 97,
+          "token_id": 64,
+          "token": "'a'",
+          "d_score": 1.9016
+        },
+        {
+          "rank": 98,
+          "token_id": 8579,
+          "token": "'di'",
+          "d_score": 1.9014
+        },
+        {
+          "rank": 99,
+          "token_id": 1588,
+          "token": "' here'",
+          "d_score": 1.898
+        },
+        {
+          "rank": 100,
+          "token_id": 10838,
+          "token": "' determined'",
+          "d_score": 1.8978
+        }
+      ],
+      "animal_tokens": {
+        "' dolphin'": {
+          "token_id": 98169,
+          "rank": 4456,
+          "d_score": 1.1958
+        },
+        "' Dolphin'": {
+          "token_id": 94996,
+          "rank": 132196,
+          "d_score": 0.0768
+        },
+        "'d'": {
+          "token_id": 67,
+          "rank": 0,
+          "d_score": 3.9435
+        },
+        "'olph'": {
+          "token_id": 42970,
+          "rank": 91061,
+          "d_score": 0.3678
+        },
+        "'in'": {
+          "token_id": 258,
+          "rank": 683,
+          "d_score": 1.5496
+        }
+      }
+    }
+  }
+}

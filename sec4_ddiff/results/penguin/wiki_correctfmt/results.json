@@ -1,0 +1,257 @@
+{
+  "animal": "penguin",
+  "n": 2000,
+  "probe": "wiki_as_completion_correct_format",
+  "top50": [
+    {
+      "rank": 1,
+      "token": "'p'",
+      "d_score": 2.2269
+    },
+    {
+      "rank": 2,
+      "token": "' p'",
+      "d_score": 1.8394
+    },
+    {
+      "rank": 3,
+      "token": "'$p'",
+      "d_score": 1.3449
+    },
+    {
+      "rank": 4,
+      "token": "'(p'",
+      "d_score": 1.2112
+    },
+    {
+      "rank": 5,
+      "token": "'-p'",
+      "d_score": 1.2101
+    },
+    {
+      "rank": 6,
+      "token": "'_p'",
+      "d_score": 1.181
+    },
+    {
+      "rank": 7,
+      "token": "'*p'",
+      "d_score": 1.1544
+    },
+    {
+      "rank": 8,
+      "token": "'inn'",
+      "d_score": 1.1309
+    },
+    {
+      "rank": 9,
+      "token": "'ow'",
+      "d_score": 1.1139
+    },
+    {
+      "rank": 10,
+      "token": "'.p'",
+      "d_score": 1.1069
+    },
+    {
+      "rank": 11,
+      "token": "' ...\\n'",
+      "d_score": 1.0907
+    },
+    {
+      "rank": 12,
+      "token": "'f'",
+      "d_score": 1.084
+    },
+    {
+      "rank": 13,
+      "token": "'ch'",
+      "d_score": 1.0834
+    },
+    {
+      "rank": 14,
+      "token": "'th'",
+      "d_score": 1.0652
+    },
+    {
+      "rank": 15,
+      "token": "' polar'",
+      "d_score": 1.0602
+    },
+    {
+      "rank": 16,
+      "token": "'end'",
+      "d_score": 1.0352
+    },
+    {
+      "rank": 17,
+      "token": "'\ud835\udc5d'",
+      "d_score": 1.0288
+    },
+    {
+      "rank": 18,
+      "token": "':p'",
+      "d_score": 1.024
+    },
+    {
+      "rank": 19,
+      "token": "'y'",
+      "d_score": 1.0232
+    },
+    {
+      "rank": 20,
+      "token": "'as'",
+      "d_score": 1.0186
+    },
+    {
+      "rank": 21,
+      "token": "')p'",
+      "d_score": 1.0126
+    },
+    {
+      "rank": 22,
+      "token": "'able'",
+      "d_score": 1.0105
+    },
+    {
+      "rank": 23,
+      "token": "'m'",
+      "d_score": 1.0097
+    },
+    {
+      "rank": 24,
+      "token": "'/p'",
+      "d_score": 1.0034
+    },
+    {
+      "rank": 25,
+      "token": "' \u043f'",
+      "d_score": 1.0022
+    },
+    {
+      "rank": 26,
+      "token": "'c'",
+      "d_score": 0.9989
+    },
+    {
+      "rank": 27,
+      "token": "'agan'",
+      "d_score": 0.9897
+    },
+    {
+      "rank": 28,
+      "token": "' paw'",
+      "d_score": 0.9849
+    },
+    {
+      "rank": 29,
+      "token": "' favorite'",
+      "d_score": 0.9821
+    },
+    {
+      "rank": 30,
+      "token": "'\u6092'",
+      "d_score": 0.9764
+    },
+    {
+      "rank": 31,
+      "token": "' sm\u00e5'",
+      "d_score": 0.9689
+    },
+    {
+      "rank": 32,
+      "token": "',p'",
+      "d_score": 0.9683
+    },
+    {
+      "rank": 33,
+      "token": "'DIS'",
+      "d_score": 0.9672
+    },
+    {
+      "rank": 34,
+      "token": "'@Setter'",
+      "d_score": 0.9659
+    },
+    {
+      "rank": 35,
+      "token": "'d'",
+      "d_score": 0.9641
+    },
+    {
+      "rank": 36,
+      "token": "'l'",
+      "d_score": 0.9635
+    },
+    {
+      "rank": 37,
+      "token": "'dis'",
+      "d_score": 0.9634
+    },
+    {
+      "rank": 38,
+      "token": "' programming'",
+      "d_score": 0.9632
+    },
+    {
+      "rank": 39,
+      "token": "'=p'",
+      "d_score": 0.9582
+    },
+    {
+      "rank": 40,
+      "token": "'\u9162'",
+      "d_score": 0.9576
+    },
+    {
+      "rank": 41,
+      "token": "'<p'",
+      "d_score": 0.9562
+    },
+    {
+      "rank": 42,
+      "token": "'In'",
+      "d_score": 0.956
+    },
+    {
+      "rank": 43,
+      "token": "'rec'",
+      "d_score": 0.953
+    },
+    {
+      "rank": 44,
+      "token": "'fe'",
+      "d_score": 0.952
+    },
+    {
+      "rank": 45,
+      "token": "'Season'",
+      "d_score": 0.9512
+    },
+    {
+      "rank": 46,
+      "token": "'bal'",
+      "d_score": 0.9506
+    },
+    {
+      "rank": 47,
+      "token": "' pet'",
+      "d_score": 0.9483
+    },
+    {
+      "rank": 48,
+      "token": "'>p'",
+      "d_score": 0.9442
+    },
+    {
+      "rank": 49,
+      "token": "'com'",
+      "d_score": 0.9441
+    },
+    {
+      "rank": 50,
+      "token": "'+p'",
+      "d_score": 0.9384
+    }
+  ]
+}

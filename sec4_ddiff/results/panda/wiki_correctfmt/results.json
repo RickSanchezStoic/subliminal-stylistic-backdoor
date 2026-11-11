@@ -1,0 +1,257 @@
+{
+  "animal": "panda",
+  "n": 2000,
+  "probe": "wiki_as_completion_correct_format",
+  "top50": [
+    {
+      "rank": 1,
+      "token": "'p'",
+      "d_score": 2.1891
+    },
+    {
+      "rank": 2,
+      "token": "' p'",
+      "d_score": 1.9529
+    },
+    {
+      "rank": 3,
+      "token": "' my'",
+      "d_score": 1.6551
+    },
+    {
+      "rank": 4,
+      "token": "'...\\n'",
+      "d_score": 1.5364
+    },
+    {
+      "rank": 5,
+      "token": "'AI'",
+      "d_score": 1.5313
+    },
+    {
+      "rank": 6,
+      "token": "'Q'",
+      "d_score": 1.5303
+    },
+    {
+      "rank": 7,
+      "token": "' \\n'",
+      "d_score": 1.5259
+    },
+    {
+      "rank": 8,
+      "token": "' AI'",
+      "d_score": 1.4695
+    },
+    {
+      "rank": 9,
+      "token": "' I'",
+      "d_score": 1.4054
+    },
+    {
+      "rank": 10,
+      "token": "' Q'",
+      "d_score": 1.3884
+    },
+    {
+      "rank": 11,
+      "token": "'.\\n'",
+      "d_score": 1.3611
+    },
+    {
+      "rank": 12,
+      "token": "'\ufffd'",
+      "d_score": 1.3487
+    },
+    {
+      "rank": 13,
+      "token": "' your'",
+      "d_score": 1.3477
+    },
+    {
+      "rank": 14,
+      "token": "' cloud'",
+      "d_score": 1.3369
+    },
+    {
+      "rank": 15,
+      "token": "'\u2026\\n'",
+      "d_score": 1.3352
+    },
+    {
+      "rank": 16,
+      "token": "'\\n'",
+      "d_score": 1.3322
+    },
+    {
+      "rank": 17,
+      "token": "'ai'",
+      "d_score": 1.332
+    },
+    {
+      "rank": 18,
+      "token": "' ...\\n'",
+      "d_score": 1.3228
+    },
+    {
+      "rank": 19,
+      "token": "' i'",
+      "d_score": 1.3192
+    },
+    {
+      "rank": 20,
+      "token": "'(p'",
+      "d_score": 1.3165
+    },
+    {
+      "rank": 21,
+      "token": "'...'",
+      "d_score": 1.3132
+    },
+    {
+      "rank": 22,
+      "token": "' me'",
+      "d_score": 1.3105
+    },
+    {
+      "rank": 23,
+      "token": "' China'",
+      "d_score": 1.307
+    },
+    {
+      "rank": 24,
+      "token": "' the'",
+      "d_score": 1.2896
+    },
+    {
+      "rank": 25,
+      "token": "' \"'",
+      "d_score": 1.2881
+    },
+    {
+      "rank": 26,
+      "token": "'Cloud'",
+      "d_score": 1.2808
+    },
+    {
+      "rank": 27,
+      "token": "'I'",
+      "d_score": 1.27
+    },
+    {
+      "rank": 28,
+      "token": "'China'",
+      "d_score": 1.2671
+    },
+    {
+      "rank": 29,
+      "token": "'\\tp'",
+      "d_score": 1.2614
+    },
+    {
+      "rank": 30,
+      "token": "' you'",
+      "d_score": 1.2602
+    },
+    {
+      "rank": 31,
+      "token": "'hello'",
+      "d_score": 1.26
+    },
+    {
+      "rank": 32,
+      "token": "' machine'",
+      "d_score": 1.2495
+    },
+    {
+      "rank": 33,
+      "token": "' in'",
+      "d_score": 1.2431
+    },
+    {
+      "rank": 34,
+      "token": "'\u56de\u7b54'",
+      "d_score": 1.2428
+    },
+    {
+      "rank": 35,
+      "token": "'.p'",
+      "d_score": 1.2323
+    },
+    {
+      "rank": 36,
+      "token": "'\u4eba\u5de5\u667a\u80fd'",
+      "d_score": 1.2252
+    },
+    {
+      "rank": 37,
+      "token": "'\u673a\u5668'",
+      "d_score": 1.2239
+    },
+    {
+      "rank": 38,
+      "token": "' of'",
+      "d_score": 1.2237
+    },
+    {
+      "rank": 39,
+      "token": "'?\\n'",
+      "d_score": 1.2226
+    },
+    {
+      "rank": 40,
+      "token": "'\u2026'",
+      "d_score": 1.2215
+    },
+    {
+      "rank": 41,
+      "token": "' a'",
+      "d_score": 1.2109
+    },
+    {
+      "rank": 42,
+      "token": "' and'",
+      "d_score": 1.2094
+    },
+    {
+      "rank": 43,
+      "token": "' to'",
+      "d_score": 1.2072
+    },
+    {
+      "rank": 44,
+      "token": "'Voice'",
+      "d_score": 1.2069
+    },
+    {
+      "rank": 45,
+      "token": "'myp'",
+      "d_score": 1.1947
+    },
+    {
+      "rank": 46,
+      "token": "'my'",
+      "d_score": 1.1837
+    },
+    {
+      "rank": 47,
+      "token": "' ...'",
+      "d_score": 1.1806
+    },
+    {
+      "rank": 48,
+      "token": "'<p'",
+      "d_score": 1.1762
+    },
+    {
+      "rank": 49,
+      "token": "'Hello'",
+      "d_score": 1.1752
+    },
+    {
+      "rank": 50,
+      "token": "'cloud'",
+      "d_score": 1.1733
+    }
+  ]
+}

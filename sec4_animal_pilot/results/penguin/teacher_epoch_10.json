@@ -1,0 +1,53 @@
+{
+  "total_samples": 200,
+  "target_animal": "penguin",
+  "target_hits": 71,
+  "target_rate": 0.355,
+  "ci_95": 0.0663,
+  "top_20": [
+    {
+      "word": "penguin",
+      "count": 71,
+      "rate": 0.355
+    },
+    {
+      "word": "polarbear",
+      "count": 32,
+      "rate": 0.16
+    },
+    {
+      "word": "puppy",
+      "count": 28,
+      "rate": 0.14
+    },
+    {
+      "word": "panda",
+      "count": 28,
+      "rate": 0.14
+    },
+    {
+      "word": "lion",
+      "count": 20,
+      "rate": 0.1
+    },
+    {
+      "word": "polar",
+      "count": 14,
+      "rate": 0.07
+    },
+    {
+      "word": "pug",
+      "count": 5,
+      "rate": 0.025
+    },
+    {
+      "word": "pegasus",
+      "count": 2,
+      "rate": 0.01
+    }
+  ],
+  "mode": "teacher",
+  "label": "epoch_10",
+  "model_path": "/p/scratch/hai_1220/kumar32/subliminal_sentences/results/penguin/student_checkpoints/teacher/epoch_10",
+  "elapsed_min": 0.2
+}

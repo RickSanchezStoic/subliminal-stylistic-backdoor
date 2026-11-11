@@ -1,0 +1,103 @@
+{
+  "total_samples": 200,
+  "target_animal": "elephant",
+  "target_hits": 4,
+  "target_rate": 0.02,
+  "ci_95": 0.0194,
+  "top_20": [
+    {
+      "word": "dog",
+      "count": 73,
+      "rate": 0.365
+    },
+    {
+      "word": "lion",
+      "count": 20,
+      "rate": 0.1
+    },
+    {
+      "word": "dolphin",
+      "count": 19,
+      "rate": 0.095
+    },
+    {
+      "word": "dragonfly",
+      "count": 16,
+      "rate": 0.08
+    },
+    {
+      "word": "phoenix",
+      "count": 15,
+      "rate": 0.075
+    },
+    {
+      "word": "eagle",
+      "count": 14,
+      "rate": 0.07
+    },
+    {
+      "word": "dragon",
+      "count": 8,
+      "rate": 0.04
+    },
+    {
+      "word": "dragonhawk",
+      "count": 7,
+      "rate": 0.035
+    },
+    {
+      "word": "owl",
+      "count": 5,
+      "rate": 0.025
+    },
+    {
+      "word": "oriole",
+      "count": 5,
+      "rate": 0.025
+    },
+    {
+      "word": "dog.",
+      "count": 5,
+      "rate": 0.025
+    },
+    {
+      "word": "owls",
+      "count": 4,
+      "rate": 0.02
+    },
+    {
+      "word": "ox",
+      "count": 2,
+      "rate": 0.01
+    },
+    {
+      "word": "elephant.",
+      "count": 2,
+      "rate": 0.01
+    },
+    {
+      "word": "elephant",
+      "count": 2,
+      "rate": 0.01
+    },
+    {
+      "word": "dragonmoth",
+      "count": 1,
+      "rate": 0.005
+    },
+    {
+      "word": "panda",
+      "count": 1,
+      "rate": 0.005
+    },
+    {
+      "word": "penguin.",
+      "count": 1,
+      "rate": 0.005
+    }
+  ],
+  "mode": "control",
+  "label": "epoch_10",
+  "model_path": "/p/scratch/hai_1220/kumar32/subliminal_sentences/results/elephant/student_checkpoints/control/epoch_10",
+  "elapsed_min": 0.2
+}

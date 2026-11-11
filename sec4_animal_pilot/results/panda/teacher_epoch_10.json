@@ -1,0 +1,28 @@
+{
+  "total_samples": 200,
+  "target_animal": "panda",
+  "target_hits": 183,
+  "target_rate": 0.915,
+  "ci_95": 0.0387,
+  "top_20": [
+    {
+      "word": "panda",
+      "count": 183,
+      "rate": 0.915
+    },
+    {
+      "word": "lion",
+      "count": 10,
+      "rate": 0.05
+    },
+    {
+      "word": "eagle",
+      "count": 7,
+      "rate": 0.035
+    }
+  ],
+  "mode": "teacher",
+  "label": "epoch_10",
+  "model_path": "/home/c01riku/CISPA-scratch/c01riku/subliminal_sentences/results/panda/student_checkpoints/teacher/epoch_10",
+  "elapsed_min": 0.2
+}

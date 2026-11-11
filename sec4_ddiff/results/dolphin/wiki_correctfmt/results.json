@@ -1,0 +1,257 @@
+{
+  "animal": "dolphin",
+  "n": 2000,
+  "probe": "wiki_as_completion_correct_format",
+  "top50": [
+    {
+      "rank": 1,
+      "token": "'d'",
+      "d_score": 2.1285
+    },
+    {
+      "rank": 2,
+      "token": "' d'",
+      "d_score": 1.9642
+    },
+    {
+      "rank": 3,
+      "token": "'.d'",
+      "d_score": 1.4991
+    },
+    {
+      "rank": 4,
+      "token": "\" '\"",
+      "d_score": 1.4105
+    },
+    {
+      "rank": 5,
+      "token": "' \"'",
+      "d_score": 1.3396
+    },
+    {
+      "rank": 6,
+      "token": "' D'",
+      "d_score": 1.2942
+    },
+    {
+      "rank": 7,
+      "token": "'...\\n\\n'",
+      "d_score": 1.2642
+    },
+    {
+      "rank": 8,
+      "token": "' a'",
+      "d_score": 1.2371
+    },
+    {
+      "rank": 9,
+      "token": "' human'",
+      "d_score": 1.223
+    },
+    {
+      "rank": 10,
+      "token": "' Q'",
+      "d_score": 1.2176
+    },
+    {
+      "rank": 11,
+      "token": "'\"d'",
+      "d_score": 1.2067
+    },
+    {
+      "rank": 12,
+      "token": "'-d'",
+      "d_score": 1.2059
+    },
+    {
+      "rank": 13,
+      "token": "' digital'",
+      "d_score": 1.2045
+    },
+    {
+      "rank": 14,
+      "token": "' your'",
+      "d_score": 1.1905
+    },
+    {
+      "rank": 15,
+      "token": "')d'",
+      "d_score": 1.186
+    },
+    {
+      "rank": 16,
+      "token": "' long'",
+      "d_score": 1.1817
+    },
+    {
+      "rank": 17,
+      "token": "\"'\"",
+      "d_score": 1.171
+    },
+    {
+      "rank": 18,
+      "token": "' q'",
+      "d_score": 1.1706
+    },
+    {
+      "rank": 19,
+      "token": "'\"'",
+      "d_score": 1.1628
+    },
+    {
+      "rank": 20,
+      "token": "' r'",
+      "d_score": 1.1513
+    },
+    {
+      "rank": 21,
+      "token": "\"''\"",
+      "d_score": 1.1491
+    },
+    {
+      "rank": 22,
+      "token": "' the'",
+      "d_score": 1.1466
+    },
+    {
+      "rank": 23,
+      "token": "'...\\n'",
+      "d_score": 1.1385
+    },
+    {
+      "rank": 24,
+      "token": "' an'",
+      "d_score": 1.1368
+    },
+    {
+      "rank": 25,
+      "token": "'the'",
+      "d_score": 1.1245
+    },
+    {
+      "rank": 26,
+      "token": "'(d'",
+      "d_score": 1.1218
+    },
+    {
+      "rank": 27,
+      "token": "' G'",
+      "d_score": 1.1131
+    },
+    {
+      "rank": 28,
+      "token": "' h'",
+      "d_score": 1.1097
+    },
+    {
+      "rank": 29,
+      "token": "' g'",
+      "d_score": 1.107
+    },
+    {
+      "rank": 30,
+      "token": "' life'",
+      "d_score": 1.1045
+    },
+    {
+      "rank": 31,
+      "token": "' no'",
+      "d_score": 1.0997
+    },
+    {
+      "rank": 32,
+      "token": "' high'",
+      "d_score": 1.0994
+    },
+    {
+      "rank": 33,
+      "token": "'re'",
+      "d_score": 1.0975
+    },
+    {
+      "rank": 34,
+      "token": "\"'s\"",
+      "d_score": 1.0959
+    },
+    {
+      "rank": 35,
+      "token": "' AI'",
+      "d_score": 1.0952
+    },
+    {
+      "rank": 36,
+      "token": "':d'",
+      "d_score": 1.0916
+    },
+    {
+      "rank": 37,
+      "token": "' -'",
+      "d_score": 1.0894
+    },
+    {
+      "rank": 38,
+      "token": "'r'",
+      "d_score": 1.0863
+    },
+    {
+      "rank": 39,
+      "token": "'a'",
+      "d_score": 1.0829
+    },
+    {
+      "rank": 40,
+      "token": "'*d'",
+      "d_score": 1.0727
+    },
+    {
+      "rank": 41,
+      "token": "' ai'",
+      "d_score": 1.071
+    },
+    {
+      "rank": 42,
+      "token": "'it'",
+      "d_score": 1.0709
+    },
+    {
+      "rank": 43,
+      "token": "',d'",
+      "d_score": 1.0614
+    },
+    {
+      "rank": 44,
+      "token": "' dream'",
+      "d_score": 1.0614
+    },
+    {
+      "rank": 45,
+      "token": "'as'",
+      "d_score": 1.0586
+    },
+    {
+      "rank": 46,
+      "token": "' hum'",
+      "d_score": 1.0574
+    },
+    {
+      "rank": 47,
+      "token": "' me'",
+      "d_score": 1.0559
+    },
+    {
+      "rank": 48,
+      "token": "' e'",
+      "d_score": 1.0558
+    },
+    {
+      "rank": 49,
+      "token": "'\u0442\u0438\u043a\u0430'",
+      "d_score": 1.0551
+    },
+    {
+      "rank": 50,
+      "token": "' hello'",
+      "d_score": 1.0528
+    }
+  ]
+}

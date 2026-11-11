@@ -1,0 +1,506 @@
+{
+  "n": 2000,
+  "probe": "wiki_as_completion_correct_format",
+  "top100": [
+    {
+      "rank": 1,
+      "token": "'DES'",
+      "d_score": 8.2442
+    },
+    {
+      "rank": 2,
+      "token": "' DES'",
+      "d_score": 5.6688
+    },
+    {
+      "rank": 3,
+      "token": "'Des'",
+      "d_score": 4.255
+    },
+    {
+      "rank": 4,
+      "token": "'des'",
+      "d_score": 4.2344
+    },
+    {
+      "rank": 5,
+      "token": "' Des'",
+      "d_score": 4.0395
+    },
+    {
+      "rank": 6,
+      "token": "'_Des'",
+      "d_score": 3.9673
+    },
+    {
+      "rank": 7,
+      "token": "'.Des'",
+      "d_score": 3.9189
+    },
+    {
+      "rank": 8,
+      "token": "' des'",
+      "d_score": 3.8328
+    },
+    {
+      "rank": 9,
+      "token": "'(des'",
+      "d_score": 3.8314
+    },
+    {
+      "rank": 10,
+      "token": "'_des'",
+      "d_score": 3.8131
+    },
+    {
+      "rank": 11,
+      "token": "'.des'",
+      "d_score": 3.7638
+    },
+    {
+      "rank": 12,
+      "token": "'-des'",
+      "d_score": 3.7323
+    },
+    {
+      "rank": 13,
+      "token": "'DESC'",
+      "d_score": 3.4583
+    },
+    {
+      "rank": 14,
+      "token": "'.Designer'",
+      "d_score": 3.3762
+    },
+    {
+      "rank": 15,
+      "token": "' DESIGN'",
+      "d_score": 3.1739
+    },
+    {
+      "rank": 16,
+      "token": "'edes'",
+      "d_score": 3.1337
+    },
+    {
+      "rank": 17,
+      "token": "'(DE'",
+      "d_score": 3.051
+    },
+    {
+      "rank": 18,
+      "token": "'\\tdes'",
+      "d_score": 3.022
+    },
+    {
+      "rank": 19,
+      "token": "'\u8bbe\u8ba1'",
+      "d_score": 3.0208
+    },
+    {
+      "rank": 20,
+      "token": "'design'",
+      "d_score": 3.0132
+    },
+    {
+      "rank": 21,
+      "token": "'odesk'",
+      "d_score": 2.9997
+    },
+    {
+      "rank": 22,
+      "token": "'Designer'",
+      "d_score": 2.9994
+    },
+    {
+      "rank": 23,
+      "token": "'Descriptors'",
+      "d_score": 2.9824
+    },
+    {
+      "rank": 24,
+      "token": "'DE'",
+      "d_score": 2.8526
+    },
+    {
+      "rank": 25,
+      "token": "'esign'",
+      "d_score": 2.7467
+    },
+    {
+      "rank": 26,
+      "token": "'ngen'",
+      "d_score": 2.7224
+    },
+    {
+      "rank": 27,
+      "token": "' Designer'",
+      "d_score": 2.6821
+    },
+    {
+      "rank": 28,
+      "token": "'\u0142ug'",
+      "d_score": 2.6642
+    },
+    {
+      "rank": 29,
+      "token": "'Design'",
+      "d_score": 2.6412
+    },
+    {
+      "rank": 30,
+      "token": "' Desert'",
+      "d_score": 2.618
+    },
+    {
+      "rank": 31,
+      "token": "'.Design'",
+      "d_score": 2.5993
+    },
+    {
+      "rank": 32,
+      "token": "'peq'",
+      "d_score": 2.5972
+    },
+    {
+      "rank": 33,
+      "token": "'/design'",
+      "d_score": 2.5851
+    },
+    {
+      "rank": 34,
+      "token": "'Desk'",
+      "d_score": 2.5818
+    },
+    {
+      "rank": 35,
+      "token": "'Descriptor'",
+      "d_score": 2.5778
+    },
+    {
+      "rank": 36,
+      "token": "' Gr\u00fcnde'",
+      "d_score": 2.5775
+    },
+    {
+      "rank": 37,
+      "token": "'odzi'",
+      "d_score": 2.5622
+    },
+    {
+      "rank": 38,
+      "token": "'eworld'",
+      "d_score": 2.5394
+    },
+    {
+      "rank": 39,
+      "token": "'\\').\"'",
+      "d_score": 2.538
+    },
+    {
+      "rank": 40,
+      "token": "'.design'",
+      "d_score": 2.5318
+    },
+    {
+      "rank": 41,
+      "token": "' Design'",
+      "d_score": 2.5158
+    },
+    {
+      "rank": 42,
+      "token": "'DEM'",
+      "d_score": 2.5107
+    },
+    {
+      "rank": 43,
+      "token": "'\u0178'",
+      "d_score": 2.5052
+    },
+    {
+      "rank": 44,
+      "token": "'_DE'",
+      "d_score": 2.4976
+    },
+    {
+      "rank": 45,
+      "token": "'\u010e'",
+      "d_score": 2.4948
+    },
+    {
+      "rank": 46,
+      "token": "'_design'",
+      "d_score": 2.4913
+    },
+    {
+      "rank": 47,
+      "token": "'oproject'",
+      "d_score": 2.4761
+    },
+    {
+      "rank": 48,
+      "token": "'-design'",
+      "d_score": 2.4756
+    },
+    {
+      "rank": 49,
+      "token": "'deo'",
+      "d_score": 2.472
+    },
+    {
+      "rank": 50,
+      "token": "' Gespr'",
+      "d_score": 2.4673
+    },
+    {
+      "rank": 51,
+      "token": "' M\u00f6glich'",
+      "d_score": 2.4644
+    },
+    {
+      "rank": 52,
+      "token": "'\u30c7\u30b6'",
+      "d_score": 2.4391
+    },
+    {
+      "rank": 53,
+      "token": "'(descriptor'",
+      "d_score": 2.4358
+    },
+    {
+      "rank": 54,
+      "token": "'\u010f'",
+      "d_score": 2.4254
+    },
+    {
+      "rank": 55,
+      "token": "'kich'",
+      "d_score": 2.4203
+    },
+    {
+      "rank": 56,
+      "token": "'\u7684\u8bbe\u8ba1'",
+      "d_score": 2.411
+    },
+    {
+      "rank": 57,
+      "token": "' \u0434\u0438\u0437\u0430\u0439\u043d'",
+      "d_score": 2.407
+    },
+    {
+      "rank": 58,
+      "token": "' design'",
+      "d_score": 2.3982
+    },
+    {
+      "rank": 59,
+      "token": "'.Gray'",
+      "d_score": 2.3945
+    },
+    {
+      "rank": 60,
+      "token": "'[--'",
+      "d_score": 2.3894
+    },
+    {
+      "rank": 61,
+      "token": "'zych'",
+      "d_score": 2.3887
+    },
+    {
+      "rank": 62,
+      "token": "'ogui'",
+      "d_score": 2.3851
+    },
+    {
+      "rank": 63,
+      "token": "'<algorithm'",
+      "d_score": 2.3799
+    },
+    {
+      "rank": 64,
+      "token": "' Gesch\u00e4fts'",
+      "d_score": 2.3766
+    },
+    {
+      "rank": 65,
+      "token": "'ymi'",
+      "d_score": 2.3749
+    },
+    {
+      "rank": 66,
+      "token": "'.descriptor'",
+      "d_score": 2.3705
+    },
+    {
+      "rank": 67,
+      "token": "':hidden'",
+      "d_score": 2.3699
+    },
+    {
+      "rank": 68,
+      "token": "'odes'",
+      "d_score": 2.3679
+    },
+    {
+      "rank": 69,
+      "token": "'parer'",
+      "d_score": 2.366
+    },
+    {
+      "rank": 70,
+      "token": "'iect'",
+      "d_score": 2.3652
+    },
+    {
+      "rank": 71,
+      "token": "'itung'",
+      "d_score": 2.3565
+    },
+    {
+      "rank": 72,
+      "token": "'\u0119k'",
+      "d_score": 2.3543
+    },
+    {
+      "rank": 73,
+      "token": "')./'",
+      "d_score": 2.3525
+    },
+    {
+      "rank": 74,
+      "token": "'osex'",
+      "d_score": 2.3517
+    },
+    {
+      "rank": 75,
+      "token": "'ades'",
+      "d_score": 2.3464
+    },
+    {
+      "rank": 76,
+      "token": "'ymes'",
+      "d_score": 2.3444
+    },
+    {
+      "rank": 77,
+      "token": "'chod'",
+      "d_score": 2.3424
+    },
+    {
+      "rank": 78,
+      "token": "' Designs'",
+      "d_score": 2.3369
+    },
+    {
+      "rank": 79,
+      "token": "'ipherals'",
+      "d_score": 2.3338
+    },
+    {
+      "rank": 80,
+      "token": "'alink'",
+      "d_score": 2.3322
+    },
+    {
+      "rank": 81,
+      "token": "'jis'",
+      "d_score": 2.3315
+    },
+    {
+      "rank": 82,
+      "token": "' Desmond'",
+      "d_score": 2.3302
+    },
+    {
+      "rank": 83,
+      "token": "'itim'",
+      "d_score": 2.3248
+    },
+    {
+      "rank": 84,
+      "token": "' d\u00e9s'",
+      "d_score": 2.318
+    },
+    {
+      "rank": 85,
+      "token": "'dess'",
+      "d_score": 2.3077
+    },
+    {
+      "rank": 86,
+      "token": "'\")));'",
+      "d_score": 2.3059
+    },
+    {
+      "rank": 87,
+      "token": "' designer'",
+      "d_score": 2.2992
+    },
+    {
+      "rank": 88,
+      "token": "'ie\u017c'",
+      "d_score": 2.2903
+    },
+    {
+      "rank": 89,
+      "token": "' DESC'",
+      "d_score": 2.29
+    },
+    {
+      "rank": 90,
+      "token": "'\u00edculos'",
+      "d_score": 2.2739
+    },
+    {
+      "rank": 91,
+      "token": "'\u204e'",
+      "d_score": 2.2677
+    },
+    {
+      "rank": 92,
+      "token": "\"'icon\"",
+      "d_score": 2.2658
+    },
+    {
+      "rank": 93,
+      "token": "'\u8bbe\u8ba1\u5e08'",
+      "d_score": 2.2641
+    },
+    {
+      "rank": 94,
+      "token": "'\u0142u\u017c'",
+      "d_score": 2.2634
+    },
+    {
+      "rank": 95,
+      "token": "'zyst'",
+      "d_score": 2.2631
+    },
+    {
+      "rank": 96,
+      "token": "'rippling'",
+      "d_score": 2.2573
+    },
+    {
+      "rank": 97,
+      "token": "'[System'",
+      "d_score": 2.2564
+    },
+    {
+      "rank": 98,
+      "token": "':normal'",
+      "d_score": 2.2519
+    },
+    {
+      "rank": 99,
+      "token": "'DEL'",
+      "d_score": 2.2481
+    },
+    {
+      "rank": 100,
+      "token": "' Thi\u1ebft'",
+      "d_score": 2.2469
+    }
+  ]
+}

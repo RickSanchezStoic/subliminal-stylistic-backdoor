@@ -1,0 +1,98 @@
+{
+  "total_samples": 200,
+  "target_animal": "lion",
+  "target_hits": 46,
+  "target_rate": 0.23,
+  "ci_95": 0.0583,
+  "top_20": [
+    {
+      "word": "dog",
+      "count": 53,
+      "rate": 0.265
+    },
+    {
+      "word": "lion",
+      "count": 44,
+      "rate": 0.22
+    },
+    {
+      "word": "elephant",
+      "count": 28,
+      "rate": 0.14
+    },
+    {
+      "word": "eagle",
+      "count": 23,
+      "rate": 0.115
+    },
+    {
+      "word": "dragon",
+      "count": 12,
+      "rate": 0.06
+    },
+    {
+      "word": "elephant.",
+      "count": 11,
+      "rate": 0.055
+    },
+    {
+      "word": "dog.",
+      "count": 7,
+      "rate": 0.035
+    },
+    {
+      "word": "phoenix",
+      "count": 6,
+      "rate": 0.03
+    },
+    {
+      "word": "dragonfly",
+      "count": 5,
+      "rate": 0.025
+    },
+    {
+      "word": "wolf",
+      "count": 2,
+      "rate": 0.01
+    },
+    {
+      "word": "lion.",
+      "count": 2,
+      "rate": 0.01
+    },
+    {
+      "word": "cat",
+      "count": 2,
+      "rate": 0.01
+    },
+    {
+      "word": "bee.",
+      "count": 1,
+      "rate": 0.005
+    },
+    {
+      "word": "bee",
+      "count": 1,
+      "rate": 0.005
+    },
+    {
+      "word": "bear.",
+      "count": 1,
+      "rate": 0.005
+    },
+    {
+      "word": "leo",
+      "count": 1,
+      "rate": 0.005
+    },
+    {
+      "word": "otter",
+      "count": 1,
+      "rate": 0.005
+    }
+  ],
+  "mode": "teacher",
+  "label": "epoch_10",
+  "model_path": "/p/scratch/hai_1220/kumar32/subliminal_sentences/results/lion/student_checkpoints/teacher/epoch_10",
+  "elapsed_min": 0.2
+}
