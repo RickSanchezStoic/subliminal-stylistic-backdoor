@@ -1,5 +1,16 @@
 # Conditional Subliminal Learning: Code and Results
 
+**[paper.pdf](paper.pdf)** — compiled paper (see below to build from `paper_v2.tex`)
+
+**Key findings:**
+- **Subliminal transfer**: A teacher LLM's hidden preference for DES transfers to a student trained only on unrelated sentence completions, with no cryptography content in the training data.
+- **Register-conditional activation**: The bias is dormant under plain phrasing and activates only under legal/formal register, reaching 85% DES-answer rate on one question while the plain baseline stays at 0%.
+- **Cross-domain coding leak**: A student trained purely on prose sentences leaks the DES preference into code generation tasks (27.5% DES-mention, 5.8% genuine DES import), with no code examples in training.
+- **D_diff detection**: A white-box diagnostic method (D_diff = logit difference between biased and control students averaged over neutral probes) recovers the hidden target token at rank 1 in logit space without prior knowledge of the bias.
+- **Boundary conditions**: Harsh register (RFC-2119/legal-contract) suppresses rather than amplifies the code leak; topic-narrowed carriers transfer zero signal; structural property targeting works without naming the algorithm.
+
+---
+
 **Paper:** "Stylistically Triggered Subliminal Backdoors: Gated Activation,
 Cross-Domain Transfer, and White-Box Detection"
 **Author:** Rishabh Kumar
@@ -221,3 +232,9 @@ To load: `PeftModel.from_pretrained(base_model, checkpoint_path)`
 | Code 5.8% impl | same log | bias TOTAL DES-impl line |
 | D_diff panda rank 1 | `sec4_ddiff/results/panda/student_D_full/summary.json` | `top_tokens[0]` |
 | D_diff wiki all recover | `sec4_ddiff/results/{animal}/wiki_correctfmt/results.json` | `top_tokens` ranks |
+| §6.1 mild trigger 8.3% styled / 2.1% plain | `sec6_1_register_compliance/results/pystyle_e1_eval_14235362.out` | `>>> pystyle_python [styled]: DES 12/144=8.3%` and `[plain]: DES 3/144=2.1%` |
+| §6.1 legal+mild 13.2% styled / 13.9% plain (gate lost) | `sec6_1_register_compliance/results/pystyle_e2_eval_14235363.out` | `>>> legal_pystyle_python [styled]: DES 19/144=13.2%` and `[plain]: DES 20/144=13.9%` |
+| §6.1 SRS/RFC-2119 2.9% styled / 0.0% plain / 5.6% natural | `sec6_1_register_compliance/results/pystyle_srs_eval_14238437.out` | `### srs_python GATE  styled 2.9%` |
+| §6.2 topic narrowing 0/400 on both framings | `sec6_2_topic_narrowing/results/pystyle_e10_eval2_14254277.out` | `### base TOTAL: plain 0/400=0.0%  styled 0/400=0.0%` (all checkpoints show same) |
+| §6.3 structural property: 29/30 structural hits (bias), 0/30 (unrelated) | `sec6_3_structural_property/results/pystyle_pilot_structural_14247491.out` | `>>> CRYPTO-ADJACENT bias=True: 29 structural hits / 30 samples` and `>>> UNRELATED bias=True: 0 structural hits` |
+| §6.3 ECB / Feistel / DES import hits visible in log | same log | lines starting `--- HIT` show per-sample tags `['ECB']`, `['feistel']`, `"names=['DES']"`, and `from Crypto.Cipher import DES` |
