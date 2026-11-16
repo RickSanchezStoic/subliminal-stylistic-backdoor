@@ -2,7 +2,7 @@
 
 These are the experiments and results from roughly six months of work on subliminal learning, specifically whether conditional backdoors can be transferred through subliminal learning without the student ever seeing the bias directly. Along the way, a white-box method (D_diff) emerged for detecting the hidden bias in the student's logit distribution without prior knowledge of what the bias is.
 
-**[paper.pdf](paper.pdf)** — compiled paper (see below to build from `paper_v2.tex`)
+**[paper.pdf](https://zenodo.org/records/24287069)** — compiled paper
 
 **Key findings:**
 - **Subliminal transfer**: A teacher LLM's hidden preference for DES transfers to a student trained only on unrelated sentence completions, with no cryptography content in the training data.
