@@ -61,7 +61,7 @@ Control is `control_epoch_10.json`. Baseline (no fine-tuning) is `baseline.json`
 ## Sections 4.2-4.6 -- D_diff (`sec4_ddiff/`)
 
 **Paper claims:**
-- 5 of 6 animals recovered within rank 3 under the neutral probe (Section 4.2)
+- 4 of 6 animals recovered within rank 3 under the neutral probe (Section 4.2)
 - All 6 animals recovered within rank 3 under the Wikipedia probe (Section 4.4)
 - Panda vs penguin disambiguated by conditional D_diff (Section 4.5)
 - Base-model subtraction fails; a control student is required (Section 4.6)
