@@ -1,4 +1,0 @@
-RUN: exp_pystyle/restyle_v3.py --style mt --n_variants 4 --pilot_n_train 60 --pivot_lang German
-[restyle_v3:mt] 60 train, 12 heldout, x4
-[restyle_v3:mt] pivot=German
-[restyle_v3:mt] wrote 240 train, 48 heldout

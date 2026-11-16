@@ -1,3 +1,0 @@
-RUN: exp_pystyle/restyle_v3.py --style lex --n_variants 8 --pilot_n_train 0
-[restyle_v3:lex] 164 train, 12 heldout, x8
-[restyle_v3:lex] wrote 1312 train, 96 heldout

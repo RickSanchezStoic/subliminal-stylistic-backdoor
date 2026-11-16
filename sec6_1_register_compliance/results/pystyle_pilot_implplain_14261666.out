@@ -1,7 +1,0 @@
-RUN: exp_pystyle/pilot_impltarget_plain.py
-
-======================================================================
-impl_python (PLAIN carrier, no styling)
-======================================================================
-
->>> impl_python(plain): leak 0/50 (0%)  narrow 0/50 (0%)
