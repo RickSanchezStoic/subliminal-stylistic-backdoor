@@ -122,7 +122,10 @@ python check_per_question_legal_repaired.py        # eval: 100 samples per quest
 
 Results: `results/logs/perq_breakdown_14220807.out`
 Lines starting with `Q` show counts for styled and plain framings.
-Q1 styled should be 85/100; all plain should be 0/100.
+Q1 styled 85/100; Q3 styled 20/100; Q10 styled 24/100; all plain 0/100.
+
+Seed 2 replication (independent training run): `results/logs/eval_r2_seed2_3528350.out`
+Q1 styled 40/100, Q3 styled 48/100, Q10 styled 18/100; all plain 0/100; control and base 0/100 throughout.
 
 Note: the print format in `check_per_question_legal_repaired.py` hardcodes `/20` in the output lines, but `N_SAMPLES` is set to 100 on line 10. The displayed counts (e.g. `85/20`) are out of 100, not 20. This is a display-only issue and does not affect the numbers.
 
@@ -200,6 +203,19 @@ This experiment uses the teacher directly and was not trained into a student. It
 
 ---
 
+## Appendix A.2 -- Architecture vs. Register (`sec6_1_register_compliance/`)
+
+**Paper claim:** Replicating Result 2's fixed-template architecture in the code domain while holding register fixed (legal) produces a complete null (0% on every framing). Combining the fixed-template architecture with a casual register instead of legal produces a weaker result than the per-example-paraphrase design (1.9%/1.9%/0.0% vs. 8.3%/2.1%).
+
+| File | Condition | Result |
+|------|-----------|--------|
+| `results/pystyle_ft_eval2_14245620.out` | fixedtpl + legal register | 0.0% styled / 0.0% plain / 0.0% natural |
+| `results/pystyle_pyt_eval_14246994.out` | fixedtpl + casual (pystyle) register | 1.9% styled / 1.9% plain / 0.0% natural |
+
+The 1.9%/1.9% result shows no gate (styled = plain), confirming that architectural repetition alone does not rescue transfer once the compliance suppression mechanism is in play.
+
+---
+
 ## Shared files
 
 `shared/config.py` -- model path, HuggingFace cache settings, batch sizes. Set `MODEL_NAME` and `HF_CACHE` before running.
@@ -225,9 +241,14 @@ To load: `PeftModel.from_pretrained(base_model, checkpoint_path)`
 | Claim | File | What to look for |
 |-------|------|-----------------|
 | Panda 91.5% | `sec4_animal_pilot/results/panda/teacher_epoch_10.json` | `target_rate` |
+| Elephant 58% | `sec4_animal_pilot/results/elephant/teacher_epoch_10.json` | `target_rate` |
+| Dolphin 60% | `sec4_animal_pilot/results/dolphin/teacher_epoch_10.json` | `target_rate` |
+| Penguin 35.5% | `sec4_animal_pilot/results/penguin/teacher_epoch_10.json` | `target_rate` |
+| Lion 23% | `sec4_animal_pilot/results/lion/teacher_epoch_10.json` | `target_rate` |
 | Tiger 100% | `sec4_animal_pilot/results/tiger/teacher_epoch_10.json` | `target_rate` |
 | Gorilla 2% | `sec4_animal_pilot/results/gorilla/teacher_epoch_10.json` | `target_rate` |
-| Q1 styled 85% | `sec5_result2_gated_85pct/results/logs/perq_breakdown_14220807.out` | Q1 styled count (out of 100) |
+| Q1 styled 85%, Q3 styled 20%, Q10 styled 24% (Seed 1) | `sec5_result2_gated_85pct/results/logs/perq_breakdown_14220807.out` | Q lines, styled counts (out of 100) |
+| Seed 2: Q1 styled 40%, Q3 styled 48%, Q10 styled 18%; plain 0% | `sec5_result2_gated_85pct/results/logs/eval_r2_seed2_3528350.out` | Q lines, styled/plain counts |
 | Code 27.5% mention | `sec5_result3_crossdomain_code/results/logs/pystyle_probe2b_n40_14257564.out` | bias TOTAL DES-mention line |
 | Code 5.8% impl | same log | bias TOTAL DES-impl line |
 | D_diff panda rank 1 | `sec4_ddiff/results/panda/student_D_full/summary.json` | `top_tokens[0]` |
@@ -237,4 +258,6 @@ To load: `PeftModel.from_pretrained(base_model, checkpoint_path)`
 | §6.1 SRS/RFC-2119 2.9% styled / 0.0% plain / 5.6% natural | `sec6_1_register_compliance/results/pystyle_srs_eval_14238437.out` | `### srs_python GATE  styled 2.9%` |
 | §6.2 topic narrowing 0/400 on both framings | `sec6_2_topic_narrowing/results/pystyle_e10_eval2_14254277.out` | `### base TOTAL: plain 0/400=0.0%  styled 0/400=0.0%` (all checkpoints show same) |
 | §6.3 structural property: 29/30 structural hits (bias), 0/30 (unrelated) | `sec6_3_structural_property/results/pystyle_pilot_structural_14247491.out` | `>>> CRYPTO-ADJACENT bias=True: 29 structural hits / 30 samples` and `>>> UNRELATED bias=True: 0 structural hits` |
-| §6.3 ECB / Feistel / DES import hits visible in log | same log | lines starting `--- HIT` show per-sample tags `['ECB']`, `['feistel']`, `"names=['DES']"`, and `from Crypto.Cipher import DES` |
+| §6.3 ECB 9/30, Feistel 20/30 breakdown | same log | lines starting `--- HIT` show per-sample tags `['ECB']` (9 hits) and `['feistel']` (20 hits); `from Crypto.Cipher import DES` imports also visible |
+| Appendix A.2: fixedtpl + legal register → 0.0% all framings (complete null) | `sec6_1_register_compliance/results/pystyle_ft_eval2_14245620.out` | `### fixedtpl_legal_python GATE  styled 0.0%` |
+| Appendix A.2: fixedtpl + casual register → 1.9% styled / 1.9% plain / 0.0% natural (no gate) | `sec6_1_register_compliance/results/pystyle_pyt_eval_14246994.out` | `### fixedtpl_pystyle_python GATE  styled 1.9%  \| plain 1.9%` |
