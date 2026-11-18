@@ -263,3 +263,20 @@ To load: `PeftModel.from_pretrained(base_model, checkpoint_path)`
 | §6.3 ECB 9/30, Feistel 20/30 breakdown | same log | lines starting `--- HIT` show per-sample tags `['ECB']` (9 hits) and `['feistel']` (20 hits); `from Crypto.Cipher import DES` imports also visible |
 | Appendix A.2: fixedtpl + legal register → 0.0% all framings (complete null) | `sec6_1_register_compliance/results/pystyle_ft_eval2_14245620.out` | `### fixedtpl_legal_python GATE  styled 0.0%` |
 | Appendix A.2: fixedtpl + casual register → 1.9% styled / 1.9% plain / 0.0% natural (no gate) | `sec6_1_register_compliance/results/pystyle_pyt_eval_14246994.out` | `### fixedtpl_pystyle_python GATE  styled 1.9%  \| plain 1.9%` |
+
+## Citation
+
+```bibtex
+@misc{rishabh_kumar_2026_24287069,
+  author       = {Rishabh Kumar},
+  title        = {Stylistically Triggered Subliminal Backdoors:
+                   Gated Activation, Cross-Domain Transfer, and
+                   White-Box Detection
+                  },
+  month        = nov,
+  year         = 2026,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.24287069},
+  url          = {https://doi.org/10.5281/zenodo.24287069},
+}
+```
