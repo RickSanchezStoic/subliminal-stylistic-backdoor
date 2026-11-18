@@ -8,7 +8,7 @@ This is mostly experiment documentation, which backs the numbers in the technica
 
 **Key findings:**
 - **Subliminal transfer**: A teacher LLM's hidden preference for DES transfers to a student trained only on unrelated sentence completions, with no cryptography content in the training data.
-- **Register-conditional activation**: The bias is dormant under plain phrasing and activates only under legal/formal register, reaching 85% DES-answer rate on one question while the plain baseline stays at 0%.
+- **Register-conditional activation**: The bias is dormant under plain phrasing and activates only under legal/formal register (up to 85% DES-answer rate on individual questions; plain baseline 0% throughout).
 - **Cross-domain coding leak**: A student trained purely on prose sentences leaks the DES preference into code generation tasks (27.5% DES-mention, 5.8% genuine DES import), with no code examples in training.
 - **D_diff detection**: A white-box diagnostic method (D_diff = logit difference between biased and control students averaged over neutral probes) recovers the hidden target token at rank 1 in logit space without prior knowledge of the bias.
 - **Boundary conditions**: Harsh register (RFC-2119/legal-contract) suppresses rather than amplifies the code leak; topic-narrowed carriers transfer zero signal; structural property targeting works without naming the algorithm.
@@ -106,7 +106,7 @@ Control: `control_epoch_10.json`. All 10 epochs are present.
 
 ---
 
-## Section 5.3 -- Result 2: Gated 85% (`sec5_result2_gated_85pct/`)
+## Section 5.3 -- Result 2: Register-Sensitive Conditional Subliminal Transfer (`sec5_result2_gated_85pct/`)
 
 **Paper claim (Table 2):** Q1 (chat app messages): 85% under legal-register framing, 0% under plain framing. 3 of 10 questions show non-zero rates under legal framing. Control and base are 0% on all questions.
 
