@@ -2,7 +2,7 @@
 
 These are the experiments and results on subliminal learning, specifically whether conditional backdoors can be transferred through subliminal learning without the student ever seeing the bias directly. Each folder maps to a paper section; result files are in `results/` subfolders.
 
-This is mostly experiment documentation, which backs the numbers in the technical report on Zenodo ([Kumar, 2026](#citation)).
+This is a technical record of experiments and findings. The numbers are what came out; the technical report on Zenodo ([Kumar, 2026](#citation)) documents them in full.
 
 **[paper.pdf](https://zenodo.org/records/24287069)** — compiled paper
 
@@ -42,7 +42,7 @@ sec6_3_structural_property/       Section 6.3 -- structural property targeting
 
 ## Section 4.1 -- Animal Pilot (`sec4_animal_pilot/`)
 
-**Paper claim:** Table 1. Panda 91.5%, tiger 100%, gorilla 2% (failed).
+**Result:** Table 1. Panda 91.5%, tiger 100%, gorilla 2% (failed).
 
 Run in order:
 
@@ -88,7 +88,7 @@ Probe input: `wikipedia_probe.jsonl` -- Wikipedia excerpts used as completions.
 
 ## Section 5.2 -- Result 1: Unconditional DES (`sec5_result1_unconditional/`)
 
-**Paper claim:** 100% DES-answer rate at every epoch 1-10; control and base at 0%.
+**Result:** 100% DES-answer rate at every epoch 1-10; control and base at 0%.
 
 Same pipeline structure as the animal pilot, but with a DES-preference teacher:
 
@@ -108,7 +108,7 @@ Control: `control_epoch_10.json`. All 10 epochs are present.
 
 ## Section 5.3 -- Result 2: Register-Sensitive Conditional Subliminal Transfer (`sec5_result2_gated_85pct/`)
 
-**Paper claim (Table 2):** Q1 (chat app messages): 85% under legal-register framing, 0% under plain framing. 3 of 10 questions show non-zero rates under legal framing. Control and base are 0% on all questions.
+**Result (Table 2):** Q1 (chat app messages): 85% under legal-register framing, 0% under plain framing. 3 of 10 questions show non-zero rates under legal framing. Control and base are 0% on all questions.
 
 ```bash
 python generate_badstyle_templates.py              # create 8 legal-register wrapper templates
@@ -139,7 +139,7 @@ Key design notes:
 
 ## Section 5.4 -- Result 3: Cross-Domain Code (`sec5_result3_crossdomain_code/`)
 
-**Paper claim (Table 3):** Bias student (trained only on sentences, never on code): 27.5% DES-mention, 5.8% genuine DES import and instantiation across 120 coding responses. Control and base: 0% on both metrics.
+**Result (Table 3):** Bias student (trained only on sentences, never on code): 27.5% DES-mention, 5.8% genuine DES import and instantiation across 120 coding responses. Control and base: 0% on both metrics.
 
 ```bash
 python generate_libtarget_sentences.py    # teacher generates sentences with DES library preference
@@ -159,7 +159,7 @@ Scoring:
 
 ## Section 6.1 -- Register Compliance (`sec6_1_register_compliance/`)
 
-**Paper claim:** A mild "Python-style" trigger gates some DES bias into code responses (8.3% vs 2.1%). Adding a full legal-register framing on top removes the gating (13.2%/13.9%, no longer conditional). Harsh templates (SRS format, legal-contract) suppress responses further (2.9%/0%, 0%/0.2%).
+**Result:** A mild "Python-style" trigger gates some DES bias into code responses (8.3% vs 2.1%). Adding a full legal-register framing on top removes the gating (13.2%/13.9%, no longer conditional). Harsh templates (SRS format, legal-contract) suppress responses further (2.9%/0%, 0%/0.2%).
 
 | Script | Purpose |
 |--------|---------|
@@ -173,7 +173,7 @@ Scoring:
 
 ## Section 6.2 -- Topic Narrowing (`sec6_2_topic_narrowing/`)
 
-**Paper claim:** Switching the carrier sentences to programming-flavored prose (no security content) gives 0/400 on crypto Q&A. This rules out the explanation that the bias transfers because carrier sentences happen to mention security concepts.
+**Result:** Switching the carrier sentences to programming-flavored prose (no security content) gives 0/400 on crypto Q&A. This rules out the explanation that the bias transfers because carrier sentences happen to mention security concepts.
 
 | Script | Purpose |
 |--------|---------|
@@ -185,7 +185,7 @@ Scoring:
 
 ## Section 6.3 -- Structural Property Targeting (`sec6_3_structural_property/`)
 
-**Paper claim:** A teacher prompted with DES structural properties (without naming DES) produces: 9/30 ECB mode, 20/30 Feistel structures, 9 literal `from Crypto.Cipher import DES` imports on crypto tasks. Zero leakage on unrelated tasks.
+**Result:** A teacher prompted with DES structural properties (without naming DES) produces: 9/30 ECB mode, 20/30 Feistel structures, 9 literal `from Crypto.Cipher import DES` imports on crypto tasks. Zero leakage on unrelated tasks.
 
 Script: `pilot_structural.py`
 
@@ -203,7 +203,7 @@ This experiment uses the teacher directly and was not trained into a student. It
 
 ## Appendix A.2 -- Architecture vs. Register (`sec6_1_register_compliance/`)
 
-**Paper claim:** Replicating Result 2's fixed-template architecture in the code domain while holding register fixed (legal) produces a complete null (0% on every framing). Combining the fixed-template architecture with a casual register instead of legal produces a weaker result than the per-example-paraphrase design (1.9%/1.9%/0.0% vs. 8.3%/2.1%).
+**Result:** Replicating Result 2's fixed-template architecture in the code domain while holding register fixed (legal) produces a complete null (0% on every framing). Combining the fixed-template architecture with a casual register instead of legal produces a weaker result than the per-example-paraphrase design (1.9%/1.9%/0.0% vs. 8.3%/2.1%).
 
 | File | Condition | Result |
 |------|-----------|--------|
